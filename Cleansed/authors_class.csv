@@ -1,0 +1,5842 @@
+author,class
+Suzanne Collins,0
+J.K. Rowling,1
+Mary GrandPre,1
+Stephenie Meyer,2
+Harper Lee,0
+F. Scott Fitzgerald,0
+John Green,1
+J.R.R. Tolkien,0
+J.D. Salinger,0
+Dan Brown,4
+Jane Austen,4
+Khaled Hosseini,1
+Veronica Roth,2
+George Orwell,1
+Erich Fromm,2
+Celal Uster,2
+Anne Frank,0
+Eleanor Roosevelt,0
+B.M. Mooyaart-Doubleday,0
+Stieg Larsson,0
+Reg Keeland,0
+Rufus Beck,0
+Alice Sebold,0
+William Golding,2
+William Shakespeare,3
+Robert           Jackson,2
+Gillian Flynn,4
+Kathryn Stockett,0
+John Steinbeck,0
+Arthur Golden,2
+E.L. James,2
+Paulo Coelho,1
+Alan R. Clarke,0
+Lois Lowry,0
+C.S. Lewis,1
+Audrey Niffenegger,0
+George R.R. Martin,1
+Elizabeth Gilbert,0
+Rick Riordan,2
+Louisa May Alcott,4
+Charlotte Bronte,0
+Michael Mason,0
+Nicholas Sparks,0
+Yann Martel,0
+Sara Gruen,0
+Markus Zusak,0
+Ray Bradbury,0
+Shel Silverstein,4
+Cassandra Clare,0
+Christopher Paolini,2
+Douglas Adams,0
+Aldous Huxley,2
+Sue Monk Kidd,0
+Mark Twain,4
+John Seelye,0
+Guy Cardwell,0
+E.B. White,0
+Garth Williams,0
+Rosemary Wells,0
+Mark Haddon,0
+Paula Hawkins,0
+Philip Pullman,0
+Emily Bronte,0
+Richard J. Dunn,0
+Jodi Picoult,1
+Kurt Vonnegut Jr.,0
+Margaret Mitchell,0
+Stephen Chbosky,0
+Orson Scott Card,1
+Mary Wollstonecraft Shelley,0
+Percy Bysshe Shelley,0
+Maurice Hindle,0
+Stephen King,1
+Helen Fielding,0
+Tony Tanner,0
+Ros Ballaster,0
+Louis Sachar,0
+Lauren Weisberger,2
+Homer,0
+Robert Fagles,0
+E.V. Rieu,0
+Frederic Mugler,0
+Bernard Knox,0
+Antoine de Saint-Exupery,0
+Richard Howard,0
+Dom Marcos Barbosa,0
+Melina Karakosta,0
+Jeannette Walls,0
+Jon Krakauer,0
+Charles Dickens,2
+Richard Maxwell,0
+Hablot Knight Browne,0
+Michael Crichton,0
+John Grisham,1
+Elie Wiesel,0
+Marion Wiesel,0
+William Goldman,0
+S.E. Hinton,1
+James Dashner,0
+Steven D. Levitt,0
+Stephen J. Dubner,0
+Frances Hodgson Burnett,2
+Gabriel Garcia Marquez,0
+Gregory Rabassa,0
+Oscar Wilde,0
+Jeffrey Eugenides,0
+Bram Stoker,0
+Nina Auerbach,0
+David J. Skal,0
+Barbara Kingsolver,0
+David Sedaris,0
+Maurice Sendak,0
+Alexandre Dumas,2
+Robin Buss,4
+Cormac McCarthy,4
+Tina Fey,2
+Sophie Kinsella,4
+Victor Hugo,0
+Lee Fahnestock,0
+Norman MacAfee,0
+Kim Edwards,0
+Jojo Moyes,2
+Joseph Heller,0
+Mitch Albom,0
+Saulius Dagys,0
+Madeleine L'Engle,4
+Amy Tan,0
+Margaret Atwood,4
+Ann Brashares,4
+Vladimir Nabokov,0
+Craig Raine,0
+Gregory Maguire,4
+Douglas Smith,4
+Emma Donoghue,0
+Richard Andrews,0
+Rex Gibson,0
+Frank Herbert,0
+Malcolm Gladwell,0
+Walter Isaacson,0
+Ken Kesey,0
+Ernest Hemingway,1
+L.M. Montgomery,0
+Rebecca Wells,0
+Diana Gabaldon,4
+Nathaniel Hawthorne,0
+Thomas E. Connolly,0
+Nina Baym,0
+Ransom Riggs,0
+Andy Weir,0
+Ken Follett,0
+Anthony Doerr,0
+Laura Hillenbrand,0
+Donna Tartt,0
+Jay Asher,0
+Tracy Chevalier,4
+Gayle Forman,2
+Anita Diamant,4
+Emily Giffin,4
+Dr. Seuss,1
+lAh nAvr,0
+Roald Dahl,0
+Quentin Blake,0
+Albert Camus,0
+Matthew    Ward,0
+Rainbow Rowell,0
+Ally Condie,0
+Neil Gaiman,1
+Bernie Wrightson,0
+Fiona Stafford,0
+Leo Tolstoy,0
+Louise Maude,0
+Leo Tolstoj,0
+Aylmer Maude,0
+Anthony Burgess,0
+William Paul Young,0
+Fyodor Dostoyevsky,4
+David McDuff,0
+Sylvia Plath,0
+Frank McCourt,0
+Hermann Hesse,0
+Hilda Rosner,0
+Truman Capote,0
+Kami Garcia,0
+Margaret Stohl,0
+Erin Morgenstern,0
+Philippa Gregory,4
+Scott Westerfeld,0
+Cheryl Strayed,0
+Alan Moore,2
+Dave Gibbons,0
+John Higgins,0
+Patrick Rothfuss,0
+Herman Melville,0
+Andrew Delbanco,0
+Tom Quirk,0
+Mary Ann Shaffer,0
+Annie Barrows,0
+Chuck Palahniuk,0
+Charlaine Harris,2
+Alice Walker,0
+John Grogan,0
+Agatha Christie,0
+Becca Fitzpatrick,0
+Jamie McGuire,0
+Anne Rice,3
+Kiera Cass,0
+Janet Evanovich,3
+Rebecca Skloot,0
+Thomas Harris,2
+Richelle Mead,1
+Ian McEwan,4
+Franz Kafka,0
+Stanley Corngold,0
+Ernest Cline,0
+Garth Stein,0
+Erik Larson,2
+Tony Goldwyn,0
+Sylvia Day,4
+Pauline Baynes,0
+Mark Cotta Vaz,0
+Dave Pelzer,0
+Robert Ludlum,0
+Eoin Colfer,0
+Lauren Kate,0
+Emma McLaughlin,0
+Nicola Kraus,0
+Lewis Carroll,2
+John Tenniel,0
+Martin Gardner,0
+James Kinsley,0
+Deidre Shauna Lynch,0
+Tatiana de Rosnay,0
+Edith Grossman,0
+Laurie Halse Anderson,0
+Liane Moriarty,0
+Augusten Burroughs,4
+Max Brooks,0
+James Patterson,3
+Katherine Paterson,0
+P.C. Cast,0
+Kristin Cast,0
+Stephen R. Covey,0
+Barbara A. Mowat,0
+Paul Werstine,0
+Catherine Belsey,0
+Jonathan Safran Foer,4
+R.J. Palacio,4
+Marissa Meyer,0
+Robert Galbraith,0
+Maggie Stiefvater,0
+Ayn Rand,4
+Leonard Peikoff,0
+Greg Mortenson,0
+David Oliver Relin,0
+Jane Carruth,0
+Rene Cloke,0
+Carlos Ruiz Zafon,2
+Lucia Graves,2
+Dale Carnegie,0
+Frances Mayes,0
+Gail Carson Levine,0
+Betty  Smith,0
+Kristin Hannah,0
+Kazuo Ishiguro,0
+Cecelia Ahern,0
+Daphne du Maurier,0
+Sally Beauman,0
+Daniel Keyes,0
+Laura Esquivel,0
+Thomas  Christensen,0
+Carol Christensen,0
+Lisa See,0
+Mario Puzo,4
+Robert Thompson,0
+Peter Bart,0
+Isaac Asimov,1
+John Tiffany,0
+Jack Thorne,0
+Lauren Oliver,4
+Terry Pratchett,2
+Jack Kerouac,0
+Graeme Simsion,0
+Tom Clancy,4
+Richard Adams,0
+Mindy Kaling,0
+Abraham Verghese,0
+Robert Louis Stevenson,0
+Eric Carle,0
+H.G. Wells,0
+Greg Bear,0
+Carlo Pagetti,0
+Todd Burpo,0
+Lynn Vincent,0
+John Boyne,0
+Joseph Conrad,0
+Rhonda Byrne,0
+Wally Lamb,4
+Jennifer Weiner,0
+Colleen McCullough,0
+Dave McKean,0
+M.L. Stedman,0
+Cornelia Funke,0
+Anthea Bell,4
+Spencer Johnson,0
+Kenneth H. Blanchard,0
+Bill Bryson,4
+Maya Angelou,0
+Christina Baker Kline,0
+Maria Semple,0
+Wilson Rawls,0
+Milan Kundera,0
+Michael Henry Heim,0
+John Irving,0
+Janet Fitch,0
+Marie Lu,1
+Randy Pausch,0
+Jeffrey Zaslow,0
+Robert Jordan,1
+Lisa Genova,0
+David Nicholls,0
+Margaret Wise Brown,0
+Clement Hurd,0
+Pittacus Lore,0
+L. Frank Baum,1
+W.W. Denslow,0
+E. Lockhart,0
+Hunter S. Thompson,2
+Ralph Steadman,2
+Amy Poehler,0
+Toni Morrison,0
+Kristin Cashore,4
+Lemony Snicket,0
+Brett Helquist,0
+Erich Maria Remarque,2
+A.W. Wheen,2
+Philip K. Dick,1
+Roger Zelazny,2
+George Cruikshank,0
+Philip Horne,0
+Stephanie Perkins,0
+David   Lloyd,2
+David McCullough,4
+Dean Koontz,3
+Jerry Spinelli,0
+Robert A. Heinlein,0
+Jack London,0
+Jhumpa Lahiri,1
+Deborah Harkness,0
+Haruki Murakami,0
+Jay Rubin,0
+Billie Letts,0
+David Levithan,0
+James Frey,0
+Susan Cain,0
+Scott O'Dell,0
+Arthur Miller,0
+Christopher Bigsby,0
+Gary Paulsen,0
+Brandon Sanderson,1
+Mervyn Peake,0
+Dan Chaon,0
+Jeff Kinney,2
+Sarah J. Maas,0
+Jamie Ford,0
+Patrick Suskind,0
+John E. Woods,0
+Eric Schlosser,0
+William Gibson,1
+Edgar Allan Poe,0
+Sun Tzu,0
+Thomas Cleary,0
+William Landay,0
+Betty Edwards,0
+Ann Patchett,0
+Jared Diamond,0
+Fannie Flagg,4
+Chinua Achebe,0
+Gary Chapman,0
+Chris Cleave,0
+Alyson Noel,3
+Diane Setterfield,0
+Paula McLain,0
+Umberto Eco,4
+William Weaver,4
+Sean Barrett,4
+Beatrice Sparks,0
+Anonymous,0
+John Kennedy Toole,0
+Walker Percy,0
+Philip Gabriel,0
+J.R. Ward,4
+Arundhati Roy,0
+Stephen Hawking,0
+Cao Chi,0
+Pham Van Thieu,0
+Neal Stephenson,2
+Sarah Dessen,1
+A.A. Milne,0
+Ernest H. Shepard,0
+S.J. Watson,0
+Arthur Conan Doyle,2
+Rick Warren,0
+Jim Butcher,4
+Alfred MacAdam,0
+Rick Yancey,0
+Charles Frazier,0
+Laura Joffe Numeroff,0
+Felicia Bond,0
+Tennessee Williams,0
+Elizabeth Kostova,2
+Emily St. John Mandel,0
+Fredrik Backman,0
+Henning Koch,0
+Pearl S. Buck,0
+John Berger,0
+Chuck Dixon,0
+David Wenzel,0
+Sean Deming,0
+Junot Diaz,0
+Zora Neale Hurston,0
+Newt Scamander,0
+Albus Dumbledore,0
+Malala Yousafzai,0
+Christina Lamb,0
+Kathryn Sutherland,0
+Claire Lamont,0
+Viktor E. Frankl,0
+Tana French,2
+Richard Dawkins,0
+Lee Child,1
+Daniel Defoe,0
+Gerald McCann,0
+Virginia Woolf,0
+Niccolo Machiavelli,0
+Adolph Caso,0
+Rufus Goodwin,0
+Benjamin Martinez,0
+Terry Goodkind,1
+Kathleen Grissom,0
+Richard Pevear,0
+Larissa Volokhonsky,0
+Jeanne DuPrau,2
+Kahlil Gibran,0
+Art Spiegelman,0
+Dave Eggers,0
+Jean M. Auel,4
+Anna Sewell,0
+Henry Gifford,0
+Bret Easton Ellis,4
+Meg Cabot,0
+Alexander McCall Smith,1
+Robert Kirkman,1
+Tony Moore,0
+Arthur C. Clarke,0
+Francine Rivers,4
+Tim LaHaye,4
+Jerry B. Jenkins,4
+Barbara Ehrenreich,0
+Patricia Cornwell,1
+Corrie ten Boom,0
+John Sherrill,0
+Elizabeth Sherrill,0
+Pat Conroy,4
+Michael Chabon,0
+Simone Elkeles,0
+J.M. Barrie,0
+Michael Hague,0
+Michael Connelly,1
+David Mitchell,0
+Tim O'Brien,0
+Banksy,0
+Jeff Lindsay,0
+Jonathan Swift,0
+Robert DeMaria Jr.,0
+Gail Kern Paster,0
+Robert          Jackson,0
+Unknown,0
+Seamus Heaney,0
+Frank Miller,0
+David Mazzucchelli,0
+Richmond Lewis,0
+Dennis O'Neil,0
+Laini Taylor,0
+Victoria Aveyard,0
+Charles Duhigg,0
+John Berendt,0
+Colleen Hoover,4
+Nancy Bond,0
+Laura Ingalls Wilder,0
+Margery Williams Bianco,0
+William   Nicholson,0
+Robert M. Pirsig,0
+Sara Shepard,4
+Don Freeman,0
+Michael Pollan,0
+Kate Atkinson,0
+Kenneth Branagh,0
+Thomas Hardy,0
+Tim Dolin,0
+Margaret R. Higonnet,0
+Gustave Flaubert,0
+Margaret Mauldon,0
+Malcolm Bowie,0
+Mark Overstall,0
+Norton Juster,0
+Jules Feiffer,0
+Ned Vizzini,0
+Vanessa Diffenbaugh,0
+Klaus Janson,0
+Lynn Varley,0
+Nick Hornby,0
+John Gray,0
+Anthony Bourdain,0
+Voltaire,0
+Natalie Babbitt,0
+Marie Milpois,0
+P.D. Eastman,4
+E.H. Gombrich,0
+Robert T. Kiyosaki,0
+Lev Grossman,0
+Tsugumi Ohba,0
+Takeshi Obata,0
+Libba Bray,4
+Tammara Webber,2
+Jeremy Tambling,0
+Sherman Alexie,0
+Ellen Forney,0
+Mikhail Bulgakov,0
+Katherine Tiernan O'Connor,0
+Diana Burgin,0
+Ellendea Proffer,0
+Ursula K. Le Guin,2
+Kate DiCamillo,0
+Chris Sheban,0
+John Knowles,0
+Miguel de Cervantes Saavedra,0
+Roberto Gonzalez Echevarria,0
+John Rutherford,0
+Robin Hobb,2
+Beatrix Potter,0
+Susanna Kaysen,0
+Chelsea Handler,4
+Richard Bach,0
+Russell Munson,0
+Robert Munsch,0
+Sheila McGraw,0
+Daniel James Brown,0
+Christopher Tolkien,0
+Ted Nasmith,0
+Kate Morton,0
+Edwin Muir,0
+Willa Muir,0
+Max Brod,0
+Piper Kerman,0
+Anne Perry,0
+Daniel Kahneman,0
+Marion Zimmer Bradley,0
+Judy Blume,2
+Chris Bohjalian,0
+Chris Van Allsburg,0
+Jon Scieszka,0
+Lane Smith,0
+Margaret Jull Costa,1
+Sheryl Sandberg,0
+Nell Scovell,0
+Tahereh Mafi,0
+Jostein Gaarder,0
+Paulette Moller,0
+Jennifer Egan,0
+Johanna Spyri,0
+Angelo  Rinaldi,0
+Beverly Cleary,4
+Alex Flinn,0
+Geoffrey Chaucer,0
+Nevill Coghill,0
+Harriet Beecher Stowe,0
+Gaston Leroux,0
+Alexander Teixeira de Mattos,0
+Jose Saramago,0
+Giovanni Pontiero,0
+Jonathan Franzen,0
+Ally Carter,1
+Aravind Adiga,0
+Barack Obama,0
+Judith Viorst,0
+Ray Cruz,0
+Howard Zinn,0
+Justin Cronin,4
+Celeste Ng,0
+Isabel Allende,4
+Magda Bogin,0
+Rozita Sokou,0
+Chimamanda Ngozi Adichie,0
+Christopher McDougall,0
+Gabrielle Zevin,0
+Ludwig Bemelmans,0
+Napoleon Hill,0
+Susanna Clarke,0
+Michael  Grant,0
+Jess Walter,0
+Matthew Quick,4
+Jules Verne,4
+Anthony Bonner,0
+Maureen Howard,0
+Jonas Jonasson,0
+Rod Bradbury,0
+Richard Bachman,0
+Michael Glencross,4
+Brian W. Aldiss,4
+Sharon Creech,0
+Julie Powell,0
+Neal Shusterman,0
+Kate Egan,0
+William Faulkner,4
+Eckhart Tolle,0
+Tite Kubo,0
+Allie Brosh,0
+Gregory David Roberts,0
+Ned Dameron,0
+Jeffery Deaver,0
+Bernhard Schlink,0
+Carol Brown Janeway,0
+Bill Martin Jr.,0
+Dan Simmons,0
+William Peter Blatty,0
+David Guterson,0
+Alex Haley,0
+Brian Bolland,0
+Tim Sale,0
+Ralph Ellison,0
+Ishmael Beah,0
+Robert C. O'Brien,0
+Melissa Bank,0
+Hugh Howey,1
+Christopher Moore,2
+Jenny  Lawson,0
+Scott Lynch,0
+Garth Nix,0
+Jennifer L. Armentrout,1
+Bryan Lee O'Malley,4
+Julie Kagawa,0
+Larry McMurtry,0
+Mary Roach,0
+Thomas Keneally,0
+Malcolm X,0
+Sam Kieth,0
+Mike Dringenberg,0
+Malcolm Jones III,0
+Todd Klein,0
+Karen  Berger,0
+Dennis Lehane,2
+Roma Gill,0
+Plato,0
+Desmond Lee,0
+Patti Smith,0
+Phaidon Press,0
+Jane Green,0
+Walter J. Cobb,0
+Rohinton Mistry,0
+Bill Watterson,4
+G.B. Trudeau,0
+Kate Chopin,0
+Justin Halpern,0
+Irvine Welsh,0
+Eric Lindor Fall,0
+Miguel Ruiz,0
+Jacob Grimm,0
+Wilhelm Grimm,0
+Josef Scharl,0
+Padraic Colum,0
+Joseph Campbell,0
+Margaret Raine Hunt,0
+James Stern,0
+E.L. Konigsburg,0
+Samantha Young,0
+Francis Chan,0
+Danae Yankoski,0
+Chris Tomlin,0
+Helen Keller,0
+Jonathan Tropper,4
+Seth Grahame-Smith,0
+Natsuki Takaya,0
+Alethea Nibley,0
+Athena Nibley,0
+Brian Selznick,0
+Christopher Hitchens,4
+Bisco Hatori,0
+Mary Kubica,0
+Abbi Glines,1
+Hilary Mantel,1
+Diana Wynne Jones,0
+William Olivier Desmond,0
+Henry David Thoreau,0
+Julian Barnes,2
+Sue Grafton,1
+Sophocles,1
+J.E. Thomas,0
+Kenneth Grahame,0
+Gillian Avery,0
+Jenny Han,4
+Marjane Satrapi,0
+Mattias Ripa,0
+E.M. Forster,0
+Kody Keplinger,3
+J.D. Robb,3
+Masashi Kishimoto,0
+Katy Bridges,0
+Rachel Joyce,0
+James Clavell,0
+John Archambault,0
+Lois Ehlert,0
+Raina Telgemeier,0
+Jacquelyn Mitchard,0
+Louise Rennison,0
+Robin Sloan,0
+V.C. Andrews,4
+Paul Kalanithi,0
+Ellen Raskin,0
+Pierce Brown,0
+Brent Weeks,0
+Sam McBratney,0
+Anita Jeram,0
+John D. MacDonald,4
+Peter Benchley,0
+Nicole Krauss,0
+Astrid Lindgren,2
+Lauren Child,0
+Florence Lamborn,0
+Nancy Seligsohn,0
+Muriel Barbery,0
+Alison Anderson,0
+Doris Kearns Goodwin,4
+Suzanne Toren,4
+Stuart Gilbert,0
+Susannah Cahalan,0
+Melissa Marr,0
+H.A. Rey,0
+Michael Ende,0
+Ralph Manheim,0
+Roswitha Quadflieg,0
+Sylvia Nasar,0
+Upton Sinclair,0
+Earl Lee,0
+Kathleen DeGrave,0
+Kelley Armstrong,0
+Oliver Sacks,0
+Andre Dubus III,0
+M.R. Carey,0
+Crockett Johnson,2
+Hiromu Arakawa,0
+Akira Watanabe,0
+Joan Didion,0
+Lionel Shriver,0
+Edith Wharton,0
+Geraldine Brooks,2
+Sylvain Reynard,0
+Judi Barrett,0
+Ron Barrett,0
+Helen Simonson,0
+Nora Roberts,1
+John Scalzi,0
+Irma S. Rombauer,0
+Marion Rombauer Becker,0
+Ethan Becker,0
+Joe Haldeman,0
+Bettina Blanch Tyroller,0
+Azar Nafisi,0
+Joe Abercrombie,0
+Annie Proulx,0
+Marie Kondo,1
+Cathy Hirano,0
+Jennifer Niven,0
+frnkh m`nwy,0
+Kathy Reichs,4
+Michael Scott,0
+Margaret Sayers Peden,4
+Jessica Knoll,0
+Ellen Hopkins,4
+Richard Matheson,0
+Elizabeth Strout,2
+Lena Dunham,0
+Joana Avillez,0
+James C. Collins,0
+Samuel Beckett,0
+J.A. Redmerski,0
+Kimberly McCreight,0
+Michael Cunningham,0
+Alice Clayton,0
+Susan Ee,0
+Richard Russo,0
+Jandy Nelson,0
+Catherine Hardwicke,0
+Richard Feynman,0
+James Joyce,0
+Seamus Deane,0
+George Eliot,0
+Michel Faber,0
+S.C. Stephens,0
+Scott Turow,0
+Stacy Schiff,1
+Thomas L. Friedman,0
+Marcus Pfister,0
+J. Alison James,0
+Gretchen Rubin,0
+Vincent Bugliosi,0
+Curt Gentry,0
+Robert Kapilow,4
+Dante Alighieri,4
+Anthony M. Esolen,0
+Patricia Briggs,2
+Melissa de la Cruz,2
+Caleb Carr,0
+Ta-Nehisi Coates,0
+John Milton,0
+John      Leonard,0
+Michael   Lewis,0
+Patrick Ness,0
+Jim Kay,0
+Siobhan Dowd,0
+Frederick Forsyth,2
+Jason Fried,0
+David Heinemeier Hansson,0
+Ilyana Kadushin,0
+Matt Walters,0
+Carol Rifka Brunt,0
+James Herriot,0
+Michelle Hodkin,4
+Emmuska Orczy,0
+Jon Stone,4
+Michael J. Smollin,4
+Leigh Bardugo,0
+Herman Koch,0
+Sam Garrett,0
+Carl Sagan,0
+Zadie Smith,2
+Chris Kyle,0
+Scott McEwen,0
+Jim DeFelice,0
+Meg Wolitzer,0
+Better Homes and Gardens,0
+Basil Creighton,0
+Tess Gerritsen,1
+Timothy Basil Ering,0
+Steven L. Hopp,0
+Camille Kingsolver,0
+Richard A. Houser,0
+Alan Bradley,2
+Donald Miller,0
+Brian K. Vaughan,2
+Fiona Staples,2
+Chad Harbach,0
+Brandon Mull,2
+Mildred D. Taylor,0
+Constance Garnett,0
+Alan Myers,0
+Joseph Frank,0
+Anna Brailovsky,0
+Aziz Ansari,0
+Eric Klinenberg,0
+Katherine Applegate,0
+Patricia Castelao,0
+Sebastian Junger,0
+Jim Fergus,0
+Darrel Anderson,0
+Salman Rushdie,0
+Margaret Peterson Haddix,0
+Elizabeth George Speare,2
+Wilkie Collins,0
+Matthew Sweet,0
+James McBride,0
+Karen Marie Moning,0
+William Makepeace Thackeray,0
+John Carey,0
+Dominique Dill,0
+Cynthia D'Aprix Sweeney,0
+Bill Willingham,0
+Lan Medina,0
+Steve Leialoha,0
+Craig Hamilton,0
+James Jean,0
+David    Allen,1
+James Redfield,0
+Huntley Fitzpatrick,2
+Chetan Bhagat,0
+Laurell K. Hamilton,2
+Rosemarie Morgan,0
+Shannon Russell,0
+Mark Z. Danielewski,0
+Willa Cather,0
+Susan Beth Pfeffer,2
+Jon Stewart,0
+Ben Karlin,0
+David Javerbaum,0
+Rich Bloomquist,0
+Steve Bodow,0
+Tim Carvell,0
+Eric Drysdale,0
+J.R. Havlan,0
+Scott Jacobson,0
+Tom Johnson,0
+Rob Kutner,0
+Chris Regan,0
+Jason Reich,0
+Jason Ross,0
+Stephen Colbert,0
+Samantha Bee,0
+Rob Corddry,0
+Brendan Hay,0
+Ed Helms,0
+Don Piper,4
+Cecil Murphey,4
+Lao Tzu,0
+Gia-Fu Feng,0
+Jane English,0
+Chungliang Al Huang,0
+Rowena Pattee Kryder,0
+Toinette Lippe,0
+Jeffrey Archer,0
+Hans Christian Andersen,0
+Lily Owens,0
+Arthur Rackham,0
+Hans Richter,0
+Friedrich Nietzsche,0
+Walter Kaufmann,0
+Elizabeth Gaskell,0
+Alan Shelston,0
+Jaycee Dugard,0
+Amish Tripathi,0
+Aesop,0
+Laura Harris,0
+Laura Gibbs,0
+Matsuri Hino,0
+Tomo Kimura,0
+Anne McCaffrey,4
+Teodor Panasinski,0
+John D. Rateliff,0
+Joanne Harris,0
+Jay Anson,0
+Michael Ondaatje,2
+Jeri Johnson,0
+Colum McCann,0
+Harlan Coben,4
+Rachel Hawkins,0
+Austin Kleon,0
+Christina Lauren,2
+Joyce Carol Oates,0
+Scott McCloud,0
+Jon Ronson,1
+David Baldacci,4
+Jonathan Stroud,1
+Richard Dahm,0
+Paul Dinello,0
+Allison Silverman,0
+Michael Brumm,0
+Eric Drydale,0
+Rob Dubbin,0
+Glenn Eichler,0
+Peter Grosz,0
+Peter Gwinn,0
+Jay Katsir,0
+Laura Krafft,0
+Frank Lesser,0
+Tom Purcell,0
+Leon Uris,0
+Ursula Hegi,0
+Raymond Chandler,4
+Ellen DeGeneres,0
+Eowyn Ivey,0
+J. Lynn,2
+Allen Mandelbaum,0
+Eugenio Montale,0
+Benjamin Hoff,0
+Sarah Dunant,0
+David Lagercrantz,0
+George Goulding,0
+Emma Cline,0
+Shannon Hale,0
+Isaac Marion,0
+Everett H. Emerson,0
+Elif Shafak,0
+lyf shfq,0
+rsln fSyHy,0
+mHmd drwysh,0
+Hajime Isayama,0
+Sheldon Drzka,0
+Olive Ann Burns,0
+Elena Ferrante,0
+Ann Goldstein,0
+Timothy Ferriss,0
+Robin S. Sharma,0
+Amor Towles,0
+Larry Niven,2
+Ruta Sepetys,0
+Andrew Clements,0
+Louise Erdrich,0
+Hanya Yanagihara,0
+Pia Guerra,4
+Jose Marzan Jr.,4
+Anne Tyler,1
+Jennifer Bassett,4
+Benjamin Alire Saenz,0
+Alfred Birnbaum,0
+Johann David Wyss,0
+Scott McKowen,0
+Arthur Pober,0
+Jennifer Probst,0
+Watty Piper,0
+Doris Hauman,0
+George Hauman,0
+Karen Joy Fowler,0
+Alan Brennert,0
+Frank E. Peretti,0
+Jessica Sorensen,4
+Lauren Groff,0
+Brian Greene,0
+Janell Cannon,0
+Nancy Horan,0
+Lorelei King,1
+Flora Rheta Schreiber,0
+Rosamunde Pilcher,0
+Ronald Holt,0
+Bill O'Reilly,2
+Martin Dugard,2
+John Flanagan,0
+Ira Levin,0
+Peter Straub,0
+Katherine Boo,0
+P.L. Travers,0
+Mary Shepard,0
+Sandra Cisneros,0
+David Benioff,0
+Jeaniene Frost,4
+Peter de Jonge,0
+James S.A. Corey,0
+Ezra Jack Keats,0
+Richard   Preston,0
+Lynne Truss,0
+Kim Harrison,0
+Clement C. Moore,2
+Jan Brett,1
+Cynthia Hand,0
+Lee Strobel,0
+Carl Hiaasen,4
+Virgil,0
+Robert Fitzgerald,1
+Daniel Quinn,0
+Katie McGarry,0
+Kennilworthy Whisp,0
+Harry Allard,0
+James  Marshall,0
+Jerry N. Uelsmann,0
+Trenton Lee Stewart,0
+Carson Ellis,0
+Jennifer E. Smith,0
+Tom Robbins,0
+Jenna Blum,0
+Beth Revis,0
+M. Scott Peck,0
+Gertrude Chandler Warner,4
+L. Kate Deal,4
+A.S.A. Harrison,0
+Caitlin Moran,0
+Keith Richards,0
+Anita Shreve,0
+Don DeLillo,0
+Stephen E. Ambrose,0
+Charles Darwin,0
+Craig Thompson,2
+David Wroblewski,0
+Christina Schwarz,0
+Charles Bukowski,0
+Kyle Freeman,0
+Eiichiro Oda,0
+Andy Nakatani,0
+Peter S. Beagle,0
+Angie Sage,0
+Rudyard Kipling,0
+Terry Hayes,0
+Allen Ginsberg,0
+William Carlos Williams,0
+Richard Carlson,0
+Adam Mansbach,0
+Ricardo Cortes,0
+Tea Obreht,0
+Maria V. Snyder,0
+Joseph Smith Jr.,0
+Karin Slaughter,1
+Yana Toboso,0
+Robert Mighall,0
+Emily Seife,0
+Peter V. Brett,0
+John Bunyan,0
+Andrew R. MacAndrew,0
+Ben Marcus,0
+Carson McCullers,0
+T.H. White,0
+Christopher Paul Curtis,0
+Alison Bechdel,4
+Dan Ariely,4
+'Hmd mrd,0
+Lynne Reid Banks,0
+Jesse Andrews,0
+Simon Winchester,0
+Andrew Gross,0
+Jasper Fforde,2
+Faye Perozich,0
+John Bolton,0
+Daerick Gross,0
+Adam McCauley,0
+Dalai Lama XIV,0
+Howard C. Cutler,0
+Anna Quindlen,0
+L.J. Smith,1
+Kevin Williamson,0
+Julie Plec,0
+Chuck Klosterman,4
+Evelyn Waugh,4
+Jessie Burton,0
+Margaret Weis,0
+Tracy Hickman,0
+Julia Cameron,0
+Joe Hill,2
+Robert K. Massie,0
+Marcus Luttrell,0
+Patrick Robinson,0
+Richard Wright,0
+Veronica Rossi,0
+Eric Ries,0
+David Eddings,3
+Roberto Aguirre-Sacasa,0
+Mike Perkins,0
+Laura       Martin,0
+William L. Shirer,4
+Jeff Smith,0
+Steve Hamaker,0
+Paz Pruneda,0
+Brian Jacques,1
+Karl Marx,0
+Friedrich Engels,0
+Gareth Stedman Jones,0
+Ruth Ware,0
+James Fenimore Cooper,0
+William Styron,0
+Bruce H. Wilkinson,0
+Karen Thompson Walker,0
+Julia Child,0
+Alex Prud'Homme,0
+Wendelin Van Draanen,0
+Travis Bradberry,0
+Jean Greaves,0
+Patrick Lencioni,0
+Robert McCloskey,0
+Douglas Preston,1
+Lincoln Child,1
+Nicola Yoon,4
+David Yoon,0
+George Bernard Shaw,0
+Louis de Bernieres,0
+Adam Johnson,0
+Blake Ferris,0
+Anjali Singh,0
+Chaim Potok,0
+Irving Stone,0
+SHmvAl SHnyTSr,0
+Peggy Parish,0
+Fritz Siebel,0
+Jodi Ellen Malpas,0
+W. Bruce Cameron,0
+Sabaa Tahir,0
+Helene Wecker,0
+'Hlm mstGnmy,1
+Ahlam Mosteghanemi,1
+Nicola Bradbury,0
+Esphyr Slobodkina,0
+Tamora Pierce,1
+James Ellroy,0
+Peter Glassman,0
+Jung Chang,0
+Guillermo del Toro,0
+Chuck Hogan,0
+Emily Dickinson,0
+Thomas H. Johnson,0
+Fred Gipson,0
+Steve Martin,0
+Frank Warren,0
+Mary Norton,0
+Beth Krush,0
+Joe Krush,0
+Alexandra Bracken,0
+Norman Vincent Peale,0
+Nina Bawden,0
+Hiro Mashima,0
+William Flanagan,0
+Nate  Taylor,0
+Solomon Northup,0
+Nathaniel Philbrick,0
+Ayaan Hirsi Ali,0
+Nassim Nicholas Taleb,0
+Aleksandr Solzhenitsyn,0
+H.T. Willetts,0
+Walter M. Miller Jr.,0
+Colm Toibin,4
+Lauren DeStefano,0
+J.D. Vance,4
+Stephen Crane,0
+Randall Munroe,0
+Steven Erikson,2
+Colson Whitehead,0
+Cora Carmack,0
+J.M. Coetzee,4
+Arnold Lobel,0
+B.A. Paris,0
+Michael Shaara,0
+Sharon M. Draper,0
+Amanda Hocking,0
+Boris Pasternak,0
+Max Hayward,0
+Manya Harari,0
+John Bayley,0
+Blake Crouch,0
+P.D. James,0
+Jane Hamilton,0
+Frank  Muller,0
+C.J. Critt,0
+O. Henry,0
+Lisbeth Zwerger,0
+Tom Wolfe,0
+William S. Burroughs,0
+James Grauerholz,0
+Barry  Miles,0
+Kelley Jones,0
+Charles Vess,0
+Colleen Doran,0
+Steve Erickson,0
+Lech Jeczmyk,0
+Maureen Johnson,0
+Lauren Myracle,0
+Atul Gawande,0
+Henrik Ibsen,0
+Michael   Meyer,0
+James A. Michener,0
+Richard Yates,0
+Rachel Cohn,0
+Tom Stoppard,0
+Henry Popkin,0
+Alex Garland,0
+Beth Hoffman,0
+Jenna Lamia,0
+Raymond E. Feist,1
+Jennifer Crusie,4
+Nelson Mandela,0
+Bryce Courtenay,0
+Dashiell Hammett,2
+Daniel Goleman,0
+Munro Leaf,0
+Robert Lawson,0
+Walter Scott,0
+Kiersten White,0
+Adriana Trigiani,1
+MacLeod Andrews,0
+Andre Agassi,0
+J.R. Moehringer,0
+Anthony Horowitz,0
+Dick Hill,2
+Richard Ferrone,4
+Daniel H. Pink,0
+Jeph Loeb,0
+Gregory Wright,0
+Richard Starkings,0
+Jean-Paul Sartre,2
+Lloyd Alexander,2
+Hayden Carruth,2
+John Eldredge,1
+Peter Ackroyd,0
+Ed Glinert,0
+Doreen Cronin,4
+Betsy Lewin,4
+Kendare Blake,0
+Avi,0
+Robert Goolrick,0
+Leif Enger,0
+Janette Sebring Lowrey,0
+Gustaf Tenggren,0
+Maeve Binchy,0
+Kate Jacobs,0
+David Foster Wallace,0
+Emma Chase,0
+John Wyndham,0
+Patrick deWitt,0
+Marcelo Barbao,0
+Shilpi Somaya Gowda,0
+Montserrat Mira,0
+Katherine Duncan-Jones,0
+Ron Hall,0
+Denver Moore,0
+Tracy Kidder,0
+Mark  Lawrence,2
+Nancy Farmer,4
+Walt Whitman,0
+D.H. Lawrence,0
+Doris Lessing,0
+Chester Brown,0
+George S. Clason,0
+Leigh Eddings,0
+Goran Skrobonja,0
+Sarah Addison Allen,0
+Frederick Douglass,0
+Greg Behrendt,0
+Liz Tuccillo,0
+Alev Lytle Croutier,0
+Rachel Caine,0
+Stasi Eldredge,0
+Peter David,0
+Robin Furth,0
+Jae Lee,0
+Richard Isanove,1
+Ruth Ozeki,0
+Tucker Max,0
+Jay Crownover,0
+Charlotte Connan de vries,0
+Robert B. Cialdini,0
+Stephen Marlowe,0
+Louise Fitzhugh,0
+Sarah Waters,0
+Marian Keyes,2
+Louise Penny,0
+John Ajvide Lindqvist,2
+Benjamin F. Fisher,0
+Morgan Matson,0
+Oswald Chambers,0
+Andrea Cremer,0
+Naomi Novik,0
+Alfred Lansing,0
+Rebecca Stead,0
+Phyllis Reynolds Naylor,0
+Jo Nesbo,2
+Don Bartlett,2
+Stephen Kendrick,0
+Alex Kendrick,0
+Ben Sherwood,0
+Rebecca Donovan,0
+Sidney Sheldon,4
+M.C. Escher,0
+Bruce Brooks Pfeiffer,0
+Donna Woolfolk Cross,0
+Sebastian Faulks,0
+Joshua Foer,0
+Sue Miller,0
+Maxine Paetro,4
+Norman Bridwell,0
+Katy Evans,0
+Anne Bronte,0
+Stevie Davies,0
+Walter Farley,0
+Keith Ward,0
+Tomie dePaola,0
+R.L. Mathewson,4
+David Bayles,0
+Ted Orland,0
+Hayden Herrera,0
+C.C. Hunter,0
+Mo Willems,0
+Henry James,0
+Patricia Crick,0
+Gustave Dore,0
+Charlotte Perkins Gilman,0
+Noah Hawley,0
+mHmd Sdq,0
+B.A. Shapiro,0
+Marilynne Robinson,0
+Thomas Pynchon,4
+David Alabort,0
+Manuel Espin,0
+Terry Brooks,4
+Ann-Marie MacDonald,0
+Tracey Garvis-Graves,0
+Miep Gies,0
+Alison Leslie Gold,0
+Clive Cussler,0
+Michael Bond,0
+Peggy Fortnum,0
+Nelson DeMille,0
+Rumiko Takahashi,0
+David Seltzer,0
+Tom Rob Smith,0
+Nancy E. Turner,0
+Amanda Hopkinson,0
+Nick Caistor,0
+Audrey Penn,0
+Ruth E. Harper,0
+Nancy M. Leak,0
+John Elder Robison,0
+Sherrilyn Kenyon,4
+Gabrielle Charbonnet,0
+Curtis Sittenfeld,0
+Anthony Kiedis,0
+Larry Sloman,0
+Brigitte Walitzek,4
+Gail Carriger,1
+Lisa McMann,0
+Siddhartha Mukherjee,0
+Deepak Chopra,0
+Anne Lamott,0
+Kerstin Gier,0
+Timothy Zahn,0
+Robin Cook,0
+Louise L. Hay,0
+Emma Straub,0
+Oliver Potzsch,0
+Lee Chadeayne,0
+Patricia C. Wrede,2
+Peter de Seve,2
+John Sandford,2
+Tami Hoag,4
+Melanie Benjamin,0
+David Shannon,2
+William Strunk Jr.,0
+R.A. Salvatore,4
+Jerry Pournelle,2
+John  Williams,0
+John McGahern,0
+David Cote,0
+Stephen Schwartz,0
+Joan Marcus,0
+Winnie Holzman,0
+Garth Ennis,4
+Steve Dillon,4
+Joe R. Lansdale,0
+Edmond Rostand,0
+Eteel Lawson,0
+Lowell Bair,0
+Anne Fadiman,0
+J. Kenner,0
+Steve Parkhouse,0
+Chris Bachalo,0
+Michael Zulli,0
+Clive Barker,0
+Eleanor H. Porter,0
+J.H. Williams III,0
+Dave Stewart,2
+Anthony  Ryan,0
+Howard Pyle,0
+Lawrence Hill,0
+Richard Francis Burton,0
+A.S. Byatt,0
+Lily King,0
+Louis Darling,0
+Tracy Dockray,0
+Carrie Ryan,0
+Eleanor Catton,0
+Chip Heath,0
+Dan Heath,0
+Piers Paul Read,0
+Joyce Meyer,0
+'thyr `bdllh lnshmy,0
+Richard Castle,0
+Amazon,0
+Iain Banks,0
+Marisha Pessl,0
+Rob Lowe,0
+Kevin Kwan,0
+Robert Dugoni,0
+Mike Mignola,0
+John Byrne,0
+Francine du Plessix Gray,2
+Joachim Neugroschel,2
+Shirley Jackson,1
+Laura   Miller,0
+Dodie Smith,0
+John Jakes,0
+Marcus Aurelius,0
+Martin Hammond,0
+Diskin Clay,0
+Dave Barry,0
+Ridley Pearson,0
+Greg Call,0
+Sigmund Freud,0
+Mary Karr,0
+Raine Miller,0
+Jeff VanderMeer,0
+Leonard Mlodinow,0
+Reza Aslan,0
+Jan-Philipp Sendker,4
+Kevin Wiliarty,4
+Iain M. Banks,2
+David J. Schwartz,0
+Carlo Collodi,0
+Monteiro Lobato,0
+Robin LaFevers,0
+Stormie Omartian,0
+Henry Miller,0
+Brian Sibley,0
+Alice Hoffman,2
+John Howard Griffin,0
+Jonathan Kellerman,0
+Robert James Waller,0
+Mark Bittman,0
+Wassily Kandinsky,0
+Winston Groom,0
+Justin O'Brien,0
+Carolyn G. Heilbrun,0
+Italo Calvino,0
+Patricia MacLachlan,0
+ywsf zydn,0
+Ian Falconer,0
+Brene Brown,0
+Eben Alexander,0
+A.J. Jacobs,0
+Katherine Dunn,0
+Dudley Fitts,1
+Elena Bono,1
+Robert Penn Warren,0
+Vince Flynn,0
+Hannah Kent,0
+Peter Mayle,0
+Bagram Ibatoulline,0
+Martin Cruz Smith,0
+Tara Conklin,0
+Karen Hesse,0
+Elizabeth Wein,0
+N.K. Sandars,0
+Anna Godbersen,0
+Philip Roth,0
+Gena Showalter,0
+Elizabeth Berg,0
+Yoshiki Nakamura,0
+Paolo Bacigalupi,1
+Richard Allen Cave,0
+Ilona Andrews,1
+Irene Nemirovsky,0
+Sandra Smith,0
+Vincent van Gogh,0
+Ronald de Leeuw,0
+Mark Roskill,0
+Arnold J. Pomerans,0
+Grant Morrison,4
+Hillary Jordan,0
+Mark Bowden,0
+V.E. Schwab,0
+Victoria Schwab,4
+David Grann,0
+Trudi Canavan,0
+Patricia McCormick,4
+Jane Smiley,0
+Kent Haruf,0
+Daniel Clowes,0
+Ivan Turgenev,0
+George Reavy,0
+Jane Costlow,0
+Eliyahu M. Goldratt,0
+Jeff Cox,0
+Claudia Gray,0
+Ashlee Vance,0
+Mark Waid,0
+Alex Ross,2
+Elliot S. Maggin,0
+Henri Charriere,0
+Chris Colfer,0
+Brandon Dorman,0
+David Ebershoff,0
+Walter Dean Myers,0
+Kevin Hearne,2
+Kim Stanley Robinson,4
+Elaine Hedges,0
+Heidi Murkoff,0
+Arlene Eisenberg,0
+Sandee Hathaway,0
+Peter Thiel,0
+Blake  Masters,0
+Katharine Kroeber Wiley,0
+Jim Gaffigan,0
+Ron Chernow,2
+Various,0
+Nikolai Gogol,0
+Robert A. Maguire,0
+Elle Kennedy,0
+Arlene Mosel,0
+Blair Lent,0
+Tina Reber,4
+Penelope Douglas,0
+Alison Weir,0
+Yevgeny Zamyatin,4
+Clarence Brown,4
+Alan Paton,0
+Brian Froud,0
+Alan Lee,0
+Aprilynne Pike,0
+Cecily von Ziegesar,0
+Yuval Noah Harari,0
+Johnny Kansas,0
+Stephanie Stehling,0
+Heather McDonald,0
+Roy Handler,0
+Brad Wollack,0
+Amber Mazzola,0
+Josh Wolf,0
+Shoshanna Handler,0
+Eva Magdalenski,0
+Amy Meyer,0
+Glen Handler,0
+Dave Mallow,0
+Sarah Colonna,0
+M. Leighton,0
+Henning Mankell,0
+Steven T. Murray,0
+Keith David,0
+Anthony Heald,0
+Shari Lapena,0
+Ann Leckie,0
+Jerry I. Porras,0
+Allen Eskens,0
+Eric Wilson,0
+Jack Higgins,0
+David Wong,0
+Ann Druyan,0
+Lucy Christopher,0
+Stanislaw Lem,0
+Elizabeth Wurtzel,0
+Daniel J. Levitin,0
+Julia Quinn,4
+Lorraine Hansberry,0
+Richard K. Morgan,2
+A.J. Banner,0
+Jean-Dominique Bauby,0
+Jeremy Leggatt,0
+Chevy Stevens,0
+Charles C. Mann,0
+Kay Redfield Jamison,4
+Sarah  Young,0
+Edward Albee,0
+Andrzej Sapkowski,1
+Jacqueline Carey,0
+Eric Metaxas,0
+A.W. Tozer,0
+Jacqueline Winspear,0
+Dot Hutchison,0
+R.K. Lilley,2
+Alexandra Adornetto,0
+Kiran Desai,0
+Johann Wolfgang von Goethe,0
+Burton Pike,0
+Alexandra Fuller,0
+Robin McKinley,0
+Mark Zug,0
+s`wd lsn`wsy,0
+Saud Alsanousi,0
+Rae Carson,0
+Ann Aguirre,0
+Dava Sobel,0
+Neil Armstrong,0
+Peter Salm,0
+James W. Loewen,0
+Gabriel Rodriguez,2
+Alexandra Ripley,0
+Blaine Harden,0
+Sarah Thornton,0
+Dave Ramsey,0
+Richard Atwater,0
+Florence Atwater,0
+Fred Marcellino,0
+George Saunders,0
+Thomas J. Stanley,0
+William D. Danko,0
+Bob Dylan,0
+George Selden,0
+Oliver  Harris,0
+Roger Fisher,0
+William Ury,0
+Bruce Patton,0
+Kerry Lonsdale,0
+Samantha Towle,0
+Madeline Miller,0
+Amy Schumer,0
+Krishna-Dwaipayana Vyasa,0
+Simon Brodbeck,0
+Juan Mascaro,0
+Paul Auster,0
+Pam Munoz Ryan,0
+Candace Bushnell,1
+R.J. Hollingdale,0
+Michael Tanner,0
+Dave Cullen,0
+Laila Ibrahim,0
+Mark Owen,0
+Kevin Maurer,0
+Laura Moriarty,0
+Matt Wagner,0
+George Pratt,0
+Dick Giordano,0
+P. Craig Russell,0
+Harlan Ellison,0
+Clare Mackintosh,0
+H.G. Bissinger,0
+David Sheff,0
+Ovid,0
+David Raeburn,0
+Denis Feeney,0
+Julia Alvarez,0
+Robert Morgan,0
+Bo Hampton,0
+Tracey Hampton,0
+Washington Irving,0
+Jen Lancaster,0
+Wallace Stegner,4
+John le Carre,4
+Elin Hilderbrand,1
+Tad Williams,0
+Jan Karon,0
+Tony Hsieh,0
+Erika Johansen,0
+Gordon Korman,2
+Holly Black,3
+Tarryn Fisher,0
+Elizabeth Haynes,0
+Richard Lancelyn Green,0
+Ronald Knox,0
+Julian Symons,0
+James Rollins,0
+Oliver Stallybrass,0
+Pankaj Mishra,0
+Rachel Hartman,0
+Erich Segal,0
+Kevin Henkes,0
+Wendy Higgins,0
+Herman Wouk,0
+Bernard Cornwell,1
+Michael E. Gerber,0
+James Howe,0
+Deborah Howe,0
+Alan Daniel,0
+Jussi Adler-Olsen,4
+Lisa Hartford,0
+John Connolly,0
+Bill Clinton,0
+Linda Sue Park,1
+Nobuhiro Watsuki,0
+Kenichiro Yagi,0
+Miranda Kenneally,0
+Joe Simpson,0
+Simms Taback,0
+Dan Millman,0
+Barbara Demick,0
+Jack Welch,2
+Suzy Welch,2
+Gail McHugh,0
+Jonah Lehrer,0
+Laurie R. King,0
+Jean de Brunhoff,0
+Merle S. Haas,0
+Tom Rachman,0
+Katja Millay,0
+Jenny Downham,0
+Simone Beck,0
+Louisette Bertholle,0
+Kazue Kato,0
+John Werry,0
+Mohsin Hamid,0
+Jennifer A. Nielsen,0
+John Updike,0
+Daniel Todd Gilbert,0
+T.S. Eliot,0
+Else Holmelund Minarik,0
+Tony DiTerlizzi,2
+David Platt,0
+Robert Greene,0
+Joost Elffers,0
+Jean Craighead George,0
+Susanna Kearsley,4
+Rosalyn Landor,0
+Peter Lerangis,0
+Hubert Selby Jr.,0
+Darren Aronofsky,0
+Richard Price,0
+Erin Hunter,4
+Dee Brown,0
+Wladyslaw Szpilman,0
+Maya Banks,0
+Ian Edginton,0
+I.N.J. Culbard,0
+Robert McCammon,0
+China Mieville,0
+Carrie Jones,0
+Geoffrey Crayon,0
+William L. Hedges,0
+David Wilkerson,0
+Cynthia Lord,0
+Karen Russell,0
+Mark Kurlansky,0
+Maria Laina,0
+Ignes Sodre,0
+Og Mandino,0
+Ian Fleming,0
+Paullina Simons,0
+A.G. Riddle,0
+Julie James,0
+Andy Kubert,1
+Peter Sanderson,0
+Peter Heller,0
+Cun Shang  Chun Shu ,0
+Sheila Burnford,0
+Frank Quitely,4
+Fiona Barton,0
+Patrick Carman,0
+Marie Rutkoski,1
+Sapphire,0
+Atsushi Ohkubo,4
+William Kent Krueger,0
+Gene Luen Yang,0
+Eugene Bradley Coco,0
+Ron Dias,0
+Walt Disney Company,3
+K.A. Tucker,0
+Christopher Marlowe,0
+Anthony Robbins,0
+Tony Robbins,0
+Frederick L. Covan,0
+Diane Chamberlain,4
+Octavia E. Butler,0
+Henry Cloud,0
+John Townsend,0
+Luca Marinelli,0
+John C. Maxwell,0
+Zig Ziglar,0
+J. Sterling,0
+Sarah Ban Breathnach,0
+Moira Young,0
+Edgar Rice Burroughs,0
+Victoria Finlay,0
+Ernest J. Gaines,0
+Gene Zion,0
+Margaret Bloy Graham,0
+Hiro Fujiwara,0
+Nick Bantock,0
+'Hmd khld twfyq,0
+Ann Rule,0
+Joel Schick,0
+Julie Orringer,0
+Arthur Morey,0
+Keith Wilson,0
+Tim Curry,0
+Ben Aaronovitch,0
+Vikram Seth,4
+Amy Sedaris,4
+Peter  Swanson,0
+Patricia Schultz,0
+Max Lucado,0
+Renee Ahdieh,0
+Nicholas D. Kristof,0
+Sheryl WuDunn,0
+Daniel Handler,0
+Maira Kalman,0
+Mary Doria Russell,0
+Charlie N. Holmberg,0
+Steve Harvey,0
+Candice Millard,0
+Jonathan Lethem,0
+Emerson Eggerichs,0
+Jerry W. Ward Jr.,0
+Lalita Tademy,0
+James D. Bradley,0
+Ron Powers,0
+Mahatma Gandhi,0
+Lance Armstrong,0
+Sally Jenkins,0
+Helen Macdonald,0
+Christopher Yost,0
+Pasqual Ferry,0
+Frank D'Armata,0
+Karuho Shiina,0
+C.J. Roberts,0
+James Allen,0
+Nina George,0
+Simon Pare,0
+Ann Voskamp,0
+Robert Bloch,0
+Alistair MacLean,0
+Clint Willis,0
+Rupi Kaur,0
+Rosamund Lupton,0
+Liu Cixin,0
+Ken Liu,0
+Mark Millar,0
+Kilian Plunkett,0
+Andrew Robinson,0
+Walden Wong,0
+Dave Johnson,0
+Julia Glass,0
+Benjamin Franklin,0
+Lewis Leary,0
+Timothy J. Keller,0
+W. Chan Kim,0
+Renee Mauborgne,0
+Audrey Wood,0
+Don    Wood,0
+Matthew FitzSimmons,0
+Vernor Vinge,0
+Caroline B. Cooney,0
+Robert Lopshire,1
+Sophie Jordan,0
+Jessica Park,0
+Richard Flanagan,0
+A.N. Roquelaure,1
+Jennifer Worth,0
+Susan Elizabeth Phillips,0
+Stendhal,0
+Roger Gard,0
+Catherine Fisher,0
+Bev Vincent,0
+Josephine Angelini,0
+N.H. Kleinbaum,0
+Emily Bleeker,0
+Paramahansa Yogananda,0
+Alvin Schwartz,0
+Stephen Gammell,0
+John Hersey,0
+Jennifer Brown,0
+Kasie West,4
+Karen Armstrong,0
+Pablo Neruda,0
+W.S. Merwin,0
+Cristina Garcia,0
+Thomas More,0
+Paul Turner,0
+Pseudonymous Bosch,4
+Gilbert Ford,4
+Danielle  Paige,0
+Aimee Bender,0
+Dai Sijie,0
+Ina Rilke,0
+Roxane Gay,0
+Amy Chua,0
+Noelle Stevenson,4
+Giada De Laurentiis,4
+Jeanette Winterson,0
+Ravinder Singh,0
+Betty MacDonald,0
+Alexandra Boiger,0
+Dan   Harris,0
+Ina Garten,0
+Quentin Bacon,0
+Sena Jeter Naslund,0
+CLAMP,0
+Anthony Gerard,0
+Darren Shan,0
+Kevin O'Neill,0
+M.T. Anderson,0
+Nalini Singh,1
+Euripides,0
+Rex Warner,0
+Cinda Williams Chima,0
+Hannah Hurnard,0
+Charles Burns,0
+Therese Anne Fowler,0
+Catherine Ryan Hyde,1
+Martha Hall Kelly,0
+Anthony Marra,0
+Will Schwalbe,0
+Lauren Barnholdt,0
+Warren Ellis,0
+Darick Robertston,0
+George W. Bush,4
+John Schoenherr,0
+Jon Meacham,0
+Mia Sheridan,0
+Alyson Richman,0
+Girolamo De Michele,0
+Alastair McEwen,0
+Robert Graves,0
+Joelle Charbonneau,2
+Kirsty Moseley,0
+Darynda Jones,0
+Amanda Lindhout,0
+Sara Corbett,0
+Vera Brosgol,0
+Jean Rhys,0
+John Fowles,0
+Caroline Kepnes,0
+Colleen Houck,4
+Jacqueline Woodson,0
+Mira Grant,0
+Gwyn Hyman Rubio,0
+Steve Berry,1
+Katherine Howe,0
+Kylie Scott,4
+Emma Healey,0
+Isabel Wilkerson,0
+Claire North,0
+Barbara W. Tuchman,0
+John Marsden,4
+Robert M. Edsel,0
+Bret Witter,0
+Ava Dellaira,0
+Helen Bryan,4
+Yaa Gyasi,0
+John Romita Jr.,0
+Rob Liefeld,0
+Immaculee Ilibagiza,0
+Steve Erwin,0
+Joel Dicker,0
+Shirley Kubo,0
+Koushun Takami,0
+Yuji Oniki,0
+Nevil Shute,0
+Sophia Amoruso,0
+Elizabeth Peters,0
+Daniel Silva,0
+Edward Gorey,1
+Stephen Baxter,0
+Steven Pressfield,0
+Robert McKee,0
+Raymond Carver,0
+Michael J. Sullivan,0
+W. Somerset Maugham,0
+Benjamin DeMott,0
+Lisa Gardner,3
+Virginia Lee Burton,0
+Vicki Myron,0
+Soman Chainani,0
+Margret Rey,0
+Naoko Takeuchi,0
+Gurihiru,0
+Sarah Vowell,0
+MaryJanice Davidson,0
+Bill Moyers,0
+Jo Baker,0
+Cary Elwes,0
+Joe Layden,0
+Rob Reiner,0
+Peggy Rathmann,0
+Robyn Schneider,0
+Jude Watson,0
+Frank W. Abagnale,0
+Stan Redding,0
+Gary Zukav,0
+Josh Malerman,0
+Dan Wells,0
+Timothy Egan,0
+Ellen Marie Wiseman,0
+Scott Snyder,0
+Greg Capullo,0
+Jonathan Glapion,0
+Raymond Khoury,0
+Kathy Griffin,0
+Aaron Asher,0
+Nicholas Evans,0
+Sherry Argov,0
+Edwin A. Abbott,0
+Banesh Hoffmann,0
+Tim Tharp,0
+Peter D. Kramer,4
+Rainer Funk,0
+Shawn McManus,0
+Bryan Talbot,0
+Stan Woch,0
+Mary E. Pearson,0
+Eleanor Brown,0
+Tom Perrotta,0
+Mihaly Csikszentmihalyi,0
+Portia de Rossi,0
+Lisa Kleypas,0
+Carl Bernstein,0
+Bob Woodward,0
+Gary Shteyngart,0
+Michelle Rowen,2
+Douglas R. Hofstadter,0
+Robert Frost,0
+Edward Connery Lathem,0
+Rodman Philbrick,0
+Philip Yancey,0
+Asne Seierstad,0
+Ingrid Christopherson,0
+D.J. MacHale,4
+Chelsea M. Cameron,0
+Arthur Hailey,0
+Harold Bloom,0
+Terry Southern,0
+David H. Goldsmith,0
+James Lundquist,0
+Lawrence R. Broer,0
+Peter J. Reed,0
+Loree Rackstraw,0
+William S. Doxey,0
+Jerome Klinkowitz,0
+Richard Giannone,0
+John L. Simons,0
+Leonard Mustazza,0
+Zoltan Ab di-Nagy,0
+Peter Freese,0
+Wendy B. Faris,0
+Alan Tiegreen,0
+Alexander Pushkin,0
+James E. Falen,0
+Amie Kaufman,0
+Meagan Spooner,0
+Alison Goodman,0
+Carolyn Keene,4
+Russell H. Tandy,0
+Sara Paretsky,0
+Hugh Lofting,0
+Lara Adrian,0
+Geoff Dyer,0
+Barbara Taylor Bradford,0
+Nicole  Williams,0
+Sarah Ockler,4
+Sharon L. Lechter,0
+Camilla Lackberg,0
+Donna Mabry,0
+Georgia Cates,0
+Mary Higgins Clark,1
+Jason Baker,0
+Donna Freed,0
+Thrity Umrigar,0
+Burton Raffel,0
+Neil D. Isaacs,0
+Jerome K. Jerome,0
+Edward Abbey,0
+Tom Rath,0
+Edward Rutherfurd,2
+Bella Forrest,2
+Madeleine Wickham,0
+Byron Glaser,0
+Bill D. Fountain,0
+Jean Kwok,0
+Leonardo da Vinci,0
+H. Anna Suh,0
+Mollie Katzen,0
+Orhan Pamuk,0
+Erdag M. Goknar,0
+Carlos Castaneda,2
+Marcia Brown,0
+John   Williams,0
+Mark Buckingham,4
+Tori Amos,0
+Catherine Marshall,0
+Carol S. Dweck,0
+Richard H. Thaler,0
+Cass R. Sunstein,0
+Susan Cooper,0
+Richard Paige,0
+Kate Mosse,0
+Joseph J. Ellis,0
+Lawrence Wright,0
+Young Kim,0
+Samuel Taylor Coleridge,0
+Michael Martchenko,0
+H. Rider Haggard,0
+Jill Thompson,0
+Vince Locke,0
+Ursule Molinaro,0
+John Watkiss,0
+Duncan Eagleson,0
+Kent Williams,0
+Samantha Shannon,1
+Helen Small,0
+Stephen Wall,0
+Jacqueline Susann,0
+Radwa Ashour,0
+rDw~ `shwr,0
+Michael Rosen,0
+Helen Oxenbury,0
+Howard Roughan,4
+Peter F. Hamilton,0
+Thomas Rockwell,0
+Heather Gudenkauf,2
+David Herbert Donald,0
+Graham Greene,0
+Robert  Stone,0
+Katie Ashley,4
+Patrick O'Brian,2
+Akira Toriyama,4
+Alastair Reynolds,4
+Rachel Renee Russell,0
+Kresley Cole,0
+Micah Sparks,0
+Amy Plum,0
+Anne Morrow Lindbergh,0
+John Perkins,0
+Jorge Luis Borges,0
+Anthony Kerrigan,0
+Sejal Badani,0
+Amanda Coplin,0
+Mikhail Lermontov,0
+Paul Foote,0
+Edmund Morris,0
+M.M. Kaye,0
+Jasinda Wilder,0
+Donna VanLiere,0
+Rory Freedman,0
+Kim Barnouin,0
+Kristen Ashley,1
+Alice Schroeder,0
+Julie Garwood,0
+Maureen Freely,0
+Betty Crocker,0
+Michael Ledwidge,0
+Holly Goldberg Sloan,0
+Angela Dawe,0
+Richard Connell,0
+Cory Doctorow,0
+Jalaluddin Rumi,0
+Coleman Barks,0
+William R. Forstchen,0
+Helen Gardner,0
+Fred S. Kleiner,0
+Christin J. Mamiya,0
+Miranda July,0
+Jack Canfield,0
+Mark Victor Hansen,0
+Terry Windling,0
+Jane Yolen,0
+Alan Weisman,0
+Angeline Goreau,0
+Ami McKay,0
+Ingrid Law,0
+Bill Simmons,0
+`y'D lqrny,0
+A.P.J. Abdul Kalam,0
+Arun Tiwari,0
+Nate Silver,0
+Gary Russell,0
+Olivia Cunning,0
+Marjorie Flack,0
+Kurt Wiese,0
+Simon Sinek,0
+Dorothy Allison,0
+Daniel Suarez,0
+Joy Adamson,0
+Alfred Bester,0
+Rosamund Hodge,0
+Shaun Tan,0
+mSTf~ mHmwd,0
+Claire Messud,0
+Augustine of Hippo,0
+Henry Chadwick,0
+Albert Cook Outler,0
+Cathy Marie Buchanan,0
+Chanda Hahn,0
+Sarah Silverman,0
+Patricia Highsmith,0
+Christine Feehan,2
+Lauren Beukes,0
+Diane Ackerman,0
+Chris Hadfield,0
+Joanna Cole,0
+Bruce Degen,0
+Daniel Abraham,2
+Tommy Patterson,2
+Bret Lott,0
+khwl@ Hmdy,0
+Ellen Schreiber,0
+Adrian Conan Doyle,0
+John Dickson Carr,0
+Joshua Ferris,0
+Monica  Murphy,0
+Hisaya Nakajo,0
+David Ury,0
+Juliet Marillier,0
+Seth Godin,0
+Susanne Kuhlmann-Krieg,0
+Roland Barthes,4
+Andrew Davidson,0
+Elizabeth  Smart,0
+Chris Stewart,0
+Michael Buckley,0
+Peter Ferguson,0
+Stephen Briggs,0
+Caragh M. O'Brien,0
+Derek Landy,0
+Tom Percival,0
+Andy Warhol,0
+Michael Slater,0
+B.J. Novak,0
+Nathan Filer,0
+Madeleine Roux,0
+John Piper,0
+Lauren Graham,0
+Becky Albertalli,0
+Pam Morris,0
+A.G. Howard,0
+Primo Levi,0
+Stuart J. Woolf,0
+Jordan Stump,0
+Susan Vreeland,0
+William Steig,0
+Carolyn Jessop,0
+Laura Palmer,0
+Stephen R. Donaldson,4
+Marcus Buckingham,0
+Curt Coffman,0
+Thornton Wilder,4
+Donald Margulies,0
+Tappan Wilder,0
+Emily Carroll,2
+Ayana Mathis,0
+Gary Saul Morson,0
+Honore de Balzac,4
+Ted Hughes,0
+Andrew Ross Sorkin,0
+Susan Shillinglaw,0
+Zoe Sugg,0
+Siobhan Curham,0
+Carol Ryrie Brink,0
+J.I. Packer,0
+Marc Hempel,0
+Richard Case,0
+D'Israeli,0
+Teddy Kristiansen,0
+Glyn Dillon,0
+Dean Ormston,0
+Kevin Nowlan,0
+Frank McConnell,0
+Mike Allred,0
+Gary Amaro,0
+David Giordano,0
+Tony Harris,0
+Shea Anton Pensa,0
+Alec Stevens,0
+Jerry Pinkney,0
+Monica Ali,2
+Felix Salten,0
+Barbara Cooney,0
+Herodotus,0
+Aubrey de Selincourt,0
+John M. Marincola,0
+K. Bromberg,4
+Matthew Pearl,0
+Kimberly Derting,0
+A. Roger Merrill,0
+Rebecca R. Merrill,0
+Nancy Garden,0
+Malorie Blackman,0
+Harriet Jacobs,0
+Kristen Proby,4
+T. Harv Eker,0
+Hans Hermann,0
+Molly McAdams,0
+Julie Otsuka,0
+Jennifer McMahon,2
+Marina Keegan,0
+Paolo Giordano,0
+Shaun Whiteside,0
+Skottie Young,0
+G. Willow Wilson,0
+Adrian Alphona,0
+Gennifer Choldenko,0
+Pamela Druckerman,0
+Abby Craden,0
+Megan Whalen Turner,0
+Sarah Winman,0
+Lang Leav,4
+Tom Franklin,0
+Rainer Maria Rilke,0
+Reginald Snell,0
+Franz Xaver Kappus,0
+Anna Banks,0
+Charles Baudelaire,0
+Lee Goldberg,0
+Pierre-Ambroise Choderlos de Laclos,0
+Douglas Parmee,0
+E. Nesbit,0
+Irwin Shaw,4
+Gilly Macmillan,2
+Sheri Reynolds,0
+Pat Frank,0
+Kazu Kibuishi,4
+Flannery O'Connor,0
+Lisa Scottoline,4
+Sister Souljah,0
+Shunryu Suzuki,0
+Han Kang,0
+Deborah     Smith,0
+Mark Harman,0
+Regaip Minareci,0
+Serif Yesilbucak,0
+Sam Harris,0
+Susane Colasanti,0
+Connie Willis,0
+Bryan Stevenson,0
+Brian L. Weiss,0
+Keith Ferrazzi,0
+Melina Marchetta,0
+Kimon Nicolaides,0
+Mamie Harmon,0
+Lorna Landvik,0
+K.G. Campbell,0
+Edward P. Jones,0
+James     Baldwin,0
+Yuu Watase,0
+Marcel Proust,0
+Simon Vance,0
+Lydia Davis,0
+Daniel H. Wilson,0
+Sue Townsend,0
+Mike Carey,0
+Glenn Fabry,0
+Chloe Neill,0
+Naoki Higashida,0
+K.A. Yoshida,0
+Janette Oke,0
+W.B. Yeats,0
+Richard J. Finneran,0
+Barbara Shook Hazen,0
+Robert Lewis May,0
+Richard Scarry,0
+Frederik Pohl,0
+Kerry Patterson,4
+Joseph Grenny,4
+Ron McMillan,4
+Al Switzler,4
+Thomas Cahill,0
+Charlie Adlard,1
+Cliff Rathburn,4
+Ruth Reichl,0
+William  Gibson,0
+Thomas Hobbes,0
+C.B. Macpherson,0
+Sandra Brown,0
+Sloane Crosley,0
+Antonia Fraser,0
+Michelle Magorian,0
+Tabitha Suzuma,0
+Rob Thomas,4
+Jennifer Graham,4
+Danny Sugerman,0
+Jerry Hopkins,0
+Marguerite Henry,0
+Wesley Dennis,0
+Haven Kimmel,0
+Bruce Sterling,0
+A.L. Singer,0
+Guy Gavriel Kay,4
+Nora Ephron,4
+Brennan Manning,0
+Michael W. Smith,0
+Rich Mullins,0
+Wilbur Smith,0
+Naomi Klein,4
+Rachel Willson-Broyles,0
+Gunter Grass,4
+James Noel Smith,0
+Edith Hamilton,0
+Steele Savage,0
+Anna Dewdney,0
+Al Franken,0
+Leah Remini,0
+Rebecca Paley,0
+Eric Shanower,0
+Edith Hahn Beer,0
+Susan Dworkin,0
+Susan Sarandon,0
+Julia Ormond,0
+Rory Kennedy,0
+Ree Drummond,0
+Julie Kibler,0
+Carrie Fisher,0
+Ron Rash,0
+Hampton Sides,0
+Marisa de los Santos,0
+Christopher Pike,0
+Michael Dooling,0
+E.L. Doctorow,0
+David Weber,4
+Ben Goldacre,0
+Cherrie Lynn,0
+Ai Yazawa,0
+Joseph Delaney,4
+Patrick  Arrasmith,4
+Plum Sykes,0
+Robert Cormier,0
+Teddy Slater,0
+Ric Gonzalez,0
+Michael Punke,0
+Jon J. Muth,0
+Mikal Gilmore,0
+Clayton M. Christensen,0
+Bill Langley,0
+Foundation for Inner Peace,0
+Wayne W. Dyer,0
+Jack Weatherford,0
+Theodore Dreiser,2
+Andrea Hirata,0
+Joanne Fluke,0
+Mitchell Zuckoff,2
+Sam Kean,0
+Bill Dedman,4
+Paul Clark Newell Jr.,4
+Brother Lawrence,0
+Bob Goff,0
+Benjamin Graham,0
+Jason Zweig,0
+Warren Buffett,0
+Blanche Fisher Wright,2
+John Jowett,0
+Anna Todd,4
+Sarah Rees Brennan,0
+Cassandra Jean,0
+Jon Kabat-Zinn,0
+Banana Yoshimoto,0
+Megan Backus,0
+Eric Van Lustbader,0
+Judith McNaught,1
+Mark Ford,0
+Kevin J. Anderson,2
+Brett Booth,0
+Jean-Jacques Rousseau,4
+Maurice Cranston,4
+Ernesto Sabato,0
+Alexander Hamilton,0
+James Madison,0
+John Jay,0
+Philo-Publius,0
+Clinton Rossiter,0
+Charles R. Kessler,0
+Julie Anne Peters,0
+Sarah Blake,0
+Orlagh Cassidy,0
+Nic Sheff,0
+Daniel O'Malley,0
+Frank Beddor,0
+Joyce Maynard,0
+Ed Catmull,0
+Amy Wallace,0
+Frida Kahlo,0
+Carlos Fuentes,0
+Sarah M. Lowe,0
+Michele Wrightson,0
+Bob McCabe,0
+Jeff Shaara,0
+Michael Morpurgo,0
+Chelsea Cain,0
+Julianne Donaldson,0
+Kathleen Tessaro,0
+Tara Sivec,0
+Gabrielle Hamilton,0
+Lars Kepler,4
+Ann Long,4
+Piers Anthony,2
+Tommy Lee,0
+Vince Neil,0
+Nikki Sixx,4
+Neil Strauss,0
+Mick Mars,0
+Theo LeSieg,4
+Roy McKie,4
+Richard R. Lingeman,2
+Brynne Stephens,0
+Lela Dowling,0
+Cynthia Martin,0
+Jenny Nimmo,0
+Jay Kristoff,0
+Glen Cook,0
+Susan Hill,0
+John Lawrence,0
+Barbara Robinson,0
+Aimee Carter,0
+Steven Johnson,0
+Anna Carey,0
+Susan Sontag,0
+Mary McGarry Morris,0
+Michio Kaku,0
+Karen Cushman,0
+Armistead Maupin,0
+Victoria Hislop,0
+Ian Rankin,0
+Mircea Pricajan,0
+Marya Hornbacher,0
+William  Davis,0
+H.P. Lovecraft,0
+August Derleth,0
+Mary  Stewart,0
+S.T. Joshi,0
+Neale Donald Walsch,0
+Felicia Day,0
+Joss Whedon,0
+Matt Fraction,2
+David Aja,0
+Javier Pulido,0
+Matt Hollingsworth,0
+Chris Eliopoulos,0
+Alan Davis,0
+Jim Lee,0
+Scott Williams,0
+Alex Sinclair,0
+Enid Blyton,2
+Larissa Ione,4
+Robert Hughes,0
+Ted Dekker,2
+Adam Hochschild,0
+David Ellis,0
+Samantha van Leer,0
+Kanoko Sakurakouji,0
+JN Productions,0
+Pancha Diaz,0
+Erin Watt,2
+Jen Frederick,0
+Cynthia Holloway,0
+Laurelin Paige,0
+NaRae Lee,0
+Lene Kaaberbol,0
+Agnete Friis,0
+Christopher Gill,0
+D.B.C. Pierre,1
+Ntozake Shange,4
+Jennifer Close,0
+Stella Gibbons,0
+Roz Chast,0
+Rainer Metzger,0
+Ingo F. Walther,0
+Chris Guillebeau,0
+Trevor Noah,0
+Theodore Taylor,0
+Justina Chen,0
+Carol Shields,0
+Beth Harbison,0
+Peter Hoeg,0
+Tiina Nunnally,0
+Julia Hoban,0
+Hillary Rodham Clinton,0
+Edmund de Waal,0
+Al Perkins,0
+Eric Gurney,0
+Lissa Price,0
+Juan Rulfo,0
+Kelly Corrigan,0
+Michael North,0
+Heather Cocks,0
+Jessica  Morgan,0
+Robert Charles Wilson,0
+Eugene O'Neill,0
+Kohta Hirano,0
+Duane Johnson,0
+Noah Gordon,0
+Scott Brick,0
+Mark Teague,0
+Miyamoto Musashi,0
+Victor Harris,0
+Irvin D. Yalom,0
+Aristotle,0
+J.A.K. Thomson,0
+Jonathan Barnes,0
+Hugh Tredennick,0
+Kyle Idleman,0
+William Blake,0
+Stan Berenstain,0
+Jan Berenstain,0
+H.W. Janson,0
+Anthony F. Janson,0
+Yukiru Sugisaki,0
+Karl Marlantes,0
+Diana Sudyka,0
+Jordan Belfort,0
+Dietrich Bonhoeffer,0
+Michelle Alexander,0
+Knut Hamsun,0
+George Egerton,0
+Cristina Henriquez,0
+Brian Azzarello,0
+Lee Bermejo,0
+Sergei Lukyanenko,0
+Andrew Bromfield,0
+Jenny Offill,0
+Susan Meissner,0
+Dalton Trumbo,0
+Pierre Boulle,0
+Xan Fielding,0
+Belva Plain,0
+Henry T. Blackaby,4
+Claude V. King,4
+Richard Blackaby,4
+James Dickey,0
+Katsura Hoshino,4
+Mayumi Kobayashi,4
+Ian Caldwell,0
+Dustin Thomason,0
+Bryan Konietzko,0
+Michael Dante DiMartino,0
+Dave Marshall,0
+Rob Sheffield,2
+Legs McNeil,0
+Gillian McCain,0
+Marybeth Mayhew Whalen,0
+Sarah Weeks,0
+Jim Carroll,0
+Lew Wallace,0
+Lionel Trilling,0
+Lolly Winston,0
+Gary Gianni,0
+Madeline Sheehan,2
+Pam Adams,0
+Robert Bryndza,0
+Georges Jeanty,0
+Mirra Ginsburg,0
+John Gardner,0
+James Gleick,0
+Kurt Busiek,0
+Carolyn Mackler,0
+Suzanne Young,0
+Jennifer Echols,0
+Philipp Meyer,0
+Oliver Wyman,4
+Bryn Greenwood,0
+Melanie Acevedo,0
+Brendan Reichs,0
+Laura Schroff,0
+Alex Tresniowski,0
+Valerie Salembier,0
+Rhoda Janzen,0
+Ruud van der Rol,0
+Rian Verhoeven,0
+Tony Langham,0
+Plym Peters,0
+Gary Larson,0
+Aaron Johnston,0
+Pema Chodron,0
+Daisy Goodwin,0
+Al Dempster,0
+Milt Banta,0
+Golden Books,0
+Andy Goldsworthy,0
+Denis Johnson,4
+Steve Buccellato,0
+Eddie Campbell,0
+Pete Mullins,0
+Katherine Neville,0
+Jean Webster,0
+Edith Pattou,4
+James Strachey,0
+Peter Gay,0
+James Bowen,0
+John Cassaday,0
+Eric    Weiner,0
+Tracy Brogan,0
+Richard J. Foster,0
+Muriel Spark,0
+Megan McCafferty,0
+Richard Peck,0
+Ben Mezrich,0
+Mariko Tamaki,0
+Jillian Tamaki,0
+Paul Harding,0
+Penelope Ward,0
+Alan Lightman,0
+Christian Redl,0
+Philip Dossick,0
+Emanuela Guercetti,0
+Michelle-Irene Brudny,0
+Norman Dietz,0
+Donald Fanger,0
+coderati,0
+Boris de Schloezer,0
+Andrew Williamson,0
+Amy Harmon,0
+Vikas Swarup,0
+Donald J. Sobol,0
+C.J. Sansom,1
+Lisi Harrison,0
+Elizabeth Kolbert,0
+Ben Fountain,0
+Lian Hearn,0
+Ronald H. Balson,0
+Dan John Miller,0
+Iris Johansen,0
+Rachael Ray,2
+James L. Swanson,0
+Mark  Edwards,4
+Michelle Moran,0
+David McRaney,0
+Sara Donati,0
+Aeschylus,0
+William Bedell Stanford,0
+Ildefonso Falcones,0
+The Church of Jesus Christ of Latter-day Saints,0
+Rory Albanese,0
+Kevin Bleyer,0
+Wyatt Cenac,0
+Hallie Haglund,0
+Elliott Kalan,0
+Josh Lieb,0
+Sam Means,0
+Jo Miller,0
+John Oliver,0
+Daniel Radosh,0
+Rachel Vincent,0
+Brodi Ashton,0
+G. Norman Lippert,0
+Brother Andrew,0
+J. Courtney Sullivan,0
+Meg Rosoff,0
+Dawn J. Ranck,0
+Phyllis Pellman Good,0
+Lili St. Crow,0
+Lilith Saintcrow,0
+Malika Oufkir,0
+Michele Fitoussi,0
+Steve McNiven,0
+Dexter Vines,0
+Morry Hollowell,0
+Kim Carpenter,0
+John R. Perry,0
+Krickitt Carpenter,0
+Megan Miranda,0
+Mercer Mayer,0
+Inga Moore,0
+Nathan Fairbairn,0
+Tijan,0
+Jeno Barcsay,0
+John Saul,0
+Jean Sasson,0
+Joseph Murphy,0
+Ian McMahan,0
+Esther Forbes,0
+Lynd Ward,0
+Ernesto Che Guevara,0
+Aleida Guevara March,0
+N.K. Jemisin,0
+Roberto Bolano,0
+Natasha Wimmer,0
+Stefan Zweig,0
+Joel Rotenberg,0
+Hans Hausmann,0
+Dirk Muller,0
+Willy Trenk-Trebitsch,0
+Mario Adorf,0
+Gert Westphal,0
+Justine Korman Fontes,0
+Don Williams,0
+Jeanne Birdsall,0
+Sally Bedell Smith,0
+Charlotte Barslund,0
+John Layman,0
+Rob Guillory,0
+Arkady Strugatsky,0
+Boris Strugatsky,0
+Antonina W. Bouis,0
+Theodore Sturgeon,0
+Aram Saroyan,0
+P.G. Wodehouse,0
+Amanda Palmer,0
+Chris   Smith,0
+Christopher Lee,0
+Richard Taylor,0
+Elizabeth  George,0
+Arturo Perez-Reverte,0
+Sonia Soto,0
+Paul O. Zelinsky,0
+Douglas Coupland,0
+Viet Thanh Nguyen,0
+Joanna Wylde,0
+Mary O'Hara,0
+Dave Blossom,0
+Mirjana Valent,0
+William Archer,0
+Caroline Myss,0
+Beatriz Williams,0
+Gary D. Schmidt,0
+Judy Schachner,2
+Brian Tracy,0
+Sandra Boynton,4
+Wallace D. Wattles,0
+A. Manette Ansay,0
+David Brin,2
+Shelly Crane,0
+Robert   Harris,4
+Bertrand Russell,0
+Nigella Lawson,0
+Thomas Malory,0
+Keith Baines,0
+Cupcake Brown,0
+Kate Douglas Wiggin,0
+Anton Chekhov,0
+S.C. Gwynne,0
+Karen Kingsbury,2
+Gary Smalley,0
+Jennifer Donnelly,0
+Dorothy L. Sayers,2
+Robert Sabuda,0
+Ross King,0
+Noel Streatfeild,0
+Diane Goode,0
+Harry Gregson-Williams,0
+Carolyn Brown,0
+E.E. Cummings,2
+Sara Raasch,0
+Matthew  Thomas,0
+Mary Pipher,0
+Kate Brian,0
+Russell Hoban,0
+Lillian Hoban,0
+Max Barry,0
+Donna Murphy,0
+Cece Bell,0
+David Lasky,0
+Jude Deveraux,0
+Jonathan Maberry,0
+G.M.A. Grube,0
+John M. Cooper,0
+Charles R. Cross,0
+Thucydides,0
+Moses I. Finley,0
+George Stade,0
+Richard Fusco,0
+Richard Kadrey,0
+John Hart,0
+Donald A. Yates,0
+James E. Irby,0
+Andre Maurois,0
+Tim Harford,0
+Drew Daywalt,0
+Oliver Jeffers,0
+Katie J. Davis,0
+Beth Clark,0
+Kathleen Kent,0
+Thomas Mann,0
+Patricia Reilly Giff,0
+Heather Brewer,4
+Barry Schwartz,0
+Annette Curtis Klause,0
+Janet Switzer,0
+Alexander Osterwalder,0
+Yves Pigneur,0
+Stephen Greenblatt,0
+Margaret George,0
+Norman Doidge,0
+Barry Lyga,0
+J. Ryan Stradal,0
+Ann McGovern,0
+Winslow Pinney Pels,0
+Winslow Pinn,0
+Ey Pels,0
+Alaa Al Aswany,0
+`l l'swny,0
+Brian  McClellan,0
+Koren Zailckas,0
+Bree Despain,0
+Bill Buford,0
+Clarissa Pinkola Estes,4
+Donald O. Clifton,0
+Chris Anderson,0
+Adolf Hitler,0
+Aleatha Romig,0
+Sean Covey,0
+Tom Angleberger,0
+Thanhha Lai,4
+Jude Fisher,0
+Guy Kawasaki,0
+Wes  Moore,0
+Tavis Smiley,0
+Ariana Franklin,0
+Wu Nei  Zhi Zi ,0
+Katherine Streeter,0
+Ruth Stiles Gannett,0
+Greg Iles,4
+Jay McInerney,0
+Syd Hoff,0
+Giovanni Boccaccio,0
+G.H. McWilliam,0
+Alice Munro,0
+Eileen Christelow,0
+Andrew Hurley,0
+Rachel Van Dyken,0
+Lilian Jackson Braun,0
+Nyrae Dawn,0
+Haley Riordan,0
+Courtney Cole,0
+Neil Patrick Harris,0
+Antony Hare,0
+Josh McDowell,0
+Cherie Priest,0
+Rita Mae Brown,0
+Marianne Williamson,0
+Charles Portis,0
+Susan  Jeffers,0
+Matthew Dicks,0
+Paul Birkbeck,0
+Susan Crandall,0
+Brian Staveley,0
+Sally Green,0
+Nikos Kazantzakis,0
+Nikos Kazantzakes,0
+William H. Armstrong,0
+James Barkley,0
+Lawrence M. Krauss,0
+Slash,0
+Anthony Bozza,0
+Hazel E. Barnes,0
+Mary Warnock,0
+Richard Eyre,0
+Rachel Carson,0
+Linda Lear,0
+Edward O. Wilson,0
+Holly Madison,0
+Nadia Hashimi,0
+Keith Thompson,0
+Martha Stout,0
+Goran Sudzuka,0
+Charles Belfoure,0
+Morgan Rhodes,0
+Esther Hicks,4
+Jerry Hicks,4
+Henry Fielding,0
+Thomas Keymer,0
+Alice Wakely,0
+Sherwood Anderson,0
+Matthew Inman,0
+The Oatmeal,0
+Ted Goossen,0
+Diana L. Paxson,0
+Per Petterson,0
+Anne Born,0
+Doug Moench,0
+Jim Aparo,0
+Norm Breyfogle,0
+Graham Nolan,0
+Jim Balent,0
+Brad Thor,0
+Willem Dafoe,0
+John Fante,0
+Rick Bragg,0
+Leigh Nichols,0
+Stephen Coonts,0
+Enid Bagnold,0
+Richard Branson,0
+Aristophanes,0
+Sarah Ruden,0
+Peter Clines,0
+Scott Jurek,0
+Steve Friedman,0
+Brett Matthews,0
+Will Conrad,0
+T.C. Boyle,0
+Eugene B. Sledge,0
+Paul Fussell,0
+Eleanor Estes,0
+Louis Slobodkin,0
+Meredith Wild,0
+Kass Morgan,0
+Paul Chadwick,0
+Karma Wilson,0
+Jane Chapman,0
+Gary Chalk,0
+Alexander Theroux,0
+Lionel Abel,0
+mn~ lmrshwd,4
+Robert S. Levine,0
+Glennon Doyle Melton,0
+Richard Paul Evans,4
+W.E.B. Du Bois,0
+Donald B. Gibson,0
+Monica W. Elbert,0
+Hannah  Green,0
+Joanne Greenberg,0
+Shonda Rhimes,0
+Marguerite Duras,0
+Barbara Bray,0
+Maxine Hong Kingston,0
+Stephanie Danler,0
+Edward Bloor,0
+Danny De Vito,0
+Bryan Burrough,0
+John Helyar,0
+David Fishelson,0
+Aaron Leichter,0
+Rysa Walker,0
+Catherynne M. Valente,0
+Ana Juan,0
+Denise Grover Swank,0
+Marshall Karp,0
+Timur Vermes,0
+Chris Pavone,0
+Richard Winston,0
+Clara Winston,0
+Theodore Ziolkowski,0
+Kevin Powers,0
+Gerald Durrell,0
+Helma Lapina,0
+Tawni O'Dell,0
+Robin A.H. Waterfield,0
+Quinn Loftis,0
+Harry Bliss,0
+Emily Snow,0
+Claire LaZebnik,0
+Richard Condon,0
+Shane Claiborne,0
+John Medina,0
+Richard C. Morais,0
+Lincoln Peirce,0
+Tim Burton,0
+Edwidge Danticat,0
+Louis-Ferdinand Celine,0
+William T. Vollmann,0
+Matt Haig,0
+Essam Youssef,0
+Shaunti Feldhahn,0
+Keith Szarabajka,0
+Lynsay Sands,0
+Matthew Reilly,0
+Adam Smith,0
+Richard Ford,0
+Antony Beevor,0
+Kyousuke Motomi,0
+Beryl Markham,0
+Steven Galloway,2
+Betty White,0
+Rene Descartes,4
+Donald A. Cress,4
+James Surowiecki,0
+James Herbert,2
+Jason Winters,0
+Marilyn Manson,0
+BookRags,4
+Bernard Waber,0
+smnh prhyzkhry,0
+Rob Bell,0
+Edward Said,0
+Beverly  Lewis,0
+Anne Bishop,2
+Nicholas Meyer,0
+Jonathan Harr,0
+Sonia Sotomayor,0
+Immanuel Kant,0
+Paul Guyer,0
+Allen W. Wood,0
+Rien Poortvliet,0
+Wil Huygen,0
+Hester Browne,0
+John Stuart Mill,0
+Alan Cumming,0
+D.M. Pulley,0
+Jill Shalvis,0
+Rebecca Housel,0
+J. Jeremy Wisnewski,0
+William Irwin,0
+Eric Berne,0
+Alexandre Dumas fils,0
+David Coward,0
+Rachel Hauck,0
+Stephen C. Lundin,0
+Harry Paul,0
+John Christensen,0
+Vi Keeland,0
+Philip Jose Farmer,0
+Mark Helprin,0
+Susan Ericksen,0
+Thomas Paine,0
+Adeline Yen Mah,0
+Michel Houellebecq,0
+Frank Wynne,0
+Roy Thomas,0
+Mark D. Beazley,0
+Dav Pilkey,0
+Paul Tough,0
+Scott B. Smith,0
+Michael Blake,0
+Ellis Peters,0
+Giorgio Vasari,0
+Julia Conway Bondanella,0
+Peter Bondanella,0
+Dmitry Glukhovsky,0
+M. David Drevs,0
+Christos Tsiolkas,0
+Robert Henri,0
+Forbes Watson,0
+Margery A. Ryerson,0
+Marcus Sakey,0
+Camille Pagan,0
+Caroline Preston,0
+Myla Goldberg,0
+Ram Dass,4
+Richard Alpert,4
+Conn Iggulden,0
+Brad Stone,0
+Brittainy C. Cherry,4
+Heidi McLaughlin,0
+Ashwin Sanghi,0
+Norman Mailer,0
+James M. McPherson,0
+Michael Teitelbaum,0
+Sue DiCicco,0
+Rob Buyea,0
+Lindsey Kelk,0
+Beth Fantaskey,0
+Larry Bossidy,0
+Ram Charan,0
+Charles Burck,0
+Caitlin Doughty,0
+Christopher Golden,0
+Simon Wood,0
+Grace Lin,0
+Arthur Ransome,0
+Mary Kay Andrews,0
+S.K. Tremayne,0
+Michael Moss,0
+Edward Eager,0
+N.M. Bodecker,0
+Steve Hockensmith,0
+Patrick Arrasmith,0
+Helene Hanff,0
+Thich Nhat Hanh,0
+Arnold Kotler,0
+Anna Kendrick,0
+Robert Masello,0
+Jim Starlin,0
+Mike DeCarlo,0
+Lisa Lutz,0
+James E. Talmage,0
+Don Ferguson,0
+Lucasta Miller,0
+collaborative,0
+Jessica Cox,0
+Paul Beatty,0
+Jenna Miscavige Hill,0
+Lisa Pulitzer,0
+James J. Helm,0
+Penn Jillette,0
+Diane Muldrow,0
+J.P. Miller,0
+John Heilemann,0
+Mark Halperin,0
+Joni Eareckson Tada,0
+Joe Musser,0
+Shakti Gawain,4
+Anya Seton,4
+Marina Lewycka,0
+Rene Goscinny,0
+Jean-Jacques Sempe,0
+Harold G. Moore,0
+Joseph L. Galloway,0
+Mike Lupica,0
+Tk,0
+Debbie Macomber,4
+Jun Mochizuki,0
+Wang Yue Chun ,0
+Kathryn Erskine,4
+'Hmd Hlmy,0
+Joshua Harris,0
+Zilpha Keatley Snyder,0
+Kaye Gibbons,4
+Nahum N. Glatzer,0
+Tania Stern,0
+Ernst Kaiser,0
+Eithne Wilkins,0
+Isa Chandra Moskowitz,0
+Terry Hope Romero,0
+Sabahattin Ali,0
+Charles M. Sheldon,0
+Elissa Wall,0
+Ed Brubaker,0
+Doug Mahnke,0
+Patrick Zircher,0
+Aaron Sowd,0
+Steve Bird,0
+Ben Horowitz,2
+Russell Brand,0
+Simon Garfield,0
+R.D. Ronald,0
+John Katzenbach,0
+Del Roy,0
+Kevin    Wilson,0
+Chris Gardner,0
+Karl Ove Knausgard,0
+Tom    Murphy,0
+Wendy Mass,0
+Grant Naylor,1
+G.K. Chesterton,4
+Jane O'Connor,2
+Robin Preiss Glasser,2
+Chris Riddell,4
+Dee Henderson,0
+Tobias Wolff,0
+Moliere,0
+Martin Sorrell,0
+Kazune Kawahara,0
+David D. Burns,0
+Melody Beattie,0
+Ivan Goncharov,0
+Stephen Pearl,0
+Galya Diment,0
+Po Bronson,0
+Ashley Merryman,0
+Janny Wurts,2
+Richard Thomas,0
+Chris Ware,0
+Matt Ridley,0
+Phil Klay,0
+James M. Cain,0
+Robert Kurson,0
+Clare Vanderpool,0
+Amitav Ghosh,0
+Jessica Anthony,4
+Rodrigo Corral,4
+Naguib Mahfouz,0
+njyb mHfwZ,0
+Rachel Simon,0
+Allen Say,4
+Robert Silverberg,4
+Melinda Long,0
+Linda Howard,4
+Mira Lyn Kelly,2
+Linwood Barclay,4
+Katherine Hannigan,0
+Aldo Leopold,0
+Eric Knight,0
+Marguerite Kirmse,0
+T. Colin Campbell,0
+Thomas M. Campbell II,0
+Julia Donaldson,0
+Axel Scheffler,0
+Sui Ishida,0
+Shi Tian  sui,0
+Cressida Cowell,0
+Lauren Conrad,0
+Paul Bowles,4
+Lily Koppel,0
+Frank B. Gilbreth Jr.,0
+Ernestine Gilbreth Carey,0
+Mario Spezi,0
+Daniel Woodrell,1
+Jessica Seinfeld,4
+Paul Kidby,0
+Philip Gourevitch,0
+Jonathan Cahn,0
+L.A. Weatherly,0
+Bryan J.L. Glass,0
+Tim Seeley,0
+Hugo Petrus,0
+Julio Cortazar,0
+Eric Clapton,0
+Ted Chiang,0
+Mario Vargas Llosa,0
+Heidi W. Durrow,0
+Habiburrahman El-Shirazy,4
+Chris Grabenstein,0
+David Wiesner,0
+Mercedes Lackey,0
+Courtney Allison Moulton,2
+Marjorie Kinnan Rawlings,0
+Ozzy Osbourne,0
+Chris Ayres,0
+J. Maarten Troost,0
+Bill Clegg,0
+Elisabeth Kubler-Ross,0
+Goran Parlov,0
+Jesmyn Ward,0
+Kristen Callihan,1
+Natasha Preston,0
+Matt de la Pena,0
+Kelly Link,0
+Myra McEntire,0
+Scott  Meyer,4
+Emile Zola,4
+Roger Pearson,0
+Jacqueline Kelly,0
+Katie Alender,0
+Danny Gregory,0
+Michel Foucault,2
+Alan Sheridan,0
+Thomas Mathiesen,0
+Walter Seitter,0
+Drago Braco Rotar,0
+Arina Tanemura,4
+Amy A. Bartol,2
+Joe McGinniss,0
+Sudhir Venkatesh,0
+Michael Avon Oeming,0
+Ryan Stegman,0
+Laline Paull,0
+Elizabeth George,0
+Ann Leary,0
+Rudolfo Anaya,0
+Alessandro Baricco,0
+Archibald Colquhoun,0
+Belle Aurora,1
+Jillian Dodd,0
+Kate Alcott,0
+Ken Grimwood,0
+David Eagleman,0
+Neil deGrasse Tyson,0
+Paul Zindel,0
+Kerrelyn Sparks,0
+Robert Muchamore,0
+Sarah Simblet,0
+Simon Singh,0
+Aurora Rose Reynolds,2
+Angela Carter,0
+Simon Schama,0
+Michelle Knight,0
+Michelle Burford,0
+Jasmine Warga,0
+Kim Gordon,0
+D.C. Talk,0
+The Voice of the Martyrs,0
+Brunonia Barry,0
+Travis Moore,0
+Michael Halbleib,0
+Anchee Min,4
+H.M. Ward,0
+George MacDonald,0
+Arthur Hughes,0
+Sonmez Guven,0
+David Thomson,0
+A.S. King,0
+Simone de Beauvoir,0
+H.M. Parshley,0
+Deirdre Bair,0
+Grace Ellis,0
+Shannon Waters,0
+Shannon Watters,0
+Brooke A. Allen,0
+Faith Hicks,0
+Kat Leyh,0
+Brooke Allen,0
+Carolyn Nowak,0
+Carey Pietsch,0
+Elaine N. Aron,0
+Chitra Banerjee Divakaruni,4
+H.W. Brands,0
+Yoshihiro Togashi,0
+Fu Jian  Yi Bo ,0
+Ned Rust,0
+Lucy Grealy,2
+Kingsley Amis,1
+David Lodge,1
+Jeff Hobbs,0
+Li Cunxin,2
+C.G. Jung,0
+Aniela Jaffe,0
+ysr Hrb,0
+Suzanne Rappaport,0
+Founding Fathers,2
+Gilles Neret,0
+Malcolm Lowry,0
+Rachel Abbott,0
+Mary Pope Osborne,0
+Salvatore Murdocca,0
+Kate Beaton,0
+Ann Packer,0
+Sogyal Rinpoche,0
+Andrew Harvey,0
+Pat Barker,0
+Michael J. Fox,0
+John Joseph Adams,0
+Robert J. Sawyer,0
+Michael Moorcock,0
+Sharyn McCrumb,0
+Barbara Hambly,0
+Tanith Lee,0
+Rob Rogers,0
+Dominic Green,0
+Barbara Roden,0
+Peter Tremayne,0
+Tim Lebbon,0
+Bradley H. Sinor,0
+Edward D. Hoch,0
+Vonda N. McIntyre,0
+Darrell Schweitzer,0
+Mary Robinette Kowal,0
+H.Paul Jeffers,0
+Geoffrey A. Landis,0
+Amy Myers,0
+Tony Pi,0
+Chris Roberson,0
+Mark Valentine,0
+Gigi Levangie Grazer,0
+Kivanc Guney,0
+Sinclair Lewis,0
+John Rocco,0
+Catherine Gilbert Murdock,0
+Erika Swyler,0
+Frederick Franck,4
+Kristen Britain,0
+Helen Oyeyemi,0
+David  Brooks,0
+Thomas S. Kuhn,0
+Andrea Levy,0
+Peter M. Senge,0
+Arthur Koestler,0
+Daphne Hardy,0
+Jaci Burton,0
+Jack Campbell,0
+Lois McMaster Bujold,0
+Elizabeth Flock,0
+Malinda Lo,0
+Diane Arbus,0
+Stan Grossfeld,0
+Doon Arbus,0
+Marvin Israel,0
+Leo Lionni,0
+Camron Wright,0
+Harvey Karp,0
+Nelson Hobbs,0
+Dee Lestari,0
+Dallas Hartwig,2
+Melissa Hartwig,2
+Ted Kerasote,1
+K.E. Semmel,0
+Elizabeth Chandler,0
+Marshall Goldsmith,0
+Mark Reiter,0
+Kwame Alexander,0
+Alan Hollinghurst,0
+Peter F. Drucker,0
+Kieron Gillen,0
+Jamie McKelvie,0
+Matt Wilson,0
+Clayton Cowles,0
+Tetsuko Kuroyanagi,0
+Chihiro Iwasaki,0
+Dorothy Britton,0
+Roger Lowenstein,0
+Natalie Goldberg,0
+Liza Marklund,0
+Julietta Suzuki,0
+Aron Ralston,0
+David Gemmell,0
+Sheila Turnage,0
+Avery Monsen,0
+Jory John,0
+Johnny Cash,0
+Patrick   Carr,0
+Isak Dinesen,2
+Karen Blixen,2
+Robert Crais,0
+Marieke Nijkamp,0
+Steven Pinker,0
+Cynthia Marshall,0
+Zane,0
+Kristen Simmons,4
+Randy Shilts,0
+William Greider,0
+Brigitte Sire,0
+Gilbert Sorrentino,0
+Jordan Sonnenblick,0
+John Banville,0
+L.E. Modesitt Jr.,0
+Ben H. Winters,0
+George R. Stewart,0
+Thea Harrison,0
+Diane Mowat,0
+W.W. Jacobs,0
+Jerry Bridges,0
+Foster W. Cline,0
+Jim Fay,0
+Anne Rivers Siddons,0
+Eric S. Nylund,4
+Frank De Felitta,0
+Nathan  Hill,0
+J. Sheridan Le Fanu,0
+K.A. Linde,0
+Craig Ferguson,0
+Sarah MacLean,0
+Charlotte Rogan,0
+Henryk Sienkiewicz,0
+W.S. Kuniczak,0
+Amy Ewing,0
+Chris d'Lacey,0
+Deborah Guarino,0
+Steven Kellogg,0
+Jacob Tomsky,0
+Tony Horwitz,0
+Robert Descharnes,0
+Laura Dave,0
+Lori Lansens,0
+Wiley Cash,0
+Ann M. Martin,0
+Roland Smith,0
+Sheri  Fink,0
+Guy de Maupassant,0
+Norman Maclean,0
+Maria Duenas,0
+Daniel Hahn,0
+Kristan Higgins,0
+Deborah Blum,0
+Elizabeth Scott,0
+Ananda Maitreya,0
+Balangoda Ananda Maitreya Maitreya,0
+Elisabeth Elliot,4
+khld lkhmysy,0
+Khaled Al Khamissi,0
+Gail Tsukiyama,0
+Sally   Thorne,0
+Julia Heaberlin,0
+Penny Reid,0
+Akira Amano,0
+Frances E. Wall,0
+Alton Brown,0
+Amy Tintera,0
+Carrie Brownstein,0
+Pearl Cleage,0
+The Arbinger Institute,0
+Gentry Lee,0
+Jock,0
+Francesco Francavilla,0
+Jared K. Fletcher,0
+Sal Cipriano,0
+David   Baron,0
+Laural Merlington,0
+James Cameron,0
+Paula Brackston,0
+Katarina Bivald,0
+Alice Menzies,0
+Christian Lander,4
+Heather Dixon,4
+Rachel Dratch,0
+Willy Lindwer,0
+Deborah Rodriguez,1
+mHmd lslm,0
+Ben Mikaelsen,0
+Rachel Kushner,0
+Deborah Feldman,0
+Gary Vaynerchuk,0
+Lloyd C. Douglas,0
+Ellen Titlebaum,0
+Anton DiSclafani,0
+Gavin de Becker,0
+Willard F. Harley Jr.,0
+Kelly Creagh,0
+Sadegh Hedayat,0
+D.P. Costello,0
+Eric Litwin,0
+James Dean,0
+Simon  Jones,0
+R.L. Stine,4
+Melinda Haynes,0
+Danielle Steel,0
+Maura McEvoy,0
+Fisher Amelie,0
+Allison Pearson,0
+Becky  Chambers,0
+Jennifer Lynn Barnes,0
+Carol Tavris,0
+Elliot Aronson,0
+T.R. Ragan,0
+Gina Mayer,0
+Jill Bolte Taylor,0
+Iain Pears,0
+Donny Dhirgantoro,0
+Geoffrey A. Moore,0
+Regis McKenna,0
+Peach-Pit,0
+Neil Shubin,0
+Bob Ong,0
+Linda Asher,0
+Loung Ung,0
+Owen  West,1
+Stephen M.R. Covey,0
+Betty Mahmoody,0
+Joseph Kesselring,0
+Darcie Chan,0
+Jon Lee Anderson,2
+Verna Aardema,0
+Leo Dillon,0
+Diane Dillon,0
+Rebecca Solnit,0
+Alfred Uhry,0
+mn~ lkhmysy,0
+Allan Pease,0
+Barbara Pease,0
+Farley Mowat,0
+Merlin Holland,0
+Cook's Illustrated Magazine,0
+John Burgoyne,0
+Carl Tremblay,0
+Laura C. Schlessinger,4
+Fabio Moon,2
+Gabriel Ba,2
+Sean Konot,2
+Cherise Sinclair,0
+Brit Bennett,0
+Masha,0
+Marie Simchow Stern,0
+Taylor Jenkins Reid,0
+David Timson,0
+Larry Correia,0
+Peter Snejbjerg,0
+Christopher Isherwood,0
+A. Meredith Walters,0
+Eliza Wheeler,0
+Joseph Fink,0
+Jeffrey Cranor,0
+Julie   Murphy,0
+Gina L. Maxwell,0
+Eve Ensler,0
+Gloria Steinem,4
+Barbara Delinsky,0
+Edmund White,0
+Susan Mallery,0
+Ronald A. Beers,0
+Sylvain Neuvel,0
+Barron Storey,0
+Bill Sienkiewicz,0
+Milo Manara,0
+Miguelanxo Prado,0
+Olivia Goldsmith,0
+Maggie O'Farrell,0
+Joanna Trollope,0
+Hugh Osborne,0
+Yoko Ogawa,0
+Stephen Snyder,0
+Niall Ferguson,0
+Robert M. Durling,0
+C.J. Bott,0
+Denise Kiernan,0
+Ed Gorman,0
+John Bedford Lloyd,0
+Mark Dunn,0
+Paul Tremblay,4
+Anne McLean,0
+Rita Williams-Garcia,0
+Jason F. Wright,0
+Blue Balliett,0
+George Beard,0
+Harold Hutchins,0
+Tasha Tudor,0
+Paulo Freire,0
+Myra Bergman Ramos,0
+Donaldo Macedo,0
+Richard Shaull,0
+Ian Doescher,0
+Brad Meltzer,0
+Rags Morales,0
+Michael Bair,0
+Seth,0
+Aaron Ehasz,0
+Alison Wilgus,0
+Amy Kim Ganter,0
+Brian Ralph,0
+Corey Lewis,0
+Dave Roman,0
+Elsa Garagarza,0
+Ethan Spaulding,0
+Frank Pittarese,0
+J. Torres,0
+Joaquim Dos Santos,0
+Johane Matte,0
+John O'Bryan,0
+Joshua Hamilton,0
+Justin Ridge,0
+Kaite Mattila,0
+May Chan,0
+Rawles Marie Lumumba,0
+Reagan Lodge,0
+Tim Hedrick,0
+Tom McWeeney,0
+Catherine McKenzie,0
+Margaret Sidney,0
+Jessica Day George,0
+Jim Bouton,0
+Harriet Lerner,0
+Burton G. Malkiel,0
+Kelly Elliott,0
+Julie Klassen,0
+Michelle A. Valentine,0
+Claire Huchet Bishop,0
+C.S. Pacat,0
+David Frankland,0
+Paul Murray,0
+Jessica Shirvington,0
+Tony Kushner,0
+Dorothy Koomson,0
+John Keats,0
+Joseph Boyden,0
+Frances Wall,0
+Khushwant Singh,0
+Craig Silvey,0
+Michael A. Singer,0
+Marlon James,0
+Nina LaCour,0
+Jami Attenberg,0
+Thomas Piketty,0
+Arthur Goldhammer,0
+Kay Thompson,0
+Hilary Knight,0
+Peter Carey,0
+Elmore Leonard,0
+Nathanael West,0
+Alfred Kazin,0
+Keri Arthur,0
+John Darnielle,0
+Richard DiLallo,0
+Ori Brafman,0
+Rom Brafman,0
+Iris Chang,0
+Jerry A. Coyne,0
+Sarah Jane Hails,0
+Jen Sincero,0
+Jill Mansell,0
+Nicky Charles,0
+Kurtis J. Wiebe,0
+Roc Upchurch,0
+Edan Lepucki,0
+Chuck Wendig,0
+Jennifer Chiaverini,0
+Safiy al-Rahman al-Mubarakfuri,0
+Sarah McCoy,0
+Trina Schart Hyman,0
+Johann Grimm,0
+Martin Pistorius,0
+Megan Lloyd Davies,0
+Greg McKeown,0
+Lisa Renee Jones,0
+L.A. Fiore,0
+Sandi Lynn,0
+Dorothy Kunhardt,0
+Maria Simpson,0
+Dian Fossey,0
+Jeffery Hudson,0
+Adelle Waldman,0
+Matthew Norman,0
+Linda Castillo,0
+Michael Frayn,0
+Cornelius Ryan,0
+C.J. Redwine,0
+Mildred Benson,4
+Taylor Caldwell,0
+Mariana Zapata,0
+Joseph Wambaugh,0
+Kelly McGonigal,4
+A. Michael Matin,0
+Paul  Edwards,0
+Alain de Botton,2
+Heinrich Boll,0
+mHmd sm`ylzdh,0
+Laura McHugh,0
+Richard Wilhelm,0
+Cary F. Baynes,0
+John Buchan,0
+Peter Watts,0
+Nick Offerman,0
+Rafael Albuquerque,0
+Alexis de Tocqueville,0
+Isaac Kramnick,0
+Gerald Bevan,0
+Erica Bauermeister,0
+Roddy Doyle,0
+Martin Amis,0
+Chris Ryall,0
+Brian Herbert,2
+Joseph O'Neill,0
+Alan Bennett,4
+bhrm mqddy,0
+Steve Niles,0
+Ben Templesmith,0
+Youssef Ziedan,0
+Titus Lucretius Carus,0
+Omar Khayyam,0
+Baruch Spinoza,0
+David Hume,0
+James Boswell,0
+Leslie Stephen,0
+Anatole France,0
+Emma Goldman,0
+Carl Van Doren,0
+H.L. Mencken,0
+Albert Einstein,0
+John Betjeman,0
+Chapman Cohen,0
+Philip Larkin,0
+John Leslie Mackie,0
+Michael Shermer,0
+A.J. Ayer,0
+Daniel C. Dennett,0
+Charles Templeton,0
+Victor J. Stenger,0
+Elizabeth S.  Anderson,0
+Steven Weinberg,0
+Ibn Warraq,0
+A.C. Grayling,0
+Fritjof Capra,0
+Kathryn Croft,0
+Elizabeth Eulberg,0
+Renee Knight,0
+Richard Dixon,0
+Hiroyuki Takei,0
+George Sher,0
+Andrew  Smith,0
+Jack Finney,0
+Melvin Burgess,0
+Keigo Higashino,0
+Alexander O. Smith,0
+Niko Henrichon,0
+Jenny McCarthy,0
+William Zinsser,0
+Thomas A. Harris,0
+Jane Werner Watson,0
+Corinne Malvern,0
+S.A. Bodeen,0
+Boris Vian,0
+Kimberly Lauren,0
+Martin Heidegger,0
+Jonathan Kozol,0
+Charlie Higson,0
+Kenneth Oppel,0
+Thomas Tryon,0
+Colin Meloy,0
+Daniel Tammet,0
+Conor Grennan,0
+Kaui Hart Hemmings,4
+Natsumi Ando,0
+Miyuki Kobayashi,0
+Faith Hunter,0
+Mark T. Sullivan,2
+Craig Johnson,2
+Sherwood Smith,0
+Victoria Kann,0
+Elizabeth Kann,0
+Ilan Stavans,0
+Ilsa J. Bick,0
+Robert William Chapman,0
+Tillie Cole,4
+Julee Rosso,0
+Sheila Lukins,0
+Michael McLaughlin,0
+Keri Hulme,0
+Michelle Paver,0
+Geoff Taylor,0
+Gavin Extence,2
+Diana Hammermeister,0
+J.G. Ballard,0
+K.R. Dwyer,2
+Jeffrey Toobin,4
+Sarah Jio,4
+Kyung-Sook Shin,0
+singyeongsug,0
+Chi-Young Kim,0
+Brian Michael Bendis,0
+Olivier Coipel,0
+Tim Townsend,0
+Rick Magyar,0
+John Dell,0
+Scott Hanna,0
+James Taveras,0
+Omar Otieku,0
+Tom Valente,0
+Esad Ribic,0
+Booker T. Washington,0
+Ishmael Reed,0
+Laura Kaye,0
+Albert Uderzo,0
+Derek Hockridge,0
+Gertrude Crampton,0
+Robert Fulghum,0
+Sarah Macdonald,0
+Lisa Jewell,0
+Yoko Kamio,0
+Shen Wei Xie Zi ,0
+Steven Levy,0
+Linda Kage,0
+David Small,0
+Ellis Avery,0
+Tomoko Hayakawa,0
+Jay Bonansinga,0
+Jerzy Kosinski,0
+Jonathan Haidt,0
+Ilya Ilf,0
+Eugene Petrov,0
+Maurice Friedberg,0
+John H.C. Richardson,0
+Kimberly Kirberger,0
+Megan Abbott,0
+Alison Croggon,0
+Simon R. Green,0
+The Beatles,0
+Paul McCartney,0
+Ringo Starr,0
+John Lennon,0
+George Harrison,0
+Christopher  Ryan,0
+Cacilda Jetha,0
+Annette Pollert,0
+Vera B. Williams,0
+Kiyoko Arai,0
+David Hahn,0
+Whitney G.,0
+Jen Hatmaker,0
+Chip Zdarsky,2
+Sharon Kay Penman,2
+Byron Katie,4
+Stephen Mitchell,4
+Sid Fleischman,2
+Peter Sis,2
+MinaLima,0
+John A. Bertolini,0
+Drew Karpyshyn,0
+Elizabeth  Hall,0
+Brigid Kemmerer,0
+Richard Rhodes,0
+Richard Koch,0
+David V. Erdman,0
+Katsuhiro Otomo,0
+Yoko Umezawa,0
+Linda M. York,0
+Jo Duffy,0
+Julie Maroh,0
+Tachibana Higuchi,0
+Tong Kou  Ju ,0
+William Least Heat-Moon,0
+Jenny Davidson,0
+Spencer W. Kimball,0
+Anne Fortier,0
+Gerard Way,0
+Nate Piekos,0
+Tony Ong,0
+Jessica Livingston,0
+Lacey Weatherford,0
+Scott Sigler,0
+Leila Sales,0
+Gloria Naylor,0
+Jacob Wyatt,0
+Siobhan Vivian,0
+Petra Durst-Benning,0
+Samuel Willcocks,0
+Maggie Shipstead,0
+Scott Pratt,0
+Irving Shulman,0
+Steve Krug,0
+Lindy West,0
+Harper Sloan,0
+Jim Kjelgaard,0
+Carl Pfeuffer,0
+Jaclyn Moriarty,0
+Stephen R. Bissette,0
+John Totleben,0
+Rick Veitch,0
+Ramsey Campbell,0
+Laurie Thompson,0
+Karl Weber,0
+Catherine Coulter,0
+James Lee Burke,0
+Thomas a Kempis,0
+William Benham,0
+Peter Shaffer,0
+Sam Smith,0
+Doug Grud,0
+John Ortberg,0
+Janice Y.K. Lee,0
+Livia E. Bitton-Jackson,0
+Roy F. Baumeister,0
+John Tierney,0
+Ford Madox Ford,0
+Kenneth Womack,0
+William Baker,0
+J.L. Bourne,0
+Tony Shasteen,0
+Nei Ruffino,0
+Stephen Fry,0
+John Corey Whaley,0
+Shiv Khera,0
+Leil Lowndes,0
+Gosho Aoyama,0
+Joshilyn Jackson,0
+L.A. Meyer,0
+Phil Knight,0
+Paul Pilkington,0
+Andrew Loomis,0
+Tim Winton,0
+Jack Ketchum,0
+Natsuo Kirino,0
+Philippa Pearce,0
+Susan Einzig,0
+Kevin Stein,0
+David  Perlmutter,0
+Kristin Loberg,0
+Annie Dillard,0
+Daron Acemoglu,0
+James A. Robinson,0
+Marti Olsen Laney,0
+Daphne Merkin,0
+Kathryn Lasky,0
+Gary Taubes,0
+Steve Pugh,0
+Carlos Ezquerra,0
+John M. Barry,0
+Paul Hattaway,0
+Brother Yun,0
+Saul Bellow,0
+Tim Johnston,0
+Kentaro Yabuki,0
+Martha Stewart,0
+Victor Schrager,0
+E.D. Baker,2
+Reginald Rose,0
+David Mamet,2
+Simon Bisley,0
+Bernie Mireault,0
+Anne Enright,0
+Tori Spelling,0
+Julia Scheeres,0
+Angela Marsons,0
+Langston Hughes,0
+QuinRose,0
+Soumei Hoshino,0
+Caroline Alexander,0
+Jay McLean,0
+Lin-Manuel Miranda,0
+Jeremy McCarter,0
+Victoria Blake,0
+Janet Briggs,0
+Beth Wittlinger,0
+Brian Lumley,0
+Truddi Chase,4
+Robert A. Phillips Jr.,4
+Robison Wells,0
+Amy Efaw,0
+Mhairi McFarlane,0
+Kevin D. Mitnick,0
+William L. Simon,0
+Steve Wozniak,0
+Julianna Baggott,0
+Robin Oliveira,0
+Diane Duane,0
+R.C.S. Libri,0
+Robert Graysmith,2
+Graeme Base,0
+Elizabeth   Hunter,0
+Leslie Feinberg,0
+Amy  Stewart,0
+Helen Marion Palmer,4
+Dean Karnazes,0
+Alexandra Potter,0
+Rajaa Alsanea,0
+Carrie Vaughn,0
+Ha Jin,0
+Judith Guest,0
+Jen Wang,0
+Dylan Thomas,0
+Ben Avery,0
+Mike S. Miller,0
+Peter  May,0
+Jerome Lawrence,0
+Robert E.  Lee,0
+Tony Hawks,0
+Gary Jennings,0
+Charlie Jane Anders,4
+Amanda Knox,0
+Jean Ferris,0
+J.J. Abrams,2
+Doug Dorst,0
+Heather O'Neill,0
+mHmd`ly frwGy,0
+qsm Gny,0
+Richard A. Knaak,0
+Carolyn  Parkhurst,0
+Ina May Gaskin,0
+Melissa Muller,0
+Rita Kimber,0
+Robert Kimber,0
+Ambrose Bierce,0
+Katherine Allred,0
+Dale Brown,0
+Miriam Toews,0
+Charles Stross,0
+Sara Novic,0
+Rachel Maddow,0
+Don Winslow,0
+Stephanie Dray,0
+Laura Kamoie,0
+Cynthia Kadohata,0
+Peter Gross,0
+Preeti Shenoy,4
+Robert Hurley,2
+Steven Naifeh,0
+Gregory White Smith,0
+Thomas  Moore,0
+Laurie Notaro,0
+Alice McDermott,0
+Michael Thomas Ford,0
+Elizabeth Ross,0
+ROFry,0
+Auguste Maquet,0
+Mike Mullin,0
+Kim Holden,0
+Trinka Hakes Noble,0
+Dorothy Gilman,4
+Karen Miller,0
+Christiane F.,0
+Kai Hermann,0
+Horst Rieck,0
+John             Lewis,2
+Andrew Aydin,2
+Nate Powell,2
+Hugh Laurie,0
+R.K. Narayan,4
+Mark Manson,0
+James Grady,0
+Jeff Hertzberg,0
+Zoe Francois,0
+Mark Luinenburg,0
+V.S. Naipaul,0
+John Locke,0
+Nicholas Carr,0
+Natasha Solomons,0
+Martin Luther King Jr.,0
+Clayborne Carson,0
+Mineko Iwasaki,0
+Rande Brown,0
+James Tynion IV,0
+Jason Fabok,0
+Becky Cloonan,0
+Andy Clarke,0
+Sandu Florea,0
+Howard E. Wasdin,0
+Stephen Templin,0
+Jana Aston,0
+J.D. Horn,0
+Gordon B. Hinckley,0
+Helena Hunting,0
+Irin Carmon,0
+Shana Knizhnik,0
+Jennifer Estep,0
+John Galsworthy,0
+Laurie Faria Stolarz,0
+James Anderson,0
+George Carlin,4
+Firoozeh Dumas,0
+John P. Kotter,0
+Gene Wolfe,0
+Georgette Heyer,0
+Friedrich A. Hayek,0
+Marko Kloos,0
+William Pene du Bois,0
+Donald A. Norman,0
+Cathy Glass,0
+Joanna Weaver,0
+Laura Lippman,0
+Leslye Walton,0
+Anna Lee Waldo,0
+Gemma Malley,1
+Obert Skye,0
+Stephen E. Robinson,0
+Loreth Anne White,0
+Karen Chance,0
+Lori Brighton,0
+Deb Perelman,0
+J. Michael Straczynski,2
+Shane Davis,2
+Sandra Hope,2
+Barbara Ciardo,2
+Rob Leigh,2
+John Foxe,0
+W. Grinton Berry,0
+Rachel Gibson,0
+Michael Dorris,0
+Seanan McGuire,0
+Robert Lynn Asprin,0
+Elizabeth Reyes,0
+Simon Kuper,0
+Stefan Szymanski,0
+Lurlene McDaniel,0
+Sandy   Hall,0
+John Verdon,0
+James L. Ferrell,0
+Betty Friedan,0
+`bdllh lmGlwth,0
+Meg Jay,0
+John McCrea,0
+Michael Whelan,0
+David Colbert,0
+Peter H. Reynolds,0
+mHmd `bd lrHmn l`ryfy,0
+James Allworth,0
+Karen Dillon,0
+Jon Klassen,0
+Denis Leary,0
+Francoise Sagan,0
+Corban Addison,0
+John Steakley,0
+Ilon Wikland,2
+Jill M. Morgan,2
+Jacqueline Wilson,0
+Nick Sharratt,0
+Evan Wright,0
+Hope Jahren,0
+Patricia Gaffney,0
+Emmy Laybourne,0
+Teri Terry,4
+Pramoedya Ananta Toer,0
+Lorrie Moore,0
+Rebecca Forster,0
+Andrew Sinclair,0
+Kevin Wignall,0
+Cliff Chiang,0
+Tony Akins,0
+Dan Green,0
+Matthew Wilson,0
+David Scott Kastan,0
+Ed Emberley,0
+Jinsei Kataoka,0
+Kazuma Kondou,0
+Linda Lafferty,0
+Robert Harling,0
+David Axton,0
+Caralyn Buehner,0
+Mark Buehner,0
+Alessandra Torre,0
+Sidney Hook,0
+Jack Fruchtman Jr.,0
+David Farland,0
+Suzanne Rindell,0
+Alan Dean Foster,2
+J.M. Darhower,0
+Sara Pennypacker,0
+Marla Frazee,0
+Cassie Dandridge Selleck,0
+Geoff Colvin,0
+George C. Perry,0
+Clive Barda,0
+Jane Rice,0
+Andrew Lloyd Webber,0
+Joel Martinsen,0
+Pepper Winters,0
+Martin Sixsmith,0
+Jim Benton,0
+Liz Murray,0
+Tony Parsons,0
+Miranda Beverly-Whittemore,0
+John Gribbin,0
+F. Paul Wilson,0
+Chris Tebbetts,2
+Laura Park,2
+David A. Vise,0
+Hans Fallada,0
+Michael Hofmann,0
+Geoff Wilkes,0
+Alwyn Hamilton,0
+Joseph L. Henderson,0
+Jolande Jacobi,0
+John Freeman,0
+Marie-Louise von Franz,0
+Gerald N. Lund,0
+Steven  Rowley,0
+Louise Doughty,0
+Stephanie Evanovich,0
+Eiji Yoshikawa,0
+Charles Terry,0
+Edwin O. Reischauer,0
+Matthew      Lewis,0
+Arnaldur Indridason,0
+Bernard Scudder,0
+Lynda Mullaly Hunt,0
+Jim Cymbala,0
+Dean Merrill,0
+Megan Shepherd,0
+Mark Carwardine,0
+Lucy Knisley,0
+Lambert M. Surhone,0
+Shayla Black,2
+Arlette Elkaim-Sartre,0
+Annie Cohen-Solal,0
+Carol Macomber,0
+Scott Belsky,0
+Rachel Isadora,0
+Rory Stewart,0
+Sharon Guskin,0
+Rod Campbell,0
+Hannah Harrington,0
+M.J. Arlidge,0
+Kitty French,4
+Vaddey Ratner,0
+Jack Gantos,0
+Ralph Waldo Emerson,0
+Adele Faber,0
+Elaine Mazlish,0
+Kimberly Ann Coe,0
+Joseph Stein,0
+Jerry Bock,0
+Sheldon Harnick,0
+Sydney Taylor,0
+Katharine Graham,0
+Jane Harper,0
+Charlotte Hughes,0
+Anthony R. Ferris,0
+Rolf Potts,0
+J.C. Reed,0
+Matthew Mather,0
+Nujood Ali,0
+Delphine Minoui,0
+Linda Coverdale,0
+David Auburn,0
+Damon Knight,0
+Robert A. Caro,0
+Dan Jurgens,0
+Jerry Ordway,0
+Louise Simonson,0
+Roger Stern,0
+Jon Bogdanove,0
+Tom Grummett,0
+Jackson Butch Guice,0
+Brett Breeding,0
+Rick Burchett,0
+Doug Hazlewood,0
+Dennis Janke,0
+Denis Rodier,0
+Steven Hall,0
+Sonali Deraniyagala,0
+Andrew Solomon,0
+Barbara Park,0
+Denise Brunkus,0
+Maud Hart Lovelace,0
+Lois Lenski,0
+Sara Zarr,0
+Diane Mott Davidson,0
+James  Jones,0
+Michael Moore,0
+Gerda Weissmann Klein,0
+Elio M. Garcia Jr.,0
+Linda Antonsson,0
+Nando Parrado,0
+Vince Rause,0
+Kimberly Brubaker Bradley,0
+mrDyh wrshwsz,0
+Zoe Heller,0
+Dorothea Benton Frank,0
+Anita Sengupta,0
+G.P. Ching,0
+Rhys Bowen,0
+Elizabeth Haydon,0
+Amin Maalouf,0
+Russell Harris,0
+NoViolet Bulawayo,4
+Marian Potter,0
+Scott Cunningham,4
+Cath Crowley,0
+John Steptoe,0
+Molly Wizenberg,0
+Martin E.P. Seligman,0
+John Lawrence Peterson,0
+Roberta Carter Clark,0
+Barbara Siebel Thomas,0
+Cynthia Voigt,0
+James Alexander Thom,0
+Cristin Terrill,0
+Kimberly Rae Miller,0
+Kathleen Winsor,0
+John  Stephens,0
+Doug Stanton,0
+Yuna Kagesaki,0
+Patricia Polacco,0
+Tiffany Reisz,0
+William  Kennedy,0
+Paul Theroux,0
+Darick Robertson,0
+Liz Moore,0
+Lloyd Jones,0
+Victoria Pearson,0
+John Patrick Shanley,0
+Cate Tiernan,0
+Laurie Fabiano,0
+Soren Kierkegaard,0
+Alastair Hannay,0
+Amelia Atwater-Rhodes,0
+Wallace Tripp,0
+Thor Heyerdahl,0
+Nigel Calder,0
+Robert W. Lawson,0
+Anna Maxted,0
+David James Duncan,0
+Shawn Achor,0
+Kathy  Keller,0
+Philip Tan,0
+Janet Stevens,0
+Matthew J. Bruccoli,0
+Tyler Oakley,0
+Laurence Sterne,0
+Melvyn New,0
+Giles Andreae,0
+Guy Parker-Rees,0
+Mia Ikumi,0
+Reiko Yoshida,0
+Emily M. Danforth,0
+Sue Klebold,0
+Peter Laslett,0
+Raymond Geuss,0
+David  Arnold,0
+Barbara Claypole White,4
+Nick Cutter,0
+Stephen Tapscott,0
+Amy Bloom,0
+Georg Wilhelm Friedrich Hegel,0
+A.V. Miller,0
+John Niemeyer Findlay,0
+Sarah Mlynowski,0
+Julie Gregory,0
+Paulette Jiles,4
+Devdutt Pattanaik,0
+Anthony Hope,0
+Tammy Falkner,0
+J.P. Delaney,0
+Mark Powers,0
+Ardian Syaf,0
+Alex Kava,0
+Allan Curless,0
+M.O. Walsh,0
+Mika Waltari,0
+dhbyHllh mnSwry,0
+Marie Force,0
+Tayeb Salih,0
+Denys Johnson-Davies,0
+Eric-Emmanuel Schmitt,0
+Harold S. Kushner,0
+Susan Coolidge,0
+Philip G. Zimbardo,0
+Nancy Pickard,0
+Michael Pritchard,0
+Rusty Young,0
+Thomas McFadden,0
+Fuyumi Soryo,0
+Alice Waters,0
+Michelle Richmond,4
+Marv Wolfman,0
+George Perez,0
+John Hodgman,0
+Patricia Crampton,0
+Neil Smith,0
+Elisabeth Naughton,0
+Tan Twan Eng,0
+Claudia Rankine,0
+Sarah Prineas,0
+Antonio Javier Caparo,0
+Michael Azerrad,0
+Rosalind Miles,0
+Guy Delisle,0
+Courtney Maum,0
+Michael E. Porter,0
+Wayne A. Grudem,0
+Sarah Andersen,0
+R. Scott Bakker,0
+Kristin Kimball,0
+Melissa Landers,0
+Laura Ruby,0
+Marcus Samuelsson,0
+Stephanie Garber,0
+Cheryl Rainfield,0
+Ahmad Fuadi,0
+Rick Atkinson,0
+Jo Walton,0
+Garr Reynolds,0
+Tom Sniegoski,0
+Thomas E. Sniegoski,0
+Josh Kaufman,0
+Scott  Hawkins,0
+Joel Osteen,2
+Jennifer L. Holm,2
+Mary Beth Chapman,0
+Steven Curtis Chapman,0
+Karen V. Kukil,0
+Jill Conner Browne,0
+Debra Dean,0
+Hannu Rajaniemi,2
+Ludwig Wittgenstein,0
+Spencer Quinn,0
+Caroline Knapp,0
+Kalayna Price,4
+Mary Gordon,0
+Steven Callahan,0
+Howard Schultz,4
+Joanne Gordon,4
+Laurence Rees,0
+Slavomir Rawicz,0
+Durjoy Datta,0
+Maanvi Ahuja,0
+Robyn Carr,0
+Jose Mauro de Vasconcelos,0
+qsm Sn`wy,0
+Ivan Doig,0
+Steve Martini,0
+Gloria Levine,0
+Walter Mosley,0
+Jane Ray,0
+Jim Thompson,0
+Mary Elizabeth Braddon,0
+Jodi Lynn Anderson,0
+Amanda Foreman,0
+A.C. Gaughen,0
+Jimmy Palmiotti,0
+Machado de Assis,2
+Robert Shea,0
+Robert Anton Wilson,0
+Alexander Gordon Smith,0
+Jay Ryan,0
+Nancy Thayer,0
+Poppy Z. Brite,2
+Alan W. Watts,2
+Ramez Naam,4
+Kathleen E. Woodiwiss,0
+Dorie Greenspan,2
+Alan    Richardson,2
+Aya Nakahara,0
+Pookie Rolf,0
+Sharon Mazel,0
+Mark D. Widome,0
+Kristin Levine,0
+Phillip C. McGraw,0
+Hidekaz Himaruya,0
+Andrew Stanton,0
+Herman Parish,0
+Lynn Sweat,0
+Eric Schmidt,0
+Jonathan Rosenberg,0
+Jose Maria de Eca de Queiros,0
+Ester de Lemos,0
+Amy Gentry,0
+Amanda Grange,0
+Miranda Hart,0
+Tim Hamilton,0
+Maki Minami,0
+Hiroshi Sakurazaka,0
+Ying Ban Yang ,0
+Joseph Reeder,0
+Wanda Gag,0
+Ella Carey,0
+Philip C. Stead,0
+Erin E. Stead,0
+Smith Henderson,0
+Lisa Jackson,0
+Erskine Caldwell,0
+Lewis Nordan,0
+Kate Summerscale,0
+Loretta Chase,0
+Glenn Beck,0
+Larry Bird,0
+Earvin Johnson,0
+Jackie MacMullan,0
+Tony Hillerman,0
+Cammie McGovern,0
+Susan Abulhawa,0
+Melissa Nathan,4
+Misty Bernall,0
+Rita Golden Gelman,1
+Lauren Blakely,0
+Elizabeth Bard,0
+Michael Pietsch,0
+Confucius,0
+D.C. Lau,0
+Pamela Des Barres,2
+Dave Navarro,2
+Giuseppe Tomasi di Lampedusa,0
+Paul Jenkins,1
+Joe Quesada,1
+Bill Jemas,1
+Eileen Wilks,0
+Sunny,0
+Sara Douglass,0
+Sandra Gulland,0
+Hsn ljndy,0
+Adam Gidwitz,0
+Alisa Valdes,0
+Alisa Valdes-Rodriguez,0
+Luke Rhinehart,0
+Krista Ritchie,0
+Becca Ritchie,0
+Jill Dembowski,0
+Elijah Wood,0
+Spencer Locke,0
+Eleanor Coerr,0
+Ronald Himler,0
+Josephine Tey,0
+Anais Nin,0
+Stephen Lang,0
+Gsn knfny,0
+Mark Mathabane,0
+Eugene Vinaver,0
+SlH jhyn,0
+yHy~ Hqy,0
+Gene Stratton-Porter,0
+T.M. Frazier,0
+Pierre A. Walker,0
+Nancy Reagin,0
+Masaru Emoto,0
+David A. Thayne,0
+Jason Mott,0
+Ramachandra Guha,0
+Ryan Holiday,0
+Kate Grenville,0
+Ben Carson,0
+Linda Williams,0
+Megan Lloyd,0
+R.C. Sproul,0
+Carole Radziwill,0
+Nancy E. Shaw,0
+Margot Apple,0
+Isai Kamen,0
+Bruno Ernst,0
+John E. Brigham,0
+Steve Perry,0
+Al Ries,2
+Jack Trout,2
+J.B. Salsbury,0
+Hazel Gaynor,0
+Gary Keller,0
+Jay Papasan,0
+Sue Heap,0
+Omar Tyree,0
+Alisa Kwitney,0
+Marc Guggenheim,0
+Alex Maleev,0
+Paul Pen,0
+Simon Bruni,0
+America's Test Kitchen,0
+Daniel J. Van Ackere,0
+Phaedra Patrick,0
+Jodi Meadows,0
+William Kamkwamba,0
+Bryan Mealer,0
+Katherine Addison,0
+Adam Makos,0
+Larry Alexander,0
+Yoshitaka Amano,0
+John Cheever,0
+Neil Simon,0
+V.S. Ramachandran,0
+Sandra Blakeslee,0
+Drew Barrymore,0
+Mario Benedetti,0
+Tamara Ireland Stone,0
+James Andrew Miller,0
+Tom Shales,0
+Morten T. Hansen,0
+Emma Vieceli,0
+Leigh Dragoon,0
+Mem Fox,0
+Jane Dyer,0
+Jessica Verday,2
+P.B. Kerr,0
+Joel Holland,0
+R.S. Grey,0
+`zldyn shkry fshyr,0
+Sara Quin,0
+Joan Bauer,0
+A.M. Homes,0
+Naomi Wolf,0
+Lane T. Dennis,0
+Douglas E. Richards,0
+Miklos Nyiszli,0
+Tibere Kremer,0
+Bruno Bettelheim,0
+Richard Seaver,0
+Kathryn Jackson,0
+Byron Jackson,0
+Gustav Tenggren,0
+Robert Baldick,0
+Geoffrey Wall,0
+Mike Birbiglia,0
+Phil Robertson,0
+Mark Schlabach,0
+Raditya Dika,0
+Tara Sue Me,0
+Jonah Berger,0
+Terry McMillan,0
+Joe Navarro,1
+Marvin Karlins,1
+Lauren Willig,0
+Stephen Sondheim,0
+Hugh Wheeler,0
+Christopher Godfrey Bond,0
+Shusaku Endo,0
+William Johnston,0
+Rachel Ward,0
+Bruce Springsteen,0
+Wednesday Martin,4
+Margot Lee Shetterly,0
+D. Ross Campbell,0
+Carl R. Rogers,4
+Masami Tsuda,0
+Darcy Lockman,0
+Jack Niida,0
+Howard Jacobson,0
+Iris Rainer Dart,0
+David Almond,0
+Maxwell Maltz,0
+Mary Lawson,0
+Leslie Marmon Silko,0
+Deborah Ellis,0
+Stephen Clarke,0
+Frantz Fanon,0
+Richard Philcox,0
+Homi K. Bhabha,0
+David Kopp,0
+Susan Massotty,0
+Robert Jackson Bennett,0
+Bruce Coville,0
+Lauren Henderson,0
+Chris Manby,0
+Jill A. Davis,0
+Stella Duffy,0
+Adele Lang,0
+Carole Matthews,0
+Isabel Wolff,0
+Jessica Adams,0
+Louise Bagshawe,0
+Emily Barr,0
+Jenny Colgan,0
+Lynda Curnyn,0
+Nicola Ferguson,0
+C.S. Friedman,0
+David R. Gillham,0
+James D. Watson,0
+Jamie Oliver,0
+Shoichi Aoki,0
+Mark Sanders,0
+Shoich Aoki,0
+Mary Westmacott,0
+Fiona Carnarvon,0
+S.M. Stirling,0
+Bethany McLean,0
+Peter Elkind,0
+John Shors,0
+Brian Coffey,0
+Kurt Cobain,0
+Mary Downing Hahn,0
+Andrew Pepoy,0
+Antaios Khrusostomides,0
+Eleutheria Kopsida,0
+Clifford D. Simak,0
+Henri J.M. Nouwen,0
+Charles Wheelan,0
+Addison Moore,0
+Laura Wiess,2
+Judith Krantz,0
+Sandra Dallas,0
+Janne Teller,0
+Martin Aitken,0
+Eduardo Risso,0
+Liz Kessler,0
+Sarah Gibb,0
+Sarah Hepola,0
+Joe Hart,0
+Kelly Jones,0
+Daniel Vozzo,0
+Lee Loughridge,0
+Steve Oliff,0
+Rus Wooton,0
+Morgan Rice,0
+Kobo Abe,0
+E. Dale Saunders,0
+Helen R. Lane,0
+Rodney Ramos,0
+James  Hankins,0
+Amy Zhang,0
+Sheldon Vanauken,0
+Anna Jean Mayhew,0
+Jennifer Ashley,0
+Stephen Hunter,0
+Kendra Elliot,0
+Esther Earl,0
+Lori Earl,0
+Wayne Earl,0
+Pauline Reage,0
+Sabine d'Estree,0
+Sean Patrick,0
+Alan Jay Lerner,0
+Elizabeth Norris,0
+J.G. Jones,0
+Chris Claremont,0
+Noam Chomsky,0
+Edward S. Herman,0
+Gerry Bothmer,0
+Horace Walpole,0
+Julia Pierpont,0
+Anne Sexton,0
+Maxine Kumin,0
+David Hackett Fischer,0
+Waris Dirie,0
+Cathleen Miller,0
+Tom Peters,0
+Robert H. Waterman Jr.,0
+Emily Raymond,0
+Bill Finger,0
+Gardner F. Fox,0
+Bob Kane,0
+Jerry Robinson,0
+Sheldon Moldoff,0
+Eric Blehm,0
+Lisa Tawn Bergren,0
+Bob E. Flick,0
+Jim Gallant,0
+Luciano Bianciardi,0
+Erica Jong,0
+Sarah Blakley-Cartwright,0
+David Leslie Johnson,0
+Rashmi Bansal,0
+Nickolas Butler,0
+Mireille Guiliano,0
+Laura Whitcomb,0
+pleasefindthis,0
+Iain S. Thomas,0
+Jon Ellis,0
+Natasha Anders,0
+Angela Elwell Hunt,0
+Tim Jonke,0
+Brent Curtis,0
+Charles Tomlinson,0
+Ali Smith,0
+Patricia Ingham,0
+Lesley Livingston,0
+Franklin Foer,0
+Fernando Pessoa,0
+Richard Zenith,0
+Geoff Johns,0
+Gary Frank,0
+Jon Sibal,0
+Brad Anderson,0
+Sam Lamott,0
+Manning Marable,0
+Marlo Morgan,0
+Bert Dodson,0
+Gene Ha,0
+Joshua Middleton,0
+Inaki Miranda,0
+Len Deighton,0
+Marion Cunningham,0
+Fannie Merritt Farmer,0
+Archibald Candy Corporation,0
+bh Thr,0
+Keary Taylor,2
+Flann O'Brien,0
+Suzanne Wright,4
+Herge,4
+Leslie Lonsdale-Cooper,4
+Michael Turner,4
+Ottessa Moshfegh,0
+Nicholas Ganz,0
+Tristan Manco,0
+Ed Young,0
+Anita Amirrezvani,0
+Anne Rampling,0
+Mary-Jane Knight,0
+Robert Foster,0
+Lucinda Riley,0
+Cynthia Brantley Johnson,0
+Alyssa  Harad,0
+Uwem Akpan,0
+Elly Griffiths,0
+Ebba Segerberg,0
+John Van Fleet,0
+Jesse Delperdang,0
+Harold McGee,0
+Jodee Blanco,0
+Gemma Burgess,0
+Lama Surya Das,0
+Edie Claire,0
+Kim van Alkemade,0
+David Byrne,0
+Heather Burch,0
+Nicky Cruz,0
+Jamie Buckingham,0
+August Wilson,0
+Richard Wurmbrand,0
+Lynda Cohen Loigman,0
+Daniel Coyle,0
+John Farrell,0
+Elizabeth Little,0
+Carrie Anne Noble,0
+David Simon,0
+Benedict Freedman,0
+Nancy Freedman,0
+Connor Franta,0
+Rene Denfeld,0
+Paul  Hoffman,0
+Katie Cotugno,0
+Adam Gopnik,0
+Tyler Hamilton,0
+Oliver Brock,0
+Samad Behrangi,0
+Robertson Davies,4
+Karen Tack,0
+Catherine Bybee,0
+Dick Riley,0
+Pam McAllister,0
+Bruce Cassiday,0
+L.A. Casey,0
+Walter Lord,0
+Brady Udall,0
+Donald Ray Pollock,0
+Saroo Brierley,0
+Clare Naylor,0
+Mimi Hare,0
+Matthew Desmond,0
+Genevieve Cogman,0
+Melissa Anelli,0
+Francisco X. Stork,0
+Tere Liye,0
+Jeffrey Brown,0
+C.J. Box,0
+Jill Alexander Essbaum,0
+Amanda Brown,0
+Susan Dennard,0
+Gavin Menzies,0
+Hope Larson,0
+Liza Klaussmann,0
+G.E.M. Anscombe,0
+Claire Contreras,0
+Scott Dikkers,0
+Maria Schneider,0
+John Krewson,0
+Robert Siegel,0
+Todd Hanson,0
+Carol Kolb,0
+Mike Loew,0
+Tim Harrod,0
+Will Durant,0
+Elaine Pagels,0
+Kyle Mills,0
+Armand Schultz,0
+American Psychiatric Association,0
+Kiyohiko Azuma,0
+azuma kiyohiko,0
+Black Elk,0
+John G. Neihardt,0
+Sara Ryan,0
+Tom Standage,0
+Karen   White,0
+Robert Hicks,0
+Randy Alcorn,0
+Yoko Tanaka,0
+mHmd lmnsy qndyl,0
+Mohamed Mansi Qandil,0
+Stephen R. Lawhead,0
+Hsn kml,0
+Dolen Perkins-Valdez,0
+Beth Moore,0
+John A. Byrne,0
+Mike Barnicle,0
+khld lbtly,0
+Anita Brookner,0
+Joe Sachs,0
+Emily Murdoch,0
+Jill Murphy,0
+Cynthia Rylant,0
+Siri Hustvedt,0
+Todd J. McCaffrey,0
+Ken Robinson,0
+Lou Aronica,0
+William C. Dietz,0
+Billy Collins,0
+Bob Mayer,0
+Apostolos Doxiadis,0
+Christos H. Papadimitriou,0
+Alecos Papadatos,0
+Annie Di Donna,0
+Laurent Binet,0
+Kate Andersen Brower,0
+Lori Nelson Spielman,0
+T.J. Reed,0
+T.A. Barron,0
+Iris Murdoch,0
+Mary Kinzie,0
+L. Ron Hubbard,0
+Carol Burnett,4
+Samuel Shem,0
+Ayse Kulin,0
+John W. Baker,0
+Keri Smith,0
+Edward E. Ericson Jr.,0
+Heinrich Harrer,0
+Suzanne Weyn,0
+Larry Levin,0
+Rose Levy Beranbaum,0
+Maria Guarnaschelli,0
+Vincent Lee,0
+Manuela Paul,0
+Dean G. Bornstein,0
+Robert  Beatty,0
+George Lucas,0
+Sarah Turnbull,0
+Amelie Nothomb,0
+Angela Johnson,0
+Christopher Chabris,0
+Daniel Simons,0
+Steve Toltz,0
+Ramit Sethi,0
+Jeff Wheeler,0
+Charles Bernard Nordhoff,0
+James Norman Hall,0
+Ken Akamatsu,0
+William Arntz,0
+Betsy Chasse,0
+Mark Vicente,0
+Johanna Lindsey,0
+Shirley Foster,0
+Sylvia Raphael,0
+Christopher Prendergast,0
+Marcella Hazan,0
+Karin Kretschmann,0
+Jess Rothenberg,0
+April Henry,0
+Leah Wilson,0
+Mary Borsellino,0
+Terri  Clark,0
+Adrienne Kress,0
+Sarah Darer Littman,0
+Cara Lockwood,4
+Elizabeth M. Rees,0
+Lili Wilkinson,0
+Blythe Woolston,0
+Maggie Nelson,0
+Jann S. Wenner,0
+Corey Seymour,0
+Dominic Smith,0
+Louise Jensen,0
+Margaret Leroy,0
+Thomas C. Foster,0
+Bruce Campbell,0
+Bettina Abarbanell,4
+Rolf Dobelli,0
+Ellen Stoll Walsh,0
+L.D. Davis,0
+Ulrich Bischoff,0
+Charles Harrison,0
+Paul Wood,0
+Herve Tullet,0
+Christopher Franceschelli,0
+Alfred Tennyson,0
+Charles Keeping,0
+Jamie Delano,0
+John Ridgway,0
+Alfredo Alcala,0
+Jane Lynch,0
+Lisa Dickey,0
+Jonathan Renshaw,0
+slTn mws~ lmws~,0
+Walter Moers,0
+John Brownjohn,0
+Raymond Briggs,0
+Winston Graham,0
+Gregg Hurwitz,0
+Bella Andre,0
+Roland Merullo,0
+Suetonius,0
+Michael Grant,0
+Ibraheem Abbas,0
+brhym `bs,0
+Yasser Bahjatt,0
+Charlie LeDuff,0
+Philip Reeve,0
+Mark Pearson,0
+Gemma Halliday,4
+Bernadette Rossetti-Shustak,2
+Caroline Jayne Church,2
+Jim Krueger,2
+Doug Braithwaite,2
+William Nicholson,0
+Scarlett Thomas,0
+Daniel Wallace,0
+Lisa O'Donnell,0
+Tim Tebow,0
+Nathan Whitaker,0
+Patricia M. Scarry,0
+James Luceno,0
+Anderson Cooper,0
+Gloria Vanderbilt,0
+Ann Cleeves,0
+Sarah L. Delany,0
+A. Elizabeth Delany,0
+Amy Hill Hearth,0
+Peter Hedges,0
+J.S. Scott,0
+Sarah Pinborough,0
+Robert W. Chambers,0
+E.F. Bleiler,0
+Nathaniel Branden,0
+Susan  Wilson,0
+Randy Susan Meyers,0
+Ruth Wariner,1
+Charles M. Schulz,0
+Adrian Nicole LeBlanc,0
+Benedict Jacka,0
+Victoria Helen Stone,0
+Sharon G. Flake,0
+Pascal Mercier,0
+Barbara Harshav,0
+Tessa Dare,0
+Martha Grimes,0
+Lucie Whitehouse,0
+The Waiter,0
+Steve Dublanica,0
+Grant Blackwood,0
+Melanie Rawn,0
+Breena Clarke,0
+Nancy Leigh DeMoss,4
+Joe Sacco,0
+Jean   Stone,0
+Yangsze Choo,0
+Karina Halle,0
+Twyla Tharp,0
+Mourid Barghouti,0
+mryd lbrGwthy,0
+Jocelyn Davies,0
+Mark Greaney,0
+Miles Davis,0
+Quincy Troupe,0
+Elizabeth Winthrop,0
+Steven Tyler,0
+Josh Bazell,0
+William S. Baring-Gould,0
+Eric Hill,0
+Yasunari Kawabata,0
+Edward G. Seidensticker,0
+Ergin Altay,0
+Kim Gruenenfelder,0
+Morris Gleitzman,0
+Gary Brandner,0
+Ilana Tan,0
+Oprah Winfrey,0
+Sara B. Larson,0
+Mircea Eliade,0
+Christina McKenna,0
+Glen David Gold,0
+Georges Bataille,0
+Dovid Bergelson,0
+Robert Hass,0
+Randolph Hogan,0
+Christiane Northrup,0
+Lindsay Ashford,0
+Danielle L. Jensen,0
+Andy Cohen,0
+Assata Shakur,0
+Angela Y. Davis,0
+Lennox S. Hinds,0
+Paul Galdone,0
+Peter Christen Asbjornsen,0
+Willow Aster,0
+Corina Bomann,0
+Alison Layland,0
+Edward M. Kennedy,0
+James Hilton,0
+Nella Larsen,0
+Thadious M. Davis,0
+Michael Reaves,0
+Harry Bernstein,0
+Brenna Yovanoff,0
+Tony Hendra,0
+Homer Hickam,0
+Val McDermid,0
+Robin Norwood,0
+Perry Moore,4
+Alex Kotlowitz,0
+John D. Fitzgerald,0
+Sonya Sones,0
+Danielle Trussoni,0
+Paula H. Deen,0
+J.S. Bernstein,0
+Nicholas Pileggi,0
+Patrick Stewart,0
+`bs m`rwfy,0
+Cynthia Swanson,0
+Anatoli Boukreev,0
+G. Weston DeWalt,0
+Django Wexler,0
+Bart D. Ehrman,0
+George Gordon Byron,0
+Peter J. Manning,0
+Susan J. Wolfson,0
+Anna Gavalda,0
+Peter Lynch,0
+John Rothchild,0
+Bertolt Brecht,4
+David Hare,4
+Nic Pizzolatto,0
+Mac Barnett,0
+Justin Torres,0
+Edmund Spenser,0
+Thomas P. Roche,0
+C. Patrick O'Donnell,0
+Alissa Nutting,0
+Arthur Nersesian,0
+Steve Alten,2
+John O'Hara,0
+Janet Ahlberg,0
+Allan Ahlberg,0
+Gene Kim,0
+Kevin Behr,0
+George Spafford,0
+Brandon Stanton,0
+Tabitha King,0
+Erin Gruwell,0
+Zlata Filipovic,0
+The Freedom Writers,0
+Fareed Zakaria,0
+Dinah Bucholz,0
+Bill Browder,0
+David Bach,0
+Cat Patrick,0
+Jill Leovy,0
+Terry Jones,0
+Paul Torday,0
+Alex  Ross,0
+Katie Klein,0
+Trish Doller,0
+Glenn Greenwald,0
+Hafez,0
+John L. Parker Jr.,0
+Ben Hatke,0
+Barbara Reynolds,4
+William  Boyd,0
+Amy Lichtenhan,0
+A.L. Jackson,0
+David Lebovitz,4
+Grace Draven,0
+Ronald C. White Jr.,2
+Sylvan Barnet,2
+Alvin Kernan,2
+Russell Fraser,2
+Gayle Tzemach Lemmon,0
+Tonya Hurley,0
+Alafair Burke,0
+Aaron Alexovich,0
+Larry Bond,0
+Patrick Larkin,0
+Rebecca Cantrell,0
+Josh Kilmer-Purcell,0
+Michael Herr,0
+Lorenzo Carcaterra,0
+Walter Benjamin,0
+Michael W. Jennings,0
+Brigid Doherty,0
+Edmund F.N. Jephcott,0
+Rodney Livingstone,0
+Howard Eiland,0
+Thomas Y. Levin,0
+Sarah Palin,0
+Dewey Whetsell,0
+Anne Byrn,0
+Anthony Loew,0
+Forrest Carter,0
+Richard Brautigan,0
+Ali Novak,0
+Fallzswimmer,0
+Crissy Calhoun,0
+Laurann Dohner,0
+David B.,0
+Tracy Letts,0
+Susan Elia MacNeal,0
+Christopher Priest,0
+Donald McCaig,0
+Melody Anne,0
+Andrew Hunt,0
+Dave Thomas,0
+Katee Robert,0
+Richard Poe,0
+Pamela Rambo,0
+Clem Robins,0
+Diablo Cody,0
+'nys mnSwr,0
+Steven Spielberg,0
+Robert O'Keefe,0
+F. Murray Abraham,0
+Michael York,0
+Kate Nelligan,0
+David Purdham,0
+Audre Lorde,0
+Hye-Kyung Baek,0
+Amy Waldman,0
+Ian McKellen,0
+Jenna Black,0
+Stephen Jones,0
+Kim Newman,0
+Brian Mooney,0
+Nicholas Royle,0
+David Langford,0
+Michael Marshall Smith,0
+Basil Copper,0
+Jack Yeovil,0
+Guy N. Smith,0
+Adrian Cole,0
+D.F. Lewis,0
+David Sutton,0
+Nick Cave,0
+Jeff Brown,0
+Scott Nash,0
+Macky Pamintuan,0
+Donald Crews,0
+Kate Clifford Larson,0
+Jennifer Haigh,0
+Garth Risk Hallberg,0
+Eric Jerome Dickey,0
+Georgia Byng,0
+Tom Brokaw,0
+Lynn Flewelling,0
+Jacqueline Davies,0
+John Searles,0
+Robert Venditti,0
+Jose Villarrubia,0
+Attila Futaki,0
+Clint Hill,0
+Lisa McCubbin,0
+W.P. Kinsella,0
+Charles Martin,0
+Peter Jenkins,0
+Michael Patrick MacDonald,0
+William March,0
+Elaine Showalter,0
+Kim Karr,0
+Ira Wagler,0
+Toni Aleo,0
+J.  Daniels,0
+Steve Sheinkin,0
+Suketu Mehta,0
+Bob Grant,0
+Carolly Erickson,0
+Brian Kilmeade,0
+Don Yaeger,0
+Christine Zolendz,0
+Bjarne Hansen,0
+Federico Garcia Lorca,0
+Antonio Sobejano-Moran,0
+Paola Bianco,0
+Lettie B. Cowman,0
+James Reimann,0
+Joshua Lewis,0
+Chris Heimerdinger,0
+Jenna Jameson,0
+Jacquelyn Frank,0
+Katie MacAlister,0
+Mary Hoffman,0
+Caroline Binch,0
+Nancy Tillman,0
+Rachel Bertsche,0
+Jon Foster,0
+Francois Lelord,0
+Lorenza Garcia,0
+Indu Sundaresan,0
+Erica Stevens,0
+Hanif Kureishi,0
+Sarah Crossan,0
+Alex Rosenberg,0
+Michael J. Sandel,0
+Leila Meacham,0
+Mordicai Gerstein,0
+Jacqueline Sheehan,0
+Bob Gale,0
+Devin Grayson,0
+Dale Eaglesham,0
+Jeffrey D. Sachs,0
+Bono,0
+Esi Edugyan,0
+Katrina Kittle,0
+Robin Benway,0
+Victoria Jamieson,0
+Randall Wallace,0
+Jim Fern,0
+Andre Aciman,0
+Anne Michaels,0
+Richard Stearns,0
+Gary Ezzo,0
+nwr `bdlmjyd,0
+Steve Coll,0
+E.C. Diskin,0
+Phyllis T. Smith,0
+Tad Carpenter,0
+Don Richardson,0
+Jed Rubenfeld,0
+Alfred Gough,0
+Miles Millar,0
+Dave McCaig,0
+Gerry Alanguilan,0
+Leinil Francis Yu,0
+Martha Weston,0
+Caroline Mustill,0
+Clifford Harper,0
+H.P. Mallory,0
+Geneen Roth,0
+William M. Hutchins,0
+Olive E. Kenny,0
+Andrew  Peterson,0
+Frank Bettger,0
+Billy Crystal,0
+Jackie Collins,0
+Erma Bombeck,0
+Cheryl McIntyre,0
+Bill Hybels,0
+Lavonne Neff,0
+Teju Cole,0
+Janice  Thompson,0
+Al Mayton,0
+Ian McGuire,0
+Judith Affleck,0
+Philip de May,0
+Patricia E. Easterling,0
+John     Harrison,0
+David Baggett,0
+Shawn E. Klein,0
+Henry Marsh,0
+Katharine Hepburn,0
+Neil A. Fiore,0
+Joel C. Rosenberg,0
+Alice  Miller,0
+Ruth Ward,0
+Dale Wasserman,0
+Austin Grossman,0
+Graham Swift,4
+Annette Lavers,4
+Malcolm Heath,0
+Melanie Gideon,0
+Colleen Oakley,0
+Margot Livesey,0
+Mary J. Gregor,0
+Christine M. Korsgaard,0
+Donna Russo Morin,0
+Erlend Loe,0
+Tor Ketil Solberg,0
+Meca Tanaka,0
+Tian Zhong meka,0
+Andy Andrews,0
+John Lanchester,0
+Shana Norris,4
+Linda Fairstein,0
+Jay Winik,0
+Julie Buxbaum,0
+HaveYouSeenThisGirL,0
+Jan Irene Villar,0
+Debora Geary,0
+Elle Casey,0
+Si Robertson,0
+Kady Cross,4
+Daniel Glattauer,0
+James Lincoln Collier,0
+Christopher Collier,0
+Tom Holland,0
+Molly Harper,0
+Eloisa James,0
+Derf Backderf,0
+Cindy C. Bennett,0
+Dick King-Smith,0
+Maggie Kneen,0
+Jack McCallum,0
+David Maxfield,4
+Joel Fuhrman,0
+Susan S. Adler,0
+Renee Graef,0
+Nancy Niles,0
+Sebastian Barry,0
+Greg Rucka,0
+Stephanie Bond,0
+Chelsea Fine,0
+Alex Marwood,0
+John Brunner,0
+Gwen Cooper,0
+Bette Greene,0
+Gardner R. Dozois,0
+Matthew Hughes,0
+Michael Swanwick,0
+David  Ball,0
+Bradley Denton,0
+Paul Cornell,0
+Steven Saylor,0
+Walter Jon Williams,0
+Phyllis Eisenstein,0
+Lisa Tuttle,0
+Jodi Daynard,0
+Cora Reilly,0
+Mason Currey,2
+Kevin Malarkey,4
+Alex Malarkey,4
+Sarra Manning,0
+Juan Gabriel Vasquez,0
+Ruth Cardello,0
+Terry Bisson,0
+Michael A. Stackpole,0
+Neil Postman,0
+Andrew Postman,0
+Lynley Dodd,0
+Pattie Boyd,0
+Penny Junor,0
+Ann Hood,0
+Roderick Gordon,0
+Brian  Williams,0
+Bob Spitz,0
+Greg Pak,0
+Aaron Lopresti,0
+Carlo Pagulayan,0
+Juan Santacruz,0
+Takeshi Miyazawa,0
+David Starkey,0
+Dean Hughes,0
+Donna Leon,0
+Norman Page,0
+Virginia M. Axline,0
+Steve Lieber,0
+Jesse Hamm,0
+Annie Wu,0
+Barbara Ann Brennan,0
+Jos. A. Smith,0
+Bohumil Hrabal,0
+Mark Bagley,0
+M. Pierce,0
+Hugh Fraser,0
+Chris Crutcher,0
+R.D. Blackmore,0
+Michelle Allen,0
+Robin Bailey,0
+Stacy King,0
+SunNeko Lee,0
+Crystal S. Chan,0
+S.A.R.K.,0
+Alex   Sanchez,0
+Laura A. Wideburg,0
+Melissa Senate,0
+Audrey Geisel,0
+`mr Thr,0
+Jonathan L. Howard,0
+Ryu Murakami,2
+Ralph McCarthy,2
+Jason  Matthews,0
+Ben Macintyre,0
+Dick Winters,4
+Cole C. Kingseed,4
+Jennifer Rush,0
+M.C. Beaton,4
+Richard Siken,0
+David McKee,1
+Yotam Ottolenghi,0
+Richard   Phillips,0
+E.L. Montes,0
+Morton Rhue,0
+Todd Strasser,0
+Helen Hooven Santmyer,0
+L.J. Shen,0
+Francois Rabelais,4
+M.A. Screech,4
+Glen Duncan,0
+Hikaru Suruga,0
+Gan Sunaaku,0
+Thomas Frank,0
+`mrw slm@,4
+Ruth Krauss,2
+Josh Hamilton,0
+Kevin Hawkes,0
+Guy Debord,0
+Donald Nicholson-Smith,0
+Gennifer Albin,0
+Robert Leckie,0
+Angie Thomas,0
+mSTf~ brhym,0
+S.H. Kolee,0
+Marshall McLuhan,0
+Quentin Fiore,0
+Jerome Agel,0
+Kentaro Miura,0
+Jason DeAngelis,0
+Cynthia Bond,0
+Thomas Merton,0
+Robert Giroux,0
+William H. Shannon,0
+Melanie Watt,2
+Paul Neilan,4
+Lawrence Kasdan,2
+Michael Arndt,2
+Curt Swan,0
+Kurt Schaffenberger,0
+Nevada Barr,0
+Shelly Laurenston,0
+Scott Anderson,0
+Peter Norberg,0
+Cynthia J. McGean,0
+Robert Andrew Parker,0
+Alex Berenson,0
+Jacqueline Briggs Martin,0
+Mary Azarian,0
+Jenny O'Connell,0
+G.A. Aiken,0
+Leisa Rayven,0
+Elizabeth Bishop,0
+Thomas Wolfe,0
+William McDonough,0
+Michael Braungart,0
+Marc Weissbluth,0
+Keith Akin,0
+Monty Roberts,0
+Lawrence Scanlan,0
+Michael Baigent,0
+Richard Leigh,0
+Henry Lincoln,0
+mHmdSdq ry'ysy,0
+Nils Johnson-Shelton,0
+Peter Telep,0
+Kate Hamer,0
+Marcia Clark,4
+Eldridge Cleaver,0
+Edwin M. Curley,0
+Stuart Hampshire,0
+Edwin Curley,0
+Jessi Klein,0
+Andre Norton,0
+Jane Shemilt,0
+Darwyn Cooke,0
+Megan McDonald,0
+Christian Rudder,0
+Sarah Lotz,0
+Donald J. Trump,0
+Tony Schwartz,0
+Alex Lake,0
+Arianna Huffington,0
+Julie Hockley,0
+Mark Walden,0
+tmr brhym,0
+Jana Oliver,0
+James Agee,0
+Andrea Kettenmann,0
+Gwen Hayes,0
+Kiyo Fujiwara,0
+Michael D. Watkins,0
+Jean Lee Latham,0
+AnnaLisa Grant,0
+Margaret Edson,0
+The Harvard Lampoon,0
+Stephen Davis,0
+Kathe Mazur,0
+Adolfo Bioy Casares,0
+Suzanne Jill Levine,0
+Ruth L.C. Simms,0
+Norah Borges de Torre,0
+Leslie Jamison,0
+Courtney Milan,0
+Henry Hazlitt,0
+Julia Claiborne Johnson,0
+Cathy Hopkins,2
+Roger Lea MacBride,0
+David Gilleece,0
+Hector Tobar,0
+Francis A. Schaeffer,0
+Robert Coles,0
+George Ford,0
+Patricia Harman,0
+Patty Lovell,0
+David Catrow,0
+Nick Flynn,0
+Richard Llewellyn,0
+Carol Lynch Williams,0
+Jim Loehr,0
+Edward Gibbon,0
+Daniel J. Boorstin,0
+Gian Battista Piranesi,0
+Hans-Friedrich Mueller,0
+Donald Hall,0
+Jeff Lemire,0
+Carlos M. Mangual,0
+Rafael Sabatini,0
+Adi Granov,0
+Les Edwards,0
+D.J. Molles,0
+Richard S. Kennedy,2
+Mathias Malzieu,0
+Laura  McBride,0
+Amanda Berry,0
+Gina DeJesus,0
+Mary Jordan,0
+Kevin Sullivan,0
+Elisabeth Egan,4
+Lucy Sykes,0
+Jo Piazza,0
+Deanna Raybourn,0
+Loek Koopmans,0
+Charles Perrault,0
+Liesl Shurtliff,0
+Jeremy York,0
+Tatiana Sokolov,0
+Elyn R. Saks,0
+Natasha Friend,0
+Richard Henry Dana Jr.,0
+Amy Brown,0
+Charles  de Lint,0
+Martin Waddell,1
+Patrick Benson,1
+Angela Flournoy,0
+Ted Andrews,0
+Winston Allen,0
+Margaret K. Andrews,0
+Stephanie Kallos,0
+Babe Walker,0
+Mo Hayder,0
+Mark    Adams,4
+Andrew Adamson,4
+Jean Anouilh,0
+Barbara Taylor Sissel,0
+Judith Kerr,0
+Suki Kim,0
+Joan Aiken,0
+Pat Marriott,0
+Nick Bruel,0
+Joyce Johnson,0
+shrb sphry,0
+Eva Ibbotson,0
+Harry Harrison,0
+W.G. Sebald,4
+Laura  Barnett,0
+Johanna Edwards,0
+Lauren Morrill,0
+Charlie Lovett,0
+Aleksandr Griboyedov,0
+Aleksandr Sergeevich Griboedov,0
+Howard Dully,0
+Charles Fleming,0
+Karen Harper,0
+Jose Emilio Pacheco,0
+Emery Lord,0
+Ilsa Madden-Mills,0
+Alice LaPlante,0
+Angela Duckworth,0
+Dan Abnett,0
+Max Frisch,0
+Alex Gino,0
+Ellen Levine,4
+Kadir Nelson,4
+Jana Deleon,0
+Barthe DeClements,0
+Lawrence Ferlinghetti,0
+Christopher Buckley,0
+Nicci French,0
+Shauna Niequist,0
+Tedd Arnold,0
+Sally Fallon Morell,0
+Abigail Haas,0
+Abby McDonald,0
+Malvina G. Vogel,0
+Adam M. Grant,0
+Maria Dahvana Headley,0
+Grady Hendrix,0
+Michael Rogalski,0
+Alexandra Horowitz,2
+Hugh Ambrose,0
+Terry Ryan,0
+Inga Muscio,0
+Betty Dodson,0
+Maria Augusta von Trapp,0
+Giulia Enders,0
+Jill Enders,0
+John M. Gottman,0
+Nan Silver,0
+Yukio Mishima,0
+John Nathan,0
+Deeanne Gist,0
+Peter Matthiessen,0
+Steve Pieczenik,0
+Terri Blackstock,0
+John Rawls,0
+Oscar Hijuelos,0
+Ben Okri,0
+Miles  Cameron,0
+Ian Mortimer,0
+Peggy Orenstein,0
+John Keegan,0

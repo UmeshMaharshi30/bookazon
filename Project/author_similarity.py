@@ -7,8 +7,10 @@ Created on Fri Nov 30 20:15:49 2018
 
 from os import system
 import pandas as pd
-import numpy
+import numpy as np
 from unidecode import unidecode
+import matplotlib.pyplot as plt
+from sklearn.cluster import KMeans
 
 book_file = "../data set/books.csv";
 tag_clean_file = "../Cleansed/tags.csv";
@@ -16,9 +18,11 @@ tag_file = "../data set/tags.csv";
 book_tag_file = "../data set/book_tags.csv";
 book_tag_clean_file = "../Cleansed/book_tags.csv";
 genres = ["Art", "Biography", "Business", "Chick Lit", "Children's", "Christian", "Classics", "Comics", "Contemporary", "Cookbooks", "Crime", "Ebooks", "Fantasy", "Fiction", "Gay and Lesbian", "Graphic Novels", "Historical Fiction", "History", "Horror", "Humor and Comedy", "Horror", "Manga", "Memoir", "Music", "Mystery", "Nonfiction", "Paranormal", "Philosophy", "Poetry", "Psychology", "Religion", "Romance", "Science", "Science Fiction", "Self Help", "Suspense", "Spirituality", "Sports", "Thriller", "Travel", "Young Adult"];
+auth_cols = ["author", "Art", "Biography", "Business", "Chick Lit", "Children's", "Christian", "Classics", "Comics", "Contemporary", "Cookbooks", "Crime", "Ebooks", "Fantasy", "Fiction", "Gay and Lesbian", "Graphic Novels", "Historical Fiction", "History", "Horror", "Humor and Comedy", "Horror", "Manga", "Memoir", "Music", "Mystery", "Nonfiction", "Paranormal", "Philosophy", "Poetry", "Psychology", "Religion", "Romance", "Science", "Science Fiction", "Self Help", "Suspense", "Spirituality", "Sports", "Thriller", "Travel", "Young Adult" ];
 tag_cols = ["tag_id", "tag_name"];
 book_cols = ["id", "authors"];
 author_gen = "../Cleansed/authors.csv";
+author_class = "../Cleansed/authors_class.csv";
 
 cleaned_tags = [];
 
@@ -81,9 +85,31 @@ def process_authors():
         for item in authors:
             file_handler.write("{}\n".format(unidecode(getattr(authors[item], "name")) + "," + ','.join(map(str,getattr(authors[item], "genres")))));
  
-def knn_author(auth):   
+def knn_author():   
     # given an author find his k nearest neighbors
-    print(auth);
+    authors = pd.read_csv(author_gen, usecols=auth_cols);
+    author_data = [];
+    for index, row in authors.iterrows():
+        gen_data = [0]*len(genres);
+        for gen_name in range(0 ,len(genres)):
+            gen_data[gen_name] = row[genres[gen_name]];
+        author_data.append(gen_data);
+    author_data = np.array(author_data);
+    kmeans = KMeans(n_clusters=5)
+    kmeans.fit(author_data)
+    #print(kmeans.cluster_centers_)
+    y_km = kmeans.fit_predict(author_data)
+    plt.scatter(author_data[y_km ==0,0], author_data[y_km == 0,1], s=100, c='red')
+    plt.scatter(author_data[y_km ==1,0], author_data[y_km == 1,1], s=100, c='black')
+    plt.scatter(author_data[y_km ==2,0], author_data[y_km == 2,1], s=100, c='blue')
+    plt.scatter(author_data[y_km ==3,0], author_data[y_km == 3,1], s=100, c='cyan')
+    plt.scatter(author_data[y_km ==4,0], author_data[y_km == 4,1], s=100, c='pink')
+    with open(author_class, 'w') as file_handler:
+        file_handler.write("{}\n".format("author" + ',' + "class"))
+        for index,row in authors.iterrows():
+            #print(row["author"]);
+            file_handler.write("{}\n".format(row["author"] + "," + str(y_km[index])));
+    
     
     
 class Author:
