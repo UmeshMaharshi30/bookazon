@@ -83,33 +83,50 @@ def process_authors():
     with open(author_gen, 'w') as file_handler:
         file_handler.write("{}\n".format("author" + ',' + ','.join(genres)))
         for item in authors:
-            file_handler.write("{}\n".format(unidecode(getattr(authors[item], "name")) + "," + ','.join(map(str,getattr(authors[item], "genres")))));
+            file_handler.write("{}\n".format(unidecode(getattr(authors[item], "name")) + "," + ','.join(map(str, normalize(getattr(authors[item], "genres"))))));
+
+def normalize(gen_arr):
+    total_books = 0;
+    for c in gen_arr:
+        total_books = total_books + c;
+    if total_books > 0:
+        for i in range(0, len(gen_arr)):
+            gen_arr[i] = gen_arr[i]/total_books;
+    return gen_arr;        
  
 def knn_author():   
     # given an author find his k nearest neighbors
     authors = pd.read_csv(author_gen, usecols=auth_cols);
     author_data = [];
+    clusters = 10;
     for index, row in authors.iterrows():
         gen_data = [0]*len(genres);
         for gen_name in range(0 ,len(genres)):
             gen_data[gen_name] = row[genres[gen_name]];
         author_data.append(gen_data);
     author_data = np.array(author_data);
-    kmeans = KMeans(n_clusters=5)
+    kmeans = KMeans(n_clusters=clusters, algorithm="elkan")
     kmeans.fit(author_data)
     #print(kmeans.cluster_centers_)
     y_km = kmeans.fit_predict(author_data)
-    plt.scatter(author_data[y_km ==0,0], author_data[y_km == 0,1], s=100, c='red')
     plt.scatter(author_data[y_km ==1,0], author_data[y_km == 1,1], s=100, c='black')
     plt.scatter(author_data[y_km ==2,0], author_data[y_km == 2,1], s=100, c='blue')
     plt.scatter(author_data[y_km ==3,0], author_data[y_km == 3,1], s=100, c='cyan')
     plt.scatter(author_data[y_km ==4,0], author_data[y_km == 4,1], s=100, c='pink')
+    plt.scatter(author_data[y_km ==5,0], author_data[y_km == 5,1], s=100, c='green')
+    plt.scatter(author_data[y_km ==6,0], author_data[y_km == 6,1], s=100, c='grey')
+    plt.scatter(author_data[y_km ==7,0], author_data[y_km == 7,1], s=100, c='orange')
+    plt.scatter(author_data[y_km ==8,0], author_data[y_km == 8,1], s=100, c='violet')
+    plt.scatter(author_data[y_km ==9,0], author_data[y_km == 9,1], s=100, c='indigo')
+    plt.scatter(author_data[y_km ==0,0], author_data[y_km == 0,1], s=100, c='red')
+    stats_data = [0]*clusters;
     with open(author_class, 'w') as file_handler:
         file_handler.write("{}\n".format("author" + ',' + "class"))
         for index,row in authors.iterrows():
             #print(row["author"]);
+            stats_data[y_km[index]] = stats_data[y_km[index]] + 1;
             file_handler.write("{}\n".format(row["author"] + "," + str(y_km[index])));
-    
+    print(stats_data);
     
     
 class Author:
