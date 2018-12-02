@@ -8,7 +8,7 @@ Created on Fri Nov 30 20:15:49 2018
 from os import system
 import pandas as pd
 import numpy
-
+from unidecode import unidecode
 
 book_file = "../data set/books.csv";
 tag_clean_file = "../Cleansed/tags.csv";
@@ -18,6 +18,7 @@ book_tag_clean_file = "../Cleansed/book_tags.csv";
 genres = ["Art", "Biography", "Business", "Chick Lit", "Children's", "Christian", "Classics", "Comics", "Contemporary", "Cookbooks", "Crime", "Ebooks", "Fantasy", "Fiction", "Gay and Lesbian", "Graphic Novels", "Historical Fiction", "History", "Horror", "Humor and Comedy", "Horror", "Manga", "Memoir", "Music", "Mystery", "Nonfiction", "Paranormal", "Philosophy", "Poetry", "Psychology", "Religion", "Romance", "Science", "Science Fiction", "Self Help", "Suspense", "Spirituality", "Sports", "Thriller", "Travel", "Young Adult"];
 tag_cols = ["tag_id", "tag_name"];
 book_cols = ["id", "authors"];
+author_gen = "../Cleansed/authors.csv";
 
 cleaned_tags = [];
 
@@ -40,11 +41,11 @@ def pre_process_book_tag_file():
     book_tags = pd.read_csv(book_tag_file);
     for index, row in book_tags.iterrows():
         if(row[2] in tags):
-            cleaned_book_tags.append(Book(row[0], row[2]));
+            cleaned_book_tags.append(Book(row[0], row[2], tags[row[2]]));
     with open(book_tag_clean_file, 'w') as file_handler:
-        file_handler.write("{}\n".format("book_id" + ',' + "tag_id"))
+        file_handler.write("{}\n".format("book_id" + ',' + "tag_name"))
         for item in cleaned_book_tags:
-            file_handler.write("{}\n".format(str(getattr(item, "bookid")) + ',' + str(getattr(item, "tagid"))));
+            file_handler.write("{}\n".format(str(getattr(item, "bookid")) + ',' + str(getattr(item, "tagname"))));
 
 def get_all_tags():
     clean_tags = pd.read_csv(tag_clean_file, usecols=tag_cols);
@@ -56,10 +57,35 @@ def get_all_tags():
 def process_authors():
     books = pd.read_csv(book_file, usecols=book_cols);
     authors = {};
+    book_author = {};
     for index, book in books.iterrows():
-        if(book[1] not in authors):
-            authors.update({book[1] : Author(book[1])});    
-
+        book_author.update({str(book[0]) : book[1].split(",")});
+        #print(book_author[str(book[0])]);
+        for col_auth in book[1].split(","):
+            col_auth = unidecode(col_auth.strip());
+            if(col_auth not in authors):
+                authors.update({col_auth : Author(col_auth)});     
+    print(len(authors));
+    book_tags = pd.read_csv(book_tag_clean_file, usecols=["book_id", "tag_name"]);
+    for index, row in book_tags.iterrows():
+        #print(row[0], row[1]);
+        if str(row[0]) in book_author:
+            #print(book_author[str(row[0])]);
+            for aut in book_author[str(row[0])]:
+                aut = unidecode(aut.strip());
+                if aut in authors:
+                    gen_arr = getattr(authors[aut], "genres");
+                    gen_arr[genres.index(row[1])] = gen_arr[genres.index(row[1])] + 1;    
+    with open(author_gen, 'w') as file_handler:
+        file_handler.write("{}\n".format("author" + ',' + ','.join(genres)))
+        for item in authors:
+            file_handler.write("{}\n".format(unidecode(getattr(authors[item], "name")) + "," + ','.join(map(str,getattr(authors[item], "genres")))));
+ 
+def knn_author(auth):   
+    # given an author find his k nearest neighbors
+    print(auth);
+    
+    
 class Author:
   def __init__(self,name):
     self.name = name
@@ -67,7 +93,8 @@ class Author:
     
     
 class Book:
-  def __init__(self, bookid, tagid):
+  def __init__(self, bookid, tagid, tagname):
+    self.tagname = tagname;
     self.bookid = bookid
     self.tagid = tagid
     
@@ -79,8 +106,9 @@ class Tag:
 
 def main():   
     #clean_all_tags();
+    #pre_process_book_tag_file();
     #process_authors();
-    pre_process_book_tag_file();
+    knn_author();
 
 if __name__ == '__main__':
     main()       
