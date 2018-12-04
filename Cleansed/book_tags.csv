@@ -1,6 +1,5 @@
 book_id,tag_name
 1,Christian
-1,Philosophy
 2,Psychology
 2,Art
 2,Art
@@ -8,14 +7,11 @@ book_id,tag_name
 2,Business
 2,Business
 2,Business
-3,Paranormal
 3,Art
 3,Fiction
 3,Art
-3,Sports
 3,Comics
 3,Art
-3,Religion
 3,Fiction
 3,Art
 5,Biography
@@ -23,14 +19,12 @@ book_id,tag_name
 5,History
 6,Classics
 6,Biography
-6,Thriller
 6,Business
 8,Fiction
 10,Fiction
 10,History
 10,Fiction
 11,Fiction
-11,Thriller
 11,Art
 11,Fiction
 11,Fiction
@@ -111,7 +105,6 @@ book_id,tag_name
 33,Cookbooks
 34,Fantasy
 34,Christian
-34,Thriller
 34,Fiction
 34,Business
 34,Fiction
@@ -147,7 +140,6 @@ book_id,tag_name
 67,Fiction
 67,Fiction
 93,Art
-93,Philosophy
 93,Cookbooks
 93,History
 93,Fiction
@@ -340,7 +332,6 @@ book_id,tag_name
 415,Fiction
 415,Fiction
 415,Fiction
-424,Romance
 424,Psychology
 424,Psychology
 424,History
@@ -509,7 +500,6 @@ book_id,tag_name
 827,Fiction
 827,Fiction
 827,Fiction
-830,Horror
 830,Art
 830,Fiction
 830,Fiction
@@ -565,7 +555,6 @@ book_id,tag_name
 890,Fiction
 890,Fantasy
 890,Fantasy
-902,Suspense
 902,Fantasy
 902,Fiction
 902,Fantasy
@@ -886,8 +875,6 @@ book_id,tag_name
 1624,Fiction
 1624,Fiction
 1625,Fiction
-1625,Thriller
-1625,Sports
 1625,Art
 1625,Fiction
 1625,Cookbooks
@@ -936,7 +923,6 @@ book_id,tag_name
 1823,Poetry
 1823,History
 1824,Poetry
-1842,Spirituality
 1842,Fiction
 1842,Psychology
 1842,Psychology
@@ -1020,7 +1006,6 @@ book_id,tag_name
 1875,Fiction
 1875,Fiction
 1875,Fiction
-1885,Travel
 1885,Psychology
 1885,Fantasy
 1885,Art
@@ -1052,7 +1037,6 @@ book_id,tag_name
 1911,Fiction
 1911,Fiction
 1934,Business
-1934,Philosophy
 1934,Art
 1934,Manga
 1934,Art
@@ -1079,7 +1063,6 @@ book_id,tag_name
 2049,Psychology
 2049,Fiction
 2049,Fiction
-2050,Thriller
 2050,Psychology
 2050,Poetry
 2050,History
@@ -1102,7 +1085,6 @@ book_id,tag_name
 2054,History
 2054,History
 2054,Fiction
-2067,Romance
 2067,Fiction
 2068,Fiction
 2094,Art
@@ -1315,8 +1297,6 @@ book_id,tag_name
 2657,Art
 2657,Art
 2657,Fiction
-2657,Philosophy
-2657,Philosophy
 2657,Art
 2666,History
 2666,History
@@ -1429,7 +1409,6 @@ book_id,tag_name
 2880,Fiction
 2915,History
 2915,Fiction
-2932,Memoir
 2932,Cookbooks
 2932,Psychology
 2932,Psychology
@@ -1487,7 +1466,6 @@ book_id,tag_name
 3049,Fiction
 3049,Fiction
 3061,History
-3087,Romance
 3087,Fiction
 3087,Fiction
 3087,Fantasy
@@ -1665,7 +1643,6 @@ book_id,tag_name
 3483,Comics
 3483,History
 3483,Fiction
-3507,Contemporary
 3507,History
 3507,History
 3507,Fiction
@@ -1947,7 +1924,6 @@ book_id,tag_name
 3972,Fiction
 3973,History
 3973,Fiction
-3974,Philosophy
 3974,Fiction
 3974,Psychology
 3974,Psychology
@@ -2193,7 +2169,6 @@ book_id,tag_name
 4588,Fantasy
 4588,Cookbooks
 4588,Fiction
-4591,Religion
 4591,Fantasy
 4591,Fiction
 4591,Fiction
@@ -2236,7 +2211,6 @@ book_id,tag_name
 4659,Fiction
 4660,Poetry
 4660,Fiction
-4671,Horror
 4671,Art
 4671,Art
 4687,Fiction
@@ -2362,7 +2336,6 @@ book_id,tag_name
 4934,Poetry
 4934,Poetry
 4948,Art
-4948,Religion
 4948,Fiction
 4948,Fiction
 4948,Fiction
@@ -2497,7 +2470,6 @@ book_id,tag_name
 4989,Fiction
 4989,Fiction
 4989,Fiction
-5015,Ebooks
 5015,Art
 5015,Fiction
 5015,Fiction
@@ -3155,7 +3127,6 @@ book_id,tag_name
 5809,Fiction
 5809,Fiction
 5826,Art
-5826,Suspense
 5826,Art
 5826,Fiction
 5826,Fiction
@@ -3198,7 +3169,6 @@ book_id,tag_name
 5890,Fiction
 5890,Fiction
 5907,Fiction
-5907,Thriller
 5907,Fiction
 5907,Art
 5932,Poetry
@@ -3250,7 +3220,6 @@ book_id,tag_name
 6159,Fiction
 6185,Art
 6185,Art
-6185,Horror
 6185,Comics
 6185,Fiction
 6185,Crime
@@ -3562,7 +3531,6 @@ book_id,tag_name
 6687,History
 6687,Fiction
 6689,Fiction
-6689,Thriller
 6689,Fiction
 6689,Comics
 6689,Comics
@@ -3694,7 +3662,6 @@ book_id,tag_name
 6862,Fiction
 6867,Art
 6867,Fiction
-6867,Philosophy
 6867,Fiction
 6867,Fantasy
 6867,Comics
@@ -3766,7 +3733,6 @@ book_id,tag_name
 7053,Poetry
 7053,Poetry
 7053,History
-7058,Religion
 7058,History
 7058,Fiction
 7061,Art
@@ -3964,7 +3930,6 @@ book_id,tag_name
 7445,Fiction
 7445,Fiction
 7445,Cookbooks
-7455,Paranormal
 7455,Fiction
 7455,Poetry
 7455,Fiction
@@ -4022,7 +3987,6 @@ book_id,tag_name
 7603,Fiction
 7603,Fiction
 7603,Fiction
-7604,Sports
 7604,Art
 7604,Fiction
 7604,Fiction
@@ -4039,7 +4003,6 @@ book_id,tag_name
 7613,Fiction
 7613,Manga
 7624,Christian
-7624,Horror
 7624,Art
 7624,Art
 7624,Fiction
@@ -4232,7 +4195,6 @@ book_id,tag_name
 7805,Psychology
 7805,History
 7805,Fiction
-7815,Romance
 7815,Fiction
 7815,Poetry
 7815,History
@@ -4496,7 +4458,6 @@ book_id,tag_name
 8648,Fiction
 8648,Fiction
 8648,Fiction
-8650,Romance
 8650,Art
 8650,Fiction
 8650,Fiction
@@ -4542,7 +4503,6 @@ book_id,tag_name
 8696,Fiction
 8696,Fiction
 8698,Art
-8698,Contemporary
 8698,Manga
 8698,Fiction
 8698,Fantasy
@@ -4585,7 +4545,6 @@ book_id,tag_name
 8852,Fiction
 8852,Fiction
 8852,Fiction
-8908,Music
 8908,Art
 8908,Art
 8908,Art

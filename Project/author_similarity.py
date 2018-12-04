@@ -17,8 +17,8 @@ tag_clean_file = "../Cleansed/tags.csv";
 tag_file = "../data set/tags.csv";
 book_tag_file = "../data set/book_tags.csv";
 book_tag_clean_file = "../Cleansed/book_tags.csv";
-genres = ["Art", "Biography", "Business", "Chick Lit", "Children's", "Christian", "Classics", "Comics", "Contemporary", "Cookbooks", "Crime", "Ebooks", "Fantasy", "Fiction", "Gay and Lesbian", "Graphic Novels", "Historical Fiction", "History", "Horror", "Humor and Comedy", "Horror", "Manga", "Memoir", "Music", "Mystery", "Nonfiction", "Paranormal", "Philosophy", "Poetry", "Psychology", "Religion", "Romance", "Science", "Science Fiction", "Self Help", "Suspense", "Spirituality", "Sports", "Thriller", "Travel", "Young Adult"];
-auth_cols = ["author", "Art", "Biography", "Business", "Chick Lit", "Children's", "Christian", "Classics", "Comics", "Contemporary", "Cookbooks", "Crime", "Ebooks", "Fantasy", "Fiction", "Gay and Lesbian", "Graphic Novels", "Historical Fiction", "History", "Horror", "Humor and Comedy", "Horror", "Manga", "Memoir", "Music", "Mystery", "Nonfiction", "Paranormal", "Philosophy", "Poetry", "Psychology", "Religion", "Romance", "Science", "Science Fiction", "Self Help", "Suspense", "Spirituality", "Sports", "Thriller", "Travel", "Young Adult" ];
+genres = ["Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "Historical Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
+auth_cols = ["author", "Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "Historical Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
 tag_cols = ["tag_id", "tag_name"];
 book_cols = ["id", "authors"];
 author_gen = "../Cleansed/authors.csv";
@@ -98,16 +98,19 @@ def k_cluster_author():
     # given an author find his k nearest neighbors
     authors = pd.read_csv(author_gen, usecols=auth_cols);
     author_data = [];
+    gen_count = [0]*len(genres);
     clusters = 10;
     for index, row in authors.iterrows():
         gen_data = [0]*len(genres);
         for gen_name in range(0 ,len(genres)):
             gen_data[gen_name] = row[genres[gen_name]];
+            gen_count[gen_name] = gen_count[gen_name] + row[genres[gen_name]]; 
         author_data.append(gen_data);
     author_data = np.array(author_data);
     kmeans = KMeans(n_clusters=clusters, algorithm="elkan")
     kmeans.fit(author_data)
-    #print(kmeans.cluster_centers_)
+    #for ind_i in range(0, len(genres)):
+        #print(genres[ind_i] + " " + str(gen_count[ind_i]));
     y_km = kmeans.fit_predict(author_data);
     plt.figure(figsize=(10,8));
     plt.title("Author Clustering Using KMeans Model", fontdict={'fontsize':20});
