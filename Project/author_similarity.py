@@ -17,6 +17,7 @@ tag_clean_file = "../Cleansed/tags.csv";
 tag_file = "../data set/tags.csv";
 book_tag_file = "../data set/book_tags.csv";
 book_tag_clean_file = "../Cleansed/book_tags.csv";
+book_filtered_tag_clean_file = "../Cleansed/book_filter_tags.csv";
 genres = ["Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "Historical Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
 auth_cols = ["author", "Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "Historical Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
 tag_cols = ["tag_id", "tag_name"];
@@ -58,6 +59,24 @@ def get_all_tags():
         tags.update({row[0] : row[1]});
     return tags;    
 
+
+def remove_duplicates_tags():
+    tags = pd.read_csv(book_tag_clean_file, usecols=["book_id", "tag_name"]);
+    filtered_tags = {};
+    for index, row in tags.iterrows():
+        if str(row[0]) not in filtered_tags:
+            filtered_tags.update({str(row[0]) : [row[1]]});
+        else:
+            if(row[1] not in filtered_tags[str(row[0])]):
+                filtered_tags[str(row[0])].append(row[1]);
+    with open(book_filtered_tag_clean_file, 'w') as file_handler:
+        file_handler.write("{}\n".format("book_id" + ',' + "tag_name"))
+        for item in filtered_tags:
+            for gen in filtered_tags[str(item)]:
+                file_handler.write("{}\n".format(str(item) + "," + gen));  
+
+
+
 def process_authors():
     books = pd.read_csv(book_file, usecols=book_cols);
     authors = {};
@@ -69,8 +88,8 @@ def process_authors():
             col_auth = unidecode(col_auth.strip());
             if(col_auth not in authors):
                 authors.update({col_auth : Author(col_auth)});     
-    print(len(authors));
-    book_tags = pd.read_csv(book_tag_clean_file, usecols=["book_id", "tag_name"]);
+    #print(len(authors));
+    book_tags = pd.read_csv(book_filtered_tag_clean_file, usecols=["book_id", "tag_name"]);
     for index, row in book_tags.iterrows():
         #print(row[0], row[1]);
         if str(row[0]) in book_author:
@@ -110,7 +129,13 @@ def k_cluster_author():
     kmeans = KMeans(n_clusters=clusters, algorithm="elkan")
     kmeans.fit(author_data)
     #for ind_i in range(0, len(genres)):
-        #print(genres[ind_i] + " " + str(gen_count[ind_i]));
+    #    print(genres[ind_i] + " " + str(gen_count[ind_i]));
+    #print(gen_count);
+    plt.figure(figsize=(12,8));
+    plt.xticks(rotation=90)
+    plt.title("Genre Distribution", fontdict={'fontsize':20});
+    plt.tick_params(axis='both', labelsize=16);
+    plt.bar(range(0, len(gen_count)),gen_count, tick_label=genres)
     y_km = kmeans.fit_predict(author_data);
     plt.figure(figsize=(10,8));
     plt.title("Author Clustering Using KMeans Model", fontdict={'fontsize':20});
@@ -156,8 +181,8 @@ class Tag:
 def main():   
     #clean_all_tags();
     #pre_process_book_tag_file();
+    #remove_duplicates_tags();
     #process_authors();
-    k_cluster_author();
-
+    k_cluster_author();    
 if __name__ == '__main__':
     main()       
