@@ -7,17 +7,62 @@ Created on Sun Dec 02 17:42:55 2018
 
 # -*- coding: utf-8 -*-
 
-from os import system
+
 import pandas as pd
 import numpy as np
-from unidecode import unidecode
+from scipy.sparse import csr_matrix
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-from difflib import SequenceMatcher
 
-import csv
-import pandas as pd
+books = pd.read_csv('../Cleansed/Final.csv', sep=',', error_bad_lines=False, encoding="latin-1")
+books.columns = ['id', 'book_id', 'authors', 'original_publication_year', 'original_title', 'language_code',
+                      'average_rating', 'ratings_count', '']
 
+ratings = pd.read_csv('../data set/ratings.csv', sep=',', error_bad_lines=False, encoding="latin-1")
+ratings.columns = ['id', 'user_id', 'rating']
+
+categories = pd.read_csv('../Cleansed/book_tags.csv', sep=',', error_bad_lines=False, encoding="latin-1")
+categories.columns = ['book_id', 'tag_name']
+
+
+combine_book_rating = pd.merge(ratings, books, on='id')
+columns = ['book_id', 'book_id', 'authors', 'language_code', 'original_publication_year', 'average_rating', '']
+
+combine_book_rating = combine_book_rating.drop(columns, axis=1)
+print(combine_book_rating.head())
+
+
+pd.set_option('display.float_format', lambda x: '%.3f' % x)
+print(combine_book_rating['ratings_count'].describe())
+
+print(combine_book_rating['ratings_count'].quantile(np.arange(.8, 1, .01)))
+
+popularity_threshold = 60000
+rating_popular_book = combine_book_rating.query('ratings_count >= @popularity_threshold')
+rating_popular_book.head()
+
+
+rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'original_title'])
+print(rating_popular_book.head())
+rating_popular_book_pivot = rating_popular_book.pivot(index = 'original_title', columns = 'user_id', values = 'rating').fillna(0)
+rating_popular_book_matrix = csr_matrix(rating_popular_book_pivot.values)
+print(rating_popular_book_matrix)
+
+from sklearn.neighbors import NearestNeighbors
+
+model_knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
+model_knn.fit(rating_popular_book_matrix)
+
+query_index = np.random.choice(rating_popular_book_pivot.shape[0])
+distances, indices = model_knn.kneighbors(rating_popular_book_pivot.iloc[query_index, :].reshape(1, -1), n_neighbors = 6)
+
+for i in range(0, len(distances.flatten())):
+    if i == 0:
+        print('Recommendations for {0}:\n'.format(rating_popular_book_pivot.index[query_index]))
+    else:
+        print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
+
+
+'''
 book_info = "../data set/book_info.csv"
 
 book_tag_file = "../data set/book_tags.csv"
@@ -36,7 +81,7 @@ auth_cols = ["author", "Art", "Biography", "Business", "Christian", "Classics", 
 cleaned_tags = []
 
 author_list = []
-'''
+
 def author_name_preprocessing():
     authors = pd.read_csv(book_info, usecols=["authors"])
     for author in authors.iterrows():
@@ -59,67 +104,22 @@ def author_name_preprocessing():
 
 author_name_preprocessing()
 '''
-import pandas as pd
-import numpy as np
-from scipy.sparse import csr_matrix
-import matplotlib.pyplot as plt
 
-books = pd.read_csv('../data set/books.csv', sep=',', error_bad_lines=False, encoding="latin-1")
-books.columns = ['id', 'book_id', 'best_book_id', 'work_id', 'books_count', 'isbn', 'isbn13', 'authors',
-                 'original_publication_year', 'original_title', 'title', 'language_code', 'average_rating',
-                 'ratings_count', 'work_ratings_count', 'work_text_reviews_count', 'ratings_1', 'ratings_2',
-                 'ratings_3', 'ratings_4', 'ratings_5', 'image_url', 'small_image_url']
-users = pd.read_csv('../BX-CSV-Dump/BX-Users.csv', sep=';', error_bad_lines=False, encoding="latin-1")
-users.columns = ['userID', 'Location', 'Age']
-ratings = pd.read_csv('../data set/ratings.csv', sep=',', error_bad_lines=False, encoding="latin-1")
-ratings.columns = ['id', 'user_id', 'rating']
+'''
 
-combine_book_rating = pd.merge(ratings, books, on='id')
-columns = ['book_id', 'best_book_id', 'work_id', 'books_count', 'isbn', 'isbn13', 'authors',
-           'original_publication_year', 'original_title', 'language_code', 'average_rating',
-           'ratings_count', 'work_ratings_count', 'work_text_reviews_count', 'ratings_1', 'ratings_2', 'ratings_3',
-           'ratings_4', 'ratings_5', 'image_url', 'small_image_url']
-combine_book_rating = combine_book_rating.drop(columns, axis=1)
-print(combine_book_rating.head())
+plt.rc("font", size=15)
+categories.tag_name.value_counts(sort=False).plot(kind='bar')
+plt.title('Categories Distribution\n')
+plt.xlabel('Categories')
+plt.ylabel('Count')
+plt.savefig('system1.png', bbox_inches='tight')
+plt.show()
 
-combine_book_rating = combine_book_rating.dropna(axis = 0, subset = ['title'])
-
-book_ratingCount = (combine_book_rating.
-     groupby(by = ['title'])['rating'].
-     count().
-     reset_index().
-     rename(columns = {'rating': 'ratingCount'})
-     [['title', 'ratingCount']]
-    )
-print(book_ratingCount.head())
-
-rating_with_totalRatingCount = combine_book_rating.merge(book_ratingCount, left_on = 'title', right_on = 'title', how = 'left')
-print(rating_with_totalRatingCount.head())
-
-pd.set_option('display.float_format', lambda x: '%.3f' % x)
-print(book_ratingCount['ratingCount'].describe())
-
-print(book_ratingCount['ratingCount'].quantile(np.arange(.95, 1, .001)))
-
-popularity_threshold = 100
-rating_popular_book = rating_with_totalRatingCount.query('ratingCount >= @popularity_threshold')
-rating_popular_book.head()
-
-
-rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'title'])
-rating_popular_book_pivot = rating_popular_book.pivot(index = 'title', columns = 'user_id', values = 'rating').fillna(0)
-rating_popular_book_matrix = csr_matrix(rating_popular_book_pivot.values)
-
-from sklearn.neighbors import NearestNeighbors
-
-model_knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
-model_knn.fit(rating_popular_book_matrix)
-
-query_index = np.random.choice(rating_popular_book_pivot.shape[0])
-distances, indices = model_knn.kneighbors(rating_popular_book_pivot.iloc[query_index, :].reshape(1, -1), n_neighbors = 6)
-
-for i in range(0, len(distances.flatten())):
-    if i == 0:
-        print('Recommendations for {0}:\n'.format(rating_popular_book_pivot.index[query_index]))
-    else:
-        print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
+plt.rc("font", size=15)
+ratings.rating.value_counts(sort=False).plot(kind='bar')
+plt.title('Rating Distribution\n')
+plt.xlabel('Rating')
+plt.ylabel('Count')
+plt.savefig('system1.png', bbox_inches='tight')
+plt.show()
+'''
