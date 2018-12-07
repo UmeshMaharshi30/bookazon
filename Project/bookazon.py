@@ -24,7 +24,6 @@ books_finished_by_user = [];
 def get_previous_authors(userid):
     rating_file = "../data set/ratings.csv";
     user_rating = pd.read_csv(rating_file, usecols=["id", "user_id"]);
-    books_finished_by_user = [];
     for index, row in user_rating.iterrows():
         if(row[1] == userid):
             if row[0] not in books_finished_by_user:
@@ -52,7 +51,7 @@ def start_bookazon():
     userid = input("Please enter userid: ")
     print("Userid  entered " + str(userid));
     print("Fetching previous authors and books read");
-    author = get_previous_authors(32748);
+    author = get_previous_authors(17238);
     print("Finished fetching previous authors and books read");
     print("Author matched : " + author);
     Book_from_author = author_similarity.recommend_books(author);
@@ -72,7 +71,8 @@ def start_bookazon():
     print("Random top books");
     print(random_top_rated_books);
     print("Books recommended from books similarity");
-    book_similarity_giang.book_similarity(secrets.choice(books_finished_by_user));
+    print(books_finished_by_user);
+    #book_similarity_giang.book_similarity(secrets.choice(books_finished_by_user));
     return;
     
 if __name__ == '__main__':

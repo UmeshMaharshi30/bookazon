@@ -13,44 +13,45 @@ import numpy as np
 from scipy.sparse import csr_matrix
 import matplotlib.pyplot as plt
 
-books = pd.read_csv('../Cleansed/Final.csv', sep=',', error_bad_lines=False, encoding="latin-1")
-books.columns = ['id', 'book_id', 'authors', 'original_publication_year', 'original_title', 'language_code',
-                      'average_rating', 'ratings_count', '']
 
-ratings = pd.read_csv('../data set/ratings.csv', sep=',', error_bad_lines=False, encoding="latin-1")
-ratings.columns = ['id', 'user_id', 'rating']
-
-categories = pd.read_csv('../Cleansed/book_tags.csv', sep=',', error_bad_lines=False, encoding="latin-1")
-categories.columns = ['book_id', 'tag_name']
-
-
-combine_book_rating = pd.merge(ratings, books, on='id')
-columns = ['original_title',  'authors', 'language_code', 'original_publication_year', 'average_rating', '']
-
-combine_book_rating = combine_book_rating.drop(columns, axis=1)
-print(combine_book_rating.head())
-
-
-pd.set_option('display.float_format', lambda x: '%.3f' % x)
-print(combine_book_rating['ratings_count'].describe())
-
-print(combine_book_rating['ratings_count'].quantile(np.arange(.8, 1, .01)))
-
-popularity_threshold = 0
-rating_popular_book = combine_book_rating.query('ratings_count >= @popularity_threshold')
-rating_popular_book.head()
-
-
-rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'book_id'])
-print(rating_popular_book.head())
-rating_popular_book_pivot = rating_popular_book.pivot(index = 'book_id', columns = 'user_id', values = 'rating').fillna(0)
-#print(rating_popular_book_pivot.index)
-rating_popular_book_matrix = csr_matrix(rating_popular_book_pivot.values)
-#print(rating_popular_book_matrix)
 
 from sklearn.neighbors import NearestNeighbors
 
 def book_similarity(book_id):
+    books = pd.read_csv('../Cleansed/Final.csv', sep=',', error_bad_lines=False, encoding="latin-1")
+    books.columns = ['id', 'book_id', 'authors', 'original_publication_year', 'original_title', 'language_code',
+                      'average_rating', 'ratings_count', '']
+
+    ratings = pd.read_csv('../data set/ratings.csv', sep=',', error_bad_lines=False, encoding="latin-1")
+    ratings.columns = ['id', 'user_id', 'rating']
+
+    categories = pd.read_csv('../Cleansed/book_tags.csv', sep=',', error_bad_lines=False, encoding="latin-1")
+    categories.columns = ['book_id', 'tag_name']
+
+
+    combine_book_rating = pd.merge(ratings, books, on='id')
+    columns = ['original_title',  'authors', 'language_code', 'original_publication_year', 'average_rating', '']
+
+    combine_book_rating = combine_book_rating.drop(columns, axis=1)
+    print(combine_book_rating.head())
+
+
+    pd.set_option('display.float_format', lambda x: '%.3f' % x)
+    print(combine_book_rating['ratings_count'].describe())
+
+    print(combine_book_rating['ratings_count'].quantile(np.arange(.8, 1, .01)))
+    
+    popularity_threshold = 0
+    rating_popular_book = combine_book_rating.query('ratings_count >= @popularity_threshold')
+    rating_popular_book.head()
+
+
+    rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'book_id'])
+    print(rating_popular_book.head())
+    rating_popular_book_pivot = rating_popular_book.pivot(index = 'book_id', columns = 'user_id', values = 'rating').fillna(0)
+    #print(rating_popular_book_pivot.index)
+    rating_popular_book_matrix = csr_matrix(rating_popular_book_pivot.values)
+    #print(rating_popular_book_matrix)
     model_knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
     model_knn.fit(rating_popular_book_matrix)
 
