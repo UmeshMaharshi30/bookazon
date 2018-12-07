@@ -73,7 +73,7 @@ def book_similarity(book_id):
         else:
             print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
 
-book_similarity(2767052)
+#book_similarity(2767052)
 
 '''
 book_info = "../data set/book_info.csv"

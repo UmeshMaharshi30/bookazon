@@ -26,8 +26,8 @@
       <file leaf-file-name="book_similarity_giang.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/book_similarity_giang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="24" />
+            <state relative-caret-position="386">
+              <caret line="75" column="1" lean-forward="false" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
               <folding>
                 <element signature="e#111#130#0" expanded="true" />
               </folding>
@@ -51,8 +51,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Project/book_similarity.py" />
-        <option value="$PROJECT_DIR$/Project/book_similarity_giang.py" />
         <option value="$PROJECT_DIR$/Project/test.py" />
+        <option value="$PROJECT_DIR$/Project/book_similarity_giang.py" />
       </list>
     </option>
   </component>
@@ -206,8 +206,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/book_similarity_giang.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="24" />
+        <state relative-caret-position="386">
+          <caret line="75" column="1" lean-forward="false" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
           <folding>
             <element signature="e#111#130#0" expanded="true" />
           </folding>
