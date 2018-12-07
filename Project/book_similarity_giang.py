@@ -25,7 +25,7 @@ categories.columns = ['book_id', 'tag_name']
 
 
 combine_book_rating = pd.merge(ratings, books, on='id')
-columns = ['book_id', 'book_id', 'authors', 'language_code', 'original_publication_year', 'average_rating', '']
+columns = ['original_title',  'authors', 'language_code', 'original_publication_year', 'average_rating', '']
 
 combine_book_rating = combine_book_rating.drop(columns, axis=1)
 print(combine_book_rating.head())
@@ -41,38 +41,39 @@ rating_popular_book = combine_book_rating.query('ratings_count >= @popularity_th
 rating_popular_book.head()
 
 
-rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'original_title'])
+rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'book_id'])
 print(rating_popular_book.head())
-rating_popular_book_pivot = rating_popular_book.pivot(index = 'original_title', columns = 'user_id', values = 'rating').fillna(0)
+rating_popular_book_pivot = rating_popular_book.pivot(index = 'book_id', columns = 'user_id', values = 'rating').fillna(0)
 #print(rating_popular_book_pivot.index)
 rating_popular_book_matrix = csr_matrix(rating_popular_book_pivot.values)
 #print(rating_popular_book_matrix)
 
 from sklearn.neighbors import NearestNeighbors
 
-model_knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
-model_knn.fit(rating_popular_book_matrix)
+def book_similarity(book_id):
+    model_knn = NearestNeighbors(metric = 'cosine', algorithm = 'brute')
+    model_knn.fit(rating_popular_book_matrix)
 
-book_name = 'The Hunger Games'
-query_index = 0
-for i in range(len(rating_popular_book_pivot.index)):
-    if rating_popular_book_pivot.index[i].strip() == book_name:
-        query_index = i
-        #print('xxx')
-        #print(query_index)
-        break
+    query_index = 0
+    for i in range(len(rating_popular_book_pivot.index)):
+        if rating_popular_book_pivot.index[i] == book_id:
+            query_index = i
+            #print('xxx')
+            #print(query_index)
+            break
 
 
-distances, indices = model_knn.kneighbors(rating_popular_book_pivot.iloc[query_index, :].reshape(1, -1), n_neighbors = 6)
-#print(distances)
-#print(indices)
+    distances, indices = model_knn.kneighbors(rating_popular_book_pivot.iloc[query_index, :].reshape(1, -1), n_neighbors = 6)
+    #print(distances)
+    #print(indices)
 
-for i in range(0, len(distances.flatten())):
-    if i == 0:
-        print('Recommendations for {0}:\n'.format(rating_popular_book_pivot.index[query_index]))
-    else:
-        print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
+    for i in range(0, len(distances.flatten())):
+        if i == 0:
+            print('Recommendations for {0}:\n'.format(rating_popular_book_pivot.index[query_index]))
+        else:
+            print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
 
+book_similarity(2767052)
 
 '''
 book_info = "../data set/book_info.csv"
