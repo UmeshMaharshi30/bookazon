@@ -11,6 +11,7 @@ import numpy as np
 from unidecode import unidecode
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
+import secrets
 
 book_file = "../data set/books.csv";
 tag_clean_file = "../Cleansed/tags.csv";
@@ -18,12 +19,13 @@ tag_file = "../data set/tags.csv";
 book_tag_file = "../data set/book_tags.csv";
 book_tag_clean_file = "../Cleansed/book_tags.csv";
 book_filtered_tag_clean_file = "../Cleansed/book_filter_tags.csv";
-genres = ["Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "Historical Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
-auth_cols = ["author", "Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "Historical Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
+genres = ["Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
+auth_cols = ["author", "Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
 tag_cols = ["tag_id", "tag_name"];
 book_cols = ["id", "authors"];
 author_gen = "../Cleansed/authors.csv";
 author_class = "../Cleansed/authors_class.csv";
+file_author_book_rating = "../Cleansed/authors_book_rating.csv";
 
 cleaned_tags = [];
 
@@ -160,6 +162,63 @@ def k_cluster_author():
     print(stats_data);
     
     
+def write_author_book_rating_map():
+    books = pd.read_csv(book_file, usecols=["id", "authors", "average_rating"]);
+    print(books.head(5));
+    author_book_rating_map = {};
+    with open(file_author_book_rating, 'w') as file_handler:
+        file_handler.write("{}\n".format("author,bookid,rating"))
+        for index,row in books.iterrows():
+            for col_auth in row[1].split(","):
+                col_auth = unidecode(col_auth.strip());
+                file_handler.write("{}\n".format(col_auth + "," + str(row[0]) + "," + str(row[2])));    
+    
+def get_authors_from_clusters(author_name, k):
+    authors = pd.read_csv(author_class, usecols=["author", "class"]);
+    simil_authors = [];
+    auth_class = -1;
+    class_author_map = {};
+    for index, row in authors.iterrows():
+        if(row[0] ==  author_name):
+            auth_class = row[1];
+        if str(row[1]) not in class_author_map:
+            class_author_map.update({str(row[1]) : [row[1]]});
+        else:
+            if row[0] not in class_author_map[str(row[1])]:
+                class_author_map[str(row[1])].append(row[0]);
+    if auth_class == -1:
+        print("Author not found");
+        return simil_authors;                
+    ind = 0;
+    while ind < k and k < len(class_author_map[str(auth_class)]):
+        aut = secrets.choice(class_author_map[str(auth_class)]);
+        if((aut != author_name) and (aut not in simil_authors)):
+            simil_authors.append(aut);
+            ind += 1
+    return simil_authors;            
+                 
+def recommend_books(author_name):
+    books_recommended = [];
+    sim_auth_count = 5;
+    sim_book_count = 10;
+    similar_authors = get_authors_from_clusters(author_name, sim_auth_count);
+    auth_book_rat_map = pd.read_csv(file_author_book_rating, usecols=["author", "bookid", "rating"]);
+    for index, row in auth_book_rat_map.iterrows():
+        if(row[0] in similar_authors):
+            if(row[2] > 0):
+                books_recommended.append(row[1]);
+    print(books_recommended);
+    if(len(books_recommended) < sim_book_count):
+        return books_recommended;
+    ind = 0;
+    random_books = [];
+    while ind < sim_book_count:
+        temp_book = secrets.choice(books_recommended);
+        if temp_book not in random_books:
+            random_books.append(temp_book);
+            ind += 1;
+    return random_books;            
+    
 class Author:
   def __init__(self,name):
     self.name = name
@@ -183,6 +242,8 @@ def main():
     #pre_process_book_tag_file();
     #remove_duplicates_tags();
     #process_authors();
-    k_cluster_author();    
+    #k_cluster_author(); 
+    recommend_books("Suzanne Collins");
+    
 if __name__ == '__main__':
     main()       
