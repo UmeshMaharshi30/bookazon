@@ -16,6 +16,7 @@ import secrets
 
 import author_similarity
 import User_Similarity
+import book_similarity
 
 top_books = [];
 books_finished_by_user = [];
@@ -47,6 +48,8 @@ def get_author(bookid):
 
 def start_bookazon():
     # get user id 
+    print("Books recommended from books similarity");
+    book_similarity.book_similarity(secrets.choice(books_finished_by_user));
     userid = input("Please enter userid: ")
     print("Userid  entered " + str(userid));
     print("Fetching previous authors and books read");
@@ -70,7 +73,7 @@ def start_bookazon():
     print("Random top books");
     print(random_top_rated_books);
     print("Books recommended from books similarity");
-    
+    book_similarity.book_similarity(secrets.choice(books_finished_by_user));
     return;
     
 if __name__ == '__main__':
