@@ -33,13 +33,13 @@ def book_similarity(book_id):
     columns = ['original_title',  'authors', 'language_code', 'original_publication_year', 'average_rating', '']
 
     combine_book_rating = combine_book_rating.drop(columns, axis=1)
-    print(combine_book_rating.head())
+    #print(combine_book_rating.head())
 
 
     pd.set_option('display.float_format', lambda x: '%.3f' % x)
-    print(combine_book_rating['ratings_count'].describe())
+    #print(combine_book_rating['ratings_count'].describe())
 
-    print(combine_book_rating['ratings_count'].quantile(np.arange(.8, 1, .01)))
+    #print(combine_book_rating['ratings_count'].quantile(np.arange(.8, 1, .01)))
     
     popularity_threshold = 0
     rating_popular_book = combine_book_rating.query('ratings_count >= @popularity_threshold')
@@ -47,7 +47,7 @@ def book_similarity(book_id):
 
 
     rating_popular_book = rating_popular_book.drop_duplicates(['user_id', 'book_id'])
-    print(rating_popular_book.head())
+    #print(rating_popular_book.head())
     rating_popular_book_pivot = rating_popular_book.pivot(index = 'book_id', columns = 'user_id', values = 'rating').fillna(0)
     #print(rating_popular_book_pivot.index)
     rating_popular_book_matrix = csr_matrix(rating_popular_book_pivot.values)
@@ -64,16 +64,15 @@ def book_similarity(book_id):
             break
 
 
-    distances, indices = model_knn.kneighbors(rating_popular_book_pivot.iloc[query_index, :].reshape(1, -1), n_neighbors = 6)
+    distances, indices = model_knn.kneighbors(rating_popular_book_pivot.iloc[query_index, :].values.reshape(1, -1), n_neighbors = 6)
     #print(distances)
     #print(indices)
-
+    books_reco = [];
     for i in range(0, len(distances.flatten())):
-        if i == 0:
-            print('Recommendations for {0}:\n'.format(rating_popular_book_pivot.index[query_index]))
-        else:
-            print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
-
+        if i > 0:
+            books_reco.append(rating_popular_book_pivot.index[indices.flatten()[i]]);
+            #print('{0}: {1}, with distance of {2}:'.format(i, rating_popular_book_pivot.index[indices.flatten()[i]], distances.flatten()[i]))
+    return books_reco;
 #book_similarity(2767052)
 
 '''

@@ -206,7 +206,7 @@ def recommend_books(author_name):
         if(row[0] in similar_authors):
             if(row[2] > 0):
                 books_recommended.append(row[1]);
-    print(books_recommended);
+    #print(books_recommended);
     if(len(books_recommended) < sim_book_count):
         return books_recommended;
     ind = 0;
