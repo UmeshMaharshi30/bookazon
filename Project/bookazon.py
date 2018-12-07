@@ -28,7 +28,9 @@ def get_previous_authors(userid):
         if(row[1] == userid):
             if row[0] not in books_finished_by_user:
                 books_finished_by_user.append(row[0]);
-    print(len(books_finished_by_user));                
+    print(len(books_finished_by_user));
+    if len(books_finished_by_user) == 0:
+        return -1;                
     author = get_author(secrets.choice(books_finished_by_user));
     return author;
     
@@ -59,7 +61,10 @@ def start_bookazon():
     userid = input("Please enter userid: ")
     print("Userid  entered " + str(userid));
     print("Fetching previous authors and books read");
-    author = get_previous_authors(32748);
+    author = get_previous_authors(userid);
+    if author == -1:
+        print("Please enter a different user id. Insufficient data for the specified user");
+        return;
     print("Finished fetching previous authors and books read");
     print("Author matched : " + author);
     print("Starting Author similarity");

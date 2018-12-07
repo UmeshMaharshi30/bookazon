@@ -19,8 +19,8 @@ tag_file = "../data set/tags.csv";
 book_tag_file = "../data set/book_tags.csv";
 book_tag_clean_file = "../Cleansed/book_tags.csv";
 book_filtered_tag_clean_file = "../Cleansed/book_filter_tags.csv";
-genres = ["Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
-auth_cols = ["author", "Art", "Biography", "Business", "Christian", "Classics", "Comics", "Cookbooks", "Crime", "Fantasy", "Fiction", "History", "Manga", "Mystery", "Poetry", "Psychology"];
+genres = ["Art", "Comics", "Cookbooks", "Fantasy", "History", "Poetry", "Psychology"];
+auth_cols = ["author", "Art", "Comics", "Cookbooks", "Fantasy", "History", "Poetry", "Psychology"];
 tag_cols = ["tag_id", "tag_name"];
 book_cols = ["id", "authors"];
 author_gen = "../Cleansed/authors.csv";
@@ -241,8 +241,8 @@ def main():
     #pre_process_book_tag_file();
     #remove_duplicates_tags();
     #process_authors();
-    #k_cluster_author(); 
-    recommend_books("Suzanne Collins");
+    k_cluster_author(); 
+    #recommend_books("Suzanne Collins");
     
 if __name__ == '__main__':
     main()       
