@@ -118,6 +118,7 @@ def start_bookazon():
     print("By ids ...");
     print(ans);
     print("By names ...");
+    print("If book id is more than 10000, we will ignore it");
     books_map = fetch_books_name_map();
     for bookid in ans:
         if str(bookid) in books_map:
