@@ -165,7 +165,6 @@ def k_cluster_author():
 def write_author_book_rating_map():
     books = pd.read_csv(book_file, usecols=["id", "authors", "average_rating"]);
     print(books.head(5));
-    author_book_rating_map = {};
     with open(file_author_book_rating, 'w') as file_handler:
         file_handler.write("{}\n".format("author,bookid,rating"))
         for index,row in books.iterrows():

@@ -84,6 +84,6 @@ def get_topn_books_from_similar_users(ratings_filename, books_filename, n, useri
     top5_books = heapq.nlargest(n, books_read_by_top5, key=books_read_by_top5.get)
     return top5_books
 
-ratings_filename = 'C:/Users/anurag/Desktop/Project572/bookazon/data set/ratings.csv'
-books_filename = 'C:/Users/anurag/Desktop/Project572/bookazon/data set/books.csv'
-print(get_topn_books_from_similar_users(ratings_filename, books_filename, 5, 17329))
+ratings_filename = '../data set/ratings.csv'
+books_filename = '../data set/books.csv'
+#print(get_topn_books_from_similar_users(ratings_filename, books_filename, 5, 17329))
